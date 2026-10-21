@@ -1,0 +1,13 @@
+{
+  "id": "EXP-004",
+  "title": "Predictive structural grammar",
+  "status": "proposed",
+  "inputs": [],
+  "outputs": [],
+  "acceptance": [
+    "frozen source",
+    "independent reproduction",
+    "matched controls",
+    "counterexamples"
+  ]
+}

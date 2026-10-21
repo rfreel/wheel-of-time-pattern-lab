@@ -1,0 +1,13 @@
+{
+  "id": "EXP-002",
+  "title": "POV ensemble",
+  "status": "proposed",
+  "inputs": [],
+  "outputs": [],
+  "acceptance": [
+    "frozen source",
+    "independent reproduction",
+    "matched controls",
+    "counterexamples"
+  ]
+}

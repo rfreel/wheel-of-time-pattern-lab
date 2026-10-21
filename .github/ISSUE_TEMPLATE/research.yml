@@ -1,0 +1,16 @@
+name: Research hypothesis
+description: Propose a falsifiable whole-series research question
+title: "[Research] "
+body:
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hypothesis and falsification
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Inputs, controls, provenance and acceptance
+    validations:
+      required: true

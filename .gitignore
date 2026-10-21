@@ -1,0 +1,15 @@
+*.epub
+*.mobi
+*.azw*
+*.pdf
+*.zip
+*.sqlite
+*.db
+*.parquet
+**/private/**
+**/raw/**
+**/passages/**
+**/*fulltext*
+.env*
+__pycache__/
+*.pyc

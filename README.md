@@ -6,26 +6,28 @@ Reproducible computational research across fifteen *Wheel of Time* novels. Indep
 
 ## Research
 
-- [R01](research/questions.yaml): Recurring architecture
-- [R02](research/questions.yaml): Cast expansion
-- [R03](research/questions.yaml): Long-range echoes
-- [R04](research/questions.yaml): Plot-thread convergence
-- [R05](research/questions.yaml): Predictable transitions
-- [R06](research/questions.yaml): Structural returns
-- [R07](research/questions.yaml): Geography and movement
-- [R08](research/questions.yaml): Bridge characters
-- [R09](research/questions.yaml): Author-era changes
-- [R10](research/questions.yaml): Predictive grammar
+- [R01](research/questions.yaml): **Recurring architecture**. Do structural motifs recur across books?
+- [R02](research/questions.yaml): **Cast expansion**. How do POV concentration and cast size change?
+- [R03](research/questions.yaml): **Long-range echoes**. How far apart are exact and approximate echoes?
+- [R04](research/questions.yaml): **Plot-thread convergence**. When do independent plot threads converge?
+- [R05](research/questions.yaml): **Predictable transitions**. Can earlier features predict later transitions?
+- [R06](research/questions.yaml): **Structural returns**. Do later scenes repeat earlier configurations?
+- [R07](research/questions.yaml): **Geography and movement**. Does travel constrain narrative scheduling?
+- [R08](research/questions.yaml): **Bridge characters**. Who connects otherwise separate plot threads?
+- [R09](research/questions.yaml): **Author-era changes**. What changes survive position and genre controls?
+- [R10](research/questions.yaml): **Predictive grammar**. Can a compact grammar predict withheld chapters?
 
 ## Research discipline
 
-- Freeze source hashes, denominators, independent checks, counterexamples and limitations.
-- Coappearance is not interaction; temporal order is not causation.
-- Do not commit EPUBs, novel prose, or reconstructable token sequences.
-- Prior five-repair research run remains **INCOMPLETE**, unchanged.
+- Every result needs frozen source hashes, denominators, independent checks, counterexamples and explicit limitations.
+- Execution is not validation. Coappearance is not interaction; temporal order is not causation.
+- Public files contain no EPUBs, novel prose, or reconstructable token sequences.
+- Prior five-repair research run remains **INCOMPLETE**, without retroactive modification.
 
 ## Verify
 
 `python scripts/check.py` and `python -m unittest discover -s tests -v`
 
-MIT license applies to original code only. Source texts and third-party data have separate rights.
+## License
+
+MIT for code only; source texts and third-party data have separate rights.

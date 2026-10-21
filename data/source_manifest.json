@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "status": "REFERENCES_ONLY_NOT_IMPORTED",
+  "sources": [
+    {
+      "name": "WOT_Article_Core_v1.zip",
+      "reported_sha256": "990e459ed6670d16b91005b82fedc6b3791813497c32b39255c94438968ad363",
+      "imported": false
+    },
+    {
+      "name": "WOT_Article_Continuity_v1.zip",
+      "reported_sha256": "9f8a9d23103774fa71ece77525d1325553843ee138c91302b61b2a89cb35d6c5",
+      "imported": false
+    },
+    {
+      "name": "WOT_Completion_Pass5_Atlas_v1.zip",
+      "imported": false,
+      "historical_status": "INCOMPLETE"
+    }
+  ]
+}

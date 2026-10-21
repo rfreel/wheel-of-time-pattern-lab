@@ -1,0 +1,42 @@
+version: 1
+questions:
+  - id: R01
+    title: "Recurring architecture"
+    question: "Do structural motifs recur across books?"
+    status: proposed
+  - id: R02
+    title: "Cast expansion"
+    question: "How do POV concentration and cast size change?"
+    status: proposed
+  - id: R03
+    title: "Long-range echoes"
+    question: "How far apart are exact and approximate echoes?"
+    status: proposed
+  - id: R04
+    title: "Plot-thread convergence"
+    question: "When do independent plot threads converge?"
+    status: proposed
+  - id: R05
+    title: "Predictable transitions"
+    question: "Can earlier features predict later transitions?"
+    status: proposed
+  - id: R06
+    title: "Structural returns"
+    question: "Do later scenes repeat earlier configurations?"
+    status: proposed
+  - id: R07
+    title: "Geography and movement"
+    question: "Does travel constrain narrative scheduling?"
+    status: proposed
+  - id: R08
+    title: "Bridge characters"
+    question: "Who connects otherwise separate plot threads?"
+    status: proposed
+  - id: R09
+    title: "Author-era changes"
+    question: "What changes survive position and genre controls?"
+    status: proposed
+  - id: R10
+    title: "Predictive grammar"
+    question: "Can a compact grammar predict withheld chapters?"
+    status: proposed

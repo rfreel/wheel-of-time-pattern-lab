@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Cite the repository and versioned experiment."
+title: "The Pattern Lab"
+type: software
+version: 0.1.0
+license: MIT
