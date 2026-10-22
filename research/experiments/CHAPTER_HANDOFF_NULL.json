@@ -1,0 +1,135 @@
+{
+  "method": "within-book chapter-block shuffling, preserving within-chapter POV order",
+  "seed": 20261021,
+  "permutations": 10000,
+  "excluded_labels": [
+    "Narrator",
+    "Quote",
+    "Seanchan Rider"
+  ],
+  "book_results": [
+    {
+      "book": 1,
+      "chapters_with_pov": 54,
+      "observed_same_pov_chapter_handoffs": 40,
+      "null_mean": 33.6001,
+      "p_one_sided_more": 0.0020997900209979003,
+      "p_one_sided_less": 0.9993000699930007
+    },
+    {
+      "book": 2,
+      "chapters_with_pov": 50,
+      "observed_same_pov_chapter_handoffs": 16,
+      "null_mean": 15.2745,
+      "p_one_sided_more": 0.4497550244975502,
+      "p_one_sided_less": 0.7206279372062794
+    },
+    {
+      "book": 3,
+      "chapters_with_pov": 57,
+      "observed_same_pov_chapter_handoffs": 32,
+      "null_mean": 13.9965,
+      "p_one_sided_more": 0.00009999000099990002,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 4,
+      "chapters_with_pov": 58,
+      "observed_same_pov_chapter_handoffs": 17,
+      "null_mean": 9.0344,
+      "p_one_sided_more": 0.0036996300369963003,
+      "p_one_sided_less": 0.9985001499850015
+    },
+    {
+      "book": 5,
+      "chapters_with_pov": 57,
+      "observed_same_pov_chapter_handoffs": 20,
+      "null_mean": 9.5045,
+      "p_one_sided_more": 0.00019998000199980003,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 6,
+      "chapters_with_pov": 57,
+      "observed_same_pov_chapter_handoffs": 16,
+      "null_mean": 7.2477,
+      "p_one_sided_more": 0.0004999500049995,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 7,
+      "chapters_with_pov": 42,
+      "observed_same_pov_chapter_handoffs": 15,
+      "null_mean": 3.3754,
+      "p_one_sided_more": 0.00009999000099990002,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 8,
+      "chapters_with_pov": 31,
+      "observed_same_pov_chapter_handoffs": 10,
+      "null_mean": 2.5458,
+      "p_one_sided_more": 0.00009999000099990002,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 9,
+      "chapters_with_pov": 36,
+      "observed_same_pov_chapter_handoffs": 15,
+      "null_mean": 3.9173,
+      "p_one_sided_more": 0.00009999000099990002,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 10,
+      "chapters_with_pov": 32,
+      "observed_same_pov_chapter_handoffs": 15,
+      "null_mean": 3.3793,
+      "p_one_sided_more": 0.00009999000099990002,
+      "p_one_sided_less": 1
+    },
+    {
+      "book": 11,
+      "chapters_with_pov": 39,
+      "observed_same_pov_chapter_handoffs": 10,
+      "null_mean": 3.3114,
+      "p_one_sided_more": 0.0005999400059994001,
+      "p_one_sided_less": 0.9998000199980002
+    },
+    {
+      "book": 12,
+      "chapters_with_pov": 52,
+      "observed_same_pov_chapter_handoffs": 5,
+      "null_mean": 4.4358,
+      "p_one_sided_more": 0.45865413458654136,
+      "p_one_sided_less": 0.7258274172582742
+    },
+    {
+      "book": 13,
+      "chapters_with_pov": 59,
+      "observed_same_pov_chapter_handoffs": 4,
+      "null_mean": 4.2173,
+      "p_one_sided_more": 0.6206379362063794,
+      "p_one_sided_less": 0.5821417858214178
+    },
+    {
+      "book": 14,
+      "chapters_with_pov": 51,
+      "observed_same_pov_chapter_handoffs": 1,
+      "null_mean": 3.3153,
+      "p_one_sided_more": 0.9711028897110289,
+      "p_one_sided_less": 0.14128587141285873
+    }
+  ],
+  "era_contrast": {
+    "early_books": "1..11",
+    "late_books": "12..14",
+    "observed_early_handoffs": 206,
+    "possible_early": 502,
+    "observed_late_handoffs": 10,
+    "possible_late": 159,
+    "rate_difference": 0.34746548397604554,
+    "null_mean": 0.13426270139567517,
+    "p_one_sided_early_more": 0.00009999000099990002
+  }
+}
