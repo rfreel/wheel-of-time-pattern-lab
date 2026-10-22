@@ -20,7 +20,7 @@
 
 Logistic features: log historical chapter count, log gap, recent-5 and recent-20 rates, current-chapter POV indicator, log elapsed chapter index. StandardScaler + LogisticRegression(C=1,max_iter=500), fitted only on training books. Historical frequency baseline uses past-only Laplace smoothing.
 
-Chapter-block bootstrap (1,000, seed 20261021): logistic minus constant Brier 95% interval **[-0.002256, -0.001324]**; logistic minus past-frequency interval **[-0.000583, +0.000123]**, **includes zero**. The logistic model loses on Brier to the frequency baseline in **two of four held-out books**. A within-chapter shuffled-label control increases logistic Brier to **0.018042**.
+Chapter-block bootstrap (1,000, seed 20261021): logistic minus constant Brier 95% interval **[-0.002256, -0.001324]**; logistic minus past-frequency interval **[-0.000583, +0.000123]**, **includes zero**. The logistic model loses on Brier to the frequency baseline in **two of four held-out books**. The constant model assigns identical scores to all candidates, so its zero top-three hit rate is an alphabetical tie-breaking artifact, not a meaningful ranking baseline. A within-chapter shuffled-label control increases logistic Brier to **0.018042**.
 
 ## Scientific interpretation and limitations
 
@@ -28,7 +28,7 @@ The sequence of prior viewpoints contains predictive signal about later viewpoin
 
 ## Reproducible private/public-safe package
 
-The separate, text-free archive `WOT_Long_Memory_Feasibility_v1.zip` (SHA-256 `0f15626b6b9a480ca8218c7f7a8a061bef255241bda1f24bf38bc50d6ea22375`) contains the executable code, input CSVs, all model results, exact-echo candidate source locators, independent structural checks, preregistration, annotation protocol, and residuals. The archive was clean-extracted; rerunning the model produced identical JSON; a deliberately altered file was rejected by its integrity checker. The archive has not been uploaded to this repository. No copyrighted novel prose is included.
+The separate, text-free archive `WOT_Long_Memory_Feasibility_v1.zip` (SHA-256 `26916a876a1e6996d79be72b92fca8f1924ae143f8324f6564f8c26b5d6b2741`) contains the executable code, input CSVs, all model results, exact-echo candidate source locators, independent structural checks, preregistration, annotation protocol, and residuals. The archive was clean-extracted; rerunning the model produced identical JSON; a deliberately altered file was rejected by its integrity checker. The archive has not been uploaded to this repository. No copyrighted novel prose is included.
 
 ## Required evidence before a publishable cognitive claim
 
