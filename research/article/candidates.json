@@ -1,0 +1,845 @@
+{
+  "scope": "Article numerical candidates, not universal literary measures.",
+  "claims": [
+    {
+      "claim_id": "AC01",
+      "family": "chapter_length",
+      "candidate_headline": "One included chapter occupies more than one fifth of A Memory of Light.",
+      "numeric_values": {
+        "chapter_word_tokens": 78393,
+        "book_word_tokens": 353730,
+        "share_of_book_percent": 22.161818336018996,
+        "all_chapter_median_words": 5716.0,
+        "multiple_of_all_chapter_median": 13.714660601819455,
+        "share_of_New_Spring_words_percent": 64.32932333295038,
+        "next_longest_included_unit_words": 36637
+      },
+      "source_chapter_ids": [
+        "b14:c37",
+        "b11:cPrologue"
+      ],
+      "source_offsets": [
+        {
+          "book": "14",
+          "chapter_id": "b14:c37",
+          "document_id": "b14:s046",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0045.xhtml",
+          "document_sha256": "ff495903544eb60759012e229b364dc5ba364b0a2f71851f1c4274add84e982e",
+          "first_passage_id": "d5ce1d6386d562163870c43d967dd5f3f9ce15e074f50b5be302035d88efc356",
+          "last_passage_id": "23d32ebaeeb8c371c142fa8eaa7c96c990d7d4e92806957afb35ae9c7eb6ada1",
+          "first_source_byte_start": "717",
+          "last_source_byte_end": "549206",
+          "passages": "2630",
+          "word_tokens": "78393"
+        },
+        {
+          "book": "11",
+          "chapter_id": "b11:cPrologue",
+          "document_id": "b11:s011",
+          "epub_member": "EPUB/11. Knife of Dreams.epub",
+          "source_path": "OEBPS/Text/part0010.xhtml",
+          "document_sha256": "f53569e6d60a877cdc03a02cda9d4d92b580aed38c4de54f3fa5ee6fb4688186",
+          "first_passage_id": "01c531369724e05c595afa38886e4da6273f46139d26599c58b7684738329a86",
+          "last_passage_id": "0278436a05311e31baf7d67a28ec6de748efb74fae43248b0d1de34dd9a3f646",
+          "first_source_byte_start": "678",
+          "last_source_byte_end": "232882",
+          "passages": "494",
+          "word_tokens": "36637"
+        }
+      ],
+      "evidence_rows": [
+        "chapter_metadata:chapter_id=b14:c37",
+        "book_metadata:book=14",
+        "chapter_metadata:all 704 rows"
+      ],
+      "counterexample": "The next-longest included unit is a prologue, so a ranking limited to numbered chapters is a different comparison.",
+      "confounds": "Word counts measure textual allocation, not reading time, action density or merit. Included prologues/epilogues affect the median; edition-specific headings and previews are excluded.",
+      "method": "Exact counts and ratios.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC02",
+      "family": "chapter_length",
+      "candidate_headline": "Crossroads of Twilight has the largest prologue share in the included novels.",
+      "numeric_values": {
+        "prologue_words": 32627,
+        "book_words": 264692,
+        "share_percent": 12.326402006860805,
+        "included_prologues": 13,
+        "Knife_of_Dreams_prologue_share_percent": 11.663154275672818,
+        "EotW_prologue_share_percent": 0.871419053964024
+      },
+      "source_chapter_ids": [
+        "b10:cPrologue",
+        "b11:cPrologue",
+        "b01:cPrologue"
+      ],
+      "source_offsets": [
+        {
+          "book": "10",
+          "chapter_id": "b10:cPrologue",
+          "document_id": "b10:s011",
+          "epub_member": "EPUB/10. Crossroads of Twilight.epub",
+          "source_path": "OEBPS/Text/part0010.xhtml",
+          "document_sha256": "43d594f485bf3b9cdf9f866485aacd2cc12e96af8429ddc556a2ea4886603a62",
+          "first_passage_id": "5408f5b857cf7d26eaf98a98dfdd6153b651b46727c0f42cb4410b04fc722a47",
+          "last_passage_id": "18a3a755efdb4a92b98f26084df034b319bdc2ed385491db52cdef7804d93694",
+          "first_source_byte_start": "733",
+          "last_source_byte_end": "200716",
+          "passages": "348",
+          "word_tokens": "32627"
+        },
+        {
+          "book": "11",
+          "chapter_id": "b11:cPrologue",
+          "document_id": "b11:s011",
+          "epub_member": "EPUB/11. Knife of Dreams.epub",
+          "source_path": "OEBPS/Text/part0010.xhtml",
+          "document_sha256": "f53569e6d60a877cdc03a02cda9d4d92b580aed38c4de54f3fa5ee6fb4688186",
+          "first_passage_id": "01c531369724e05c595afa38886e4da6273f46139d26599c58b7684738329a86",
+          "last_passage_id": "0278436a05311e31baf7d67a28ec6de748efb74fae43248b0d1de34dd9a3f646",
+          "first_source_byte_start": "678",
+          "last_source_byte_end": "232882",
+          "passages": "494",
+          "word_tokens": "36637"
+        },
+        {
+          "book": "1",
+          "chapter_id": "b01:cPrologue",
+          "document_id": "b01:s007",
+          "epub_member": "EPUB/01. The Eye of the World.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "document_sha256": "edbd2192c0fbc4d396d0fd4126a363989d8ce44ab72410fe091eccf9eb6c389c",
+          "first_passage_id": "e1d0f7b3ca807ec077712bd39cb65f0b23b08bef47ec9ed788261c211181fc0f",
+          "last_passage_id": "80fcf389147d2649300b28846c75a790695e688b46e6bf4bc9243628c916d44b",
+          "first_source_byte_start": "767",
+          "last_source_byte_end": "17382",
+          "passages": "41",
+          "word_tokens": "2616"
+        }
+      ],
+      "evidence_rows": [
+        "chapter_metadata:chapter_key=Prologue",
+        "book_metadata:books=1,10,11"
+      ],
+      "counterexample": "Knife of Dreams has a longer prologue in absolute words, but a lower share of its longer novel.",
+      "confounds": "The additional Ravens prologue is absent from the supplied edition; this is available-edition coverage, not a claim about every publication. A prologue can contain multiple viewpoints.",
+      "method": "Compare each included prologue count with its own novel denominator.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC03",
+      "family": "keyness_and_dispersion",
+      "candidate_headline": "The token accepted is overrepresented but unevenly distributed in New Spring.",
+      "numeric_values": {
+        "accepted_count": 159,
+        "accepted_reference_count": 731,
+        "accepted_G2_natural_log": 343.468001165755,
+        "accepted_rate_per_million": 1304.7545584349512,
+        "accepted_reference_rate_per_million": 172.66930686146725,
+        "accepted_DP": 0.4525823570511608,
+        "accepted_chapters_present": 17,
+        "accepted_chapters_total": 27,
+        "novices_count": 59,
+        "novices_reference_count": 525,
+        "novices_G2_natural_log": 69.48702874587109,
+        "novices_rate_per_million": 484.1542072180007,
+        "novices_reference_rate_per_million": 124.01010410707292,
+        "novices_DP": 0.5534156585568171,
+        "novices_chapters_present": 13,
+        "novices_chapters_total": 27,
+        "focal_tokens": 121862,
+        "reference_tokens": 4233526
+      },
+      "source_chapter_ids": [
+        "b00:c2",
+        "b00:c3"
+      ],
+      "source_offsets": [
+        {
+          "book": "0",
+          "chapter_id": "b00:c2",
+          "document_id": "b00:s006",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0005.xhtml",
+          "document_sha256": "f6a77cb1609ca0db64dbad02583ec1738dc301336265b97fe61273415157ece4",
+          "first_passage_id": "18db6fa0f71d9c49831afd97bdd363274dca6a5f30832c5bf162dc94804d3907",
+          "last_passage_id": "5d4250f85a37e0868c613b86d329127d5bd174238fa7d78bbacd834b11924db8",
+          "first_source_byte_start": "953",
+          "last_source_byte_end": "32147",
+          "passages": "51",
+          "word_tokens": "4951"
+        },
+        {
+          "book": "0",
+          "chapter_id": "b00:c3",
+          "document_id": "b00:s007",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "document_sha256": "f531cc63337129f17800cecaf3f349e5502210785251811a6276a8f626ed98a9",
+          "first_passage_id": "5094aee288464424bb969e29c1481f3fd5c30e00f801165541aff7ca2798deb8",
+          "last_passage_id": "41c4e02df9ea7d620fc6c90333bb449653608355f00943fe0a65582b13e01c8f",
+          "first_source_byte_start": "945",
+          "last_source_byte_end": "56699",
+          "passages": "100",
+          "word_tokens": "8710"
+        }
+      ],
+      "evidence_rows": [
+        "keyness_v2:book=0,token=accepted|novices",
+        "lexical_dispersion:book=0,token=accepted|novices"
+      ],
+      "counterexample": "The related token novices has a different frequency and greater DP concentration, so a single institutional word is not a full thematic signature.",
+      "confounds": "Lowercasing merges a capitalized rank with the ordinary verb. No sense disambiguation or stopword removal. G2 is descriptive, not proof of theme or a valid independent-token significance test.",
+      "method": "Leave-one-novel-out unsmoothed G2; occurrences per million; DP over length-weighted chapters.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [
+        {
+          "evidence_id": "term:0:accepted:b00:c2",
+          "book": 0,
+          "token": "accepted",
+          "chapter_id": "b00:c2",
+          "chapter_token_count": 18,
+          "passage_id": "18db6fa0f71d9c49831afd97bdd363274dca6a5f30832c5bf162dc94804d3907",
+          "document_id": "b00:s006",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0005.xhtml",
+          "source_byte_ranges": "[[953,1015],[1015,1022],[1022,1217],[1217,1224],[1224,1679],[1679,1686],[1686,2274],[2274,2281],[2281,2431],[2431,2438],[2438,2840]]",
+          "normalized_char_start": 1526,
+          "normalized_char_end": 1534,
+          "normalized_text_sha256": "f5a1bb3f08dd62ee50c1e3cd33e36b8f72a76c1e7835e7dc625a25c5ca63c477"
+        },
+        {
+          "evidence_id": "term:0:accepted:b00:c3",
+          "book": 0,
+          "token": "accepted",
+          "chapter_id": "b00:c3",
+          "chapter_token_count": 37,
+          "passage_id": "5094aee288464424bb969e29c1481f3fd5c30e00f801165541aff7ca2798deb8",
+          "document_id": "b00:s007",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "source_byte_ranges": "[[945,982],[982,989],[989,1759]]",
+          "normalized_char_start": 404,
+          "normalized_char_end": 412,
+          "normalized_text_sha256": "eb7ba13dd2abad68bc42c434f1f3955376a729797a4e5c880b96b326ebb24874"
+        },
+        {
+          "evidence_id": "term:0:novices:b00:c2",
+          "book": 0,
+          "token": "novices",
+          "chapter_id": "b00:c2",
+          "chapter_token_count": 12,
+          "passage_id": "57cc03a5c1a79e949957964a33ddf81ddc5234b1331245f7068467978045386f",
+          "document_id": "b00:s006",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0005.xhtml",
+          "source_byte_ranges": "[[2887,3149],[3170,3175],[3182,3556]]",
+          "normalized_char_start": 569,
+          "normalized_char_end": 576,
+          "normalized_text_sha256": "ed557db87eb2f0afdb4b8751558f323decf56856fc336ae27a68c0ef8df8ad49"
+        },
+        {
+          "evidence_id": "term:0:novices:b00:c3",
+          "book": 0,
+          "token": "novices",
+          "chapter_id": "b00:c3",
+          "chapter_token_count": 15,
+          "passage_id": "5094aee288464424bb969e29c1481f3fd5c30e00f801165541aff7ca2798deb8",
+          "document_id": "b00:s007",
+          "epub_member": "EPUB/00. New Spring.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "source_byte_ranges": "[[945,982],[982,989],[989,1759]]",
+          "normalized_char_start": 325,
+          "normalized_char_end": 332,
+          "normalized_text_sha256": "eb7ba13dd2abad68bc42c434f1f3955376a729797a4e5c880b96b326ebb24874"
+        }
+      ],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC04",
+      "family": "keyness_and_dispersion",
+      "candidate_headline": "Similar token totals in A Memory of Light conceal markedly different chapter spread.",
+      "numeric_values": {
+        "battle_count": 516,
+        "battle_reference_count": 1055,
+        "battle_G2_natural_log": 781.0368088832632,
+        "battle_rate_per_million": 1458.7397167331017,
+        "battle_reference_rate_per_million": 263.6407209211782,
+        "battle_DP": 0.2262502473638085,
+        "battle_chapters_present": 48,
+        "battle_chapters_total": 51,
+        "androl_count": 468,
+        "androl_reference_count": 110,
+        "androl_G2_natural_log": 1806.5398921164087,
+        "androl_rate_per_million": 1323.042998897464,
+        "androl_reference_rate_per_million": 27.488605972824264,
+        "androl_DP": 0.5638961920108557,
+        "androl_chapters_present": 15,
+        "androl_chapters_total": 51
+      },
+      "source_chapter_ids": [
+        "b14:cPrologue",
+        "b14:c37"
+      ],
+      "source_offsets": [
+        {
+          "book": "14",
+          "chapter_id": "b14:cPrologue",
+          "document_id": "b14:s008",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0007.xhtml",
+          "document_sha256": "55c1df66f3e69838c9edb45674781d2ea6581a934b3e1c15a11a09e54ddc1bcf",
+          "first_passage_id": "f6d03a03ab687fc3e0a002107918024558f19bca7a3aedc13033ed74ea689850",
+          "last_passage_id": "d9ff7d3ff842502af614fa248ea1511ee1e2767a94fcc4f3c7e9ef53796343c7",
+          "first_source_byte_start": "681",
+          "last_source_byte_end": "175570",
+          "passages": "784",
+          "word_tokens": "24782"
+        },
+        {
+          "book": "14",
+          "chapter_id": "b14:c37",
+          "document_id": "b14:s046",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0045.xhtml",
+          "document_sha256": "ff495903544eb60759012e229b364dc5ba364b0a2f71851f1c4274add84e982e",
+          "first_passage_id": "d5ce1d6386d562163870c43d967dd5f3f9ce15e074f50b5be302035d88efc356",
+          "last_passage_id": "23d32ebaeeb8c371c142fa8eaa7c96c990d7d4e92806957afb35ae9c7eb6ada1",
+          "first_source_byte_start": "717",
+          "last_source_byte_end": "549206",
+          "passages": "2630",
+          "word_tokens": "78393"
+        }
+      ],
+      "evidence_rows": [
+        "keyness_v2:book=14,token=battle|androl",
+        "lexical_dispersion:book=14,token=battle|androl"
+      ],
+      "counterexample": "Androl has the larger G2 score but occurs in far fewer chapters than battle; keyness and spread answer different questions.",
+      "confounds": "One token is a proper name and the other a common noun. Counts are mentions, not character presence or explicit fighting. Chapter lengths vary sharply.",
+      "method": "Compare source counts, leave-one-novel-out G2 and dense half-L1 dispersion.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [
+        {
+          "evidence_id": "term:14:androl:b14:cPrologue",
+          "book": 14,
+          "token": "androl",
+          "chapter_id": "b14:cPrologue",
+          "chapter_token_count": 40,
+          "passage_id": "5b471f26a5a440541309ccafbbbdbf0b2a709ac0c2e85e13f17eb974e964b863",
+          "document_id": "b14:s008",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0007.xhtml",
+          "source_byte_ranges": "[[109864,109872],[109872,109890],[109890,109898],[109898,110105],[110105,110113],[110113,110121]]",
+          "normalized_char_start": 21,
+          "normalized_char_end": 27,
+          "normalized_text_sha256": "2ac78baea5bed3f9a7fd6612765cdef9d5103a28a99f66adba38c1ec5993226d"
+        },
+        {
+          "evidence_id": "term:14:androl:b14:c37",
+          "book": 14,
+          "token": "androl",
+          "chapter_id": "b14:c37",
+          "chapter_token_count": 103,
+          "passage_id": "d9ec9524e62b4e01061646bf4f9870102eb4a41666479438b8116442713ce7e5",
+          "document_id": "b14:s046",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0045.xhtml",
+          "source_byte_ranges": "[[34319,34327],[34327,34334],[34334,34342],[34342,34356]]",
+          "normalized_char_start": 10,
+          "normalized_char_end": 16,
+          "normalized_text_sha256": "9a6bd07b1d97490d2251843c044b25b432c2e0b9267ef0945567101a3db318e4"
+        },
+        {
+          "evidence_id": "term:14:battle:b14:cPrologue",
+          "book": 14,
+          "token": "battle",
+          "chapter_id": "b14:cPrologue",
+          "chapter_token_count": 12,
+          "passage_id": "0a9793a87891afce1923222d649c39a492665543b757391683290afc8d7b13bb",
+          "document_id": "b14:s008",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0007.xhtml",
+          "source_byte_ranges": "[[5715,5723],[5723,5733],[5733,5741],[5741,5756],[5756,5764],[5764,5790],[5790,5798],[5798,5864],[5864,5872],[5872,5973]]",
+          "normalized_char_start": 108,
+          "normalized_char_end": 114,
+          "normalized_text_sha256": "9007256d49989bc6b3e56c4a82bc60684e2872f02ca42f594d3c29e616cf2922"
+        },
+        {
+          "evidence_id": "term:14:battle:b14:c37",
+          "book": 14,
+          "token": "battle",
+          "chapter_id": "b14:c37",
+          "chapter_token_count": 159,
+          "passage_id": "d5ce1d6386d562163870c43d967dd5f3f9ce15e074f50b5be302035d88efc356",
+          "document_id": "b14:s046",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0045.xhtml",
+          "source_byte_ranges": "[[717,1011]]",
+          "normalized_char_start": 186,
+          "normalized_char_end": 192,
+          "normalized_text_sha256": "722c9e353b4d1fc3df0b284bac43f33e136e16c5b780ed6dc1be3eda20b40611"
+        }
+      ],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC05",
+      "family": "adjacent_JS",
+      "candidate_headline": "The largest adjacent lexical divergence borders a very short epilogue.",
+      "numeric_values": {
+        "maximum_JS_bits": 0.5868763243176917,
+        "left_words": 10885,
+        "right_words": 327,
+        "minimum_both_chapter_words_filter": 2000,
+        "eligible_pairs_after_filter": 665,
+        "filtered_maximum_JS_bits": 0.3950996019734672,
+        "filtered_left_words": 2667,
+        "filtered_right_words": 2368
+      },
+      "source_chapter_ids": [
+        "b10:c30",
+        "b10:cEpilogue",
+        "b12:c48",
+        "b12:c49"
+      ],
+      "source_offsets": [
+        {
+          "book": "10",
+          "chapter_id": "b10:c30",
+          "document_id": "b10:s041",
+          "epub_member": "EPUB/10. Crossroads of Twilight.epub",
+          "source_path": "OEBPS/Text/part0040.xhtml",
+          "document_sha256": "1b03ea7f4e341e8f4f4cfb4087e80f909b1dc0fdfa21e13c79d5719c4f9e4dac",
+          "first_passage_id": "2f427d56038ac5790f5e9e1bd13bd75eeefececed2562f55939158fffe233759",
+          "last_passage_id": "3e3db8e2dcf6596d7dc10b8fbc5b8ee85c259d49c19d66c902c0fa4d962cac66",
+          "first_source_byte_start": "712",
+          "last_source_byte_end": "69566",
+          "passages": "156",
+          "word_tokens": "10885"
+        },
+        {
+          "book": "10",
+          "chapter_id": "b10:cEpilogue",
+          "document_id": "b10:s042",
+          "epub_member": "EPUB/10. Crossroads of Twilight.epub",
+          "source_path": "OEBPS/Text/part0041.xhtml",
+          "document_sha256": "0b655b17511f9bf1c1952c285c16c7ed54aed4323ac13df7b73a0478a262039d",
+          "first_passage_id": "c80d8c5bee04655afbdb1a78a3dd21cf4f8abc3089cf6ba893170fddce4f0072",
+          "last_passage_id": "18ba743a2c0729a225952de1937e7bd29cf466ccfbf24efe2e268a547c229b7e",
+          "first_source_byte_start": "709",
+          "last_source_byte_end": "3320",
+          "passages": "12",
+          "word_tokens": "327"
+        },
+        {
+          "book": "12",
+          "chapter_id": "b12:c48",
+          "document_id": "b12:s061",
+          "epub_member": "EPUB/12. The Gathering Storm.epub",
+          "source_path": "OEBPS/Text/part0060.xhtml",
+          "document_sha256": "775b1871379cd20134271cca0bf091983dcb27853ac8a093ac7d08842ffc60c8",
+          "first_passage_id": "021f9453f2b08907f8727f61406a75103b4214fc8612bdc34d4d4d58a9aae92e",
+          "last_passage_id": "f0ec55c887be68f3acff59cc872e9b23c0c120ab3fda7f2db79559cc5ebe21d1",
+          "first_source_byte_start": "682",
+          "last_source_byte_end": "20141",
+          "passages": "88",
+          "word_tokens": "2667"
+        },
+        {
+          "book": "12",
+          "chapter_id": "b12:c49",
+          "document_id": "b12:s062",
+          "epub_member": "EPUB/12. The Gathering Storm.epub",
+          "source_path": "OEBPS/Text/part0061.xhtml",
+          "document_sha256": "3fdd82d8459adb03b04744999aba360d328b9a70f2383ff9b73756dfc51ebb43",
+          "first_passage_id": "fdd311bafe8156bd6b3f3db2a20b3037498a7e08bf29731aa25c51d8ceb73878",
+          "last_passage_id": "b428619ad2c254e73f2ace8b5a9a79050948ea9ca8cea63514fd07b59a6144f2",
+          "first_source_byte_start": "676",
+          "last_source_byte_end": "15746",
+          "passages": "51",
+          "word_tokens": "2368"
+        }
+      ],
+      "evidence_rows": [
+        "adjacent_chapter_js:all rows",
+        "chapter_metadata:paired lengths"
+      ],
+      "counterexample": "The largest boundary after the length filter remains substantial and occurs between two longer chapters, so shortness does not explain every large divergence.",
+      "confounds": "Unsmoothed empirical distributions are sparse for short chapters. This length filter is a sensitivity analysis selected after inspection, not a matched-length experiment or causal adjustment.",
+      "method": "Equal-mixture Jensen-Shannon divergence in bits, not square-root JS distance.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC06",
+      "family": "adjacent_JS",
+      "candidate_headline": "Removing very short chapter pairs changes the median less than it changes the extreme.",
+      "numeric_values": {
+        "all_adjacent_pairs": 689,
+        "all_pair_median_JS_bits": 0.2664190680996152,
+        "filtered_pairs": 665,
+        "filtered_median_JS_bits": 0.26430829753255114,
+        "minimum_JS_bits": 0.18212913941803474
+      },
+      "source_chapter_ids": [
+        "b05:c43",
+        "b05:c44",
+        "b10:c30",
+        "b10:cEpilogue"
+      ],
+      "source_offsets": [
+        {
+          "book": "5",
+          "chapter_id": "b05:c43",
+          "document_id": "b05:s053",
+          "epub_member": "EPUB/05. The Fires of Heaven.epub",
+          "source_path": "OEBPS/Text/part0052.xhtml",
+          "document_sha256": "d1d20b178309e8040b7617c8d855bdd64003f0d584f462a68dc366b562bf4299",
+          "first_passage_id": "0a244c63f6d8af90d9e298cea1cf9a42a21c36e1f53c42f020e0f22a10f9d3f2",
+          "last_passage_id": "3e497b308c78184f75205c1dab3fae1c45d1ce43017bd45588c747f8691b6764",
+          "first_source_byte_start": "724",
+          "last_source_byte_end": "44884",
+          "passages": "115",
+          "word_tokens": "7097"
+        },
+        {
+          "book": "5",
+          "chapter_id": "b05:c44",
+          "document_id": "b05:s054",
+          "epub_member": "EPUB/05. The Fires of Heaven.epub",
+          "source_path": "OEBPS/Text/part0053.xhtml",
+          "document_sha256": "f2d911947c356c314be36268bb8a2b60efc2c6e96554bf11ade570a1ef8f9230",
+          "first_passage_id": "3d1ae662efb8bed93e3b41dac4aa2e341e6256fd650baec1bdb5fab7dbaf6968",
+          "last_passage_id": "6c06803c689505d81885069b2dafc14404c8217c9329987b0d7b11f387dfcd0b",
+          "first_source_byte_start": "722",
+          "last_source_byte_end": "53547",
+          "passages": "131",
+          "word_tokens": "8585"
+        },
+        {
+          "book": "10",
+          "chapter_id": "b10:c30",
+          "document_id": "b10:s041",
+          "epub_member": "EPUB/10. Crossroads of Twilight.epub",
+          "source_path": "OEBPS/Text/part0040.xhtml",
+          "document_sha256": "1b03ea7f4e341e8f4f4cfb4087e80f909b1dc0fdfa21e13c79d5719c4f9e4dac",
+          "first_passage_id": "2f427d56038ac5790f5e9e1bd13bd75eeefececed2562f55939158fffe233759",
+          "last_passage_id": "3e3db8e2dcf6596d7dc10b8fbc5b8ee85c259d49c19d66c902c0fa4d962cac66",
+          "first_source_byte_start": "712",
+          "last_source_byte_end": "69566",
+          "passages": "156",
+          "word_tokens": "10885"
+        },
+        {
+          "book": "10",
+          "chapter_id": "b10:cEpilogue",
+          "document_id": "b10:s042",
+          "epub_member": "EPUB/10. Crossroads of Twilight.epub",
+          "source_path": "OEBPS/Text/part0041.xhtml",
+          "document_sha256": "0b655b17511f9bf1c1952c285c16c7ed54aed4323ac13df7b73a0478a262039d",
+          "first_passage_id": "c80d8c5bee04655afbdb1a78a3dd21cf4f8abc3089cf6ba893170fddce4f0072",
+          "last_passage_id": "18ba743a2c0729a225952de1937e7bd29cf466ccfbf24efe2e268a547c229b7e",
+          "first_source_byte_start": "709",
+          "last_source_byte_end": "3320",
+          "passages": "12",
+          "word_tokens": "327"
+        }
+      ],
+      "evidence_rows": [
+        "adjacent_chapter_js:all 689 rows",
+        "chapter_metadata:minimum of both lengths >=2000"
+      ],
+      "counterexample": "The large change in the maximum contrasts with the small shift in the median; outlier anecdotes are not a summary of the full sequence.",
+      "confounds": "Adjacent pairs share chapters and are not independent samples. These are observed dataset medians, without population or reader-response inference.",
+      "method": "Deterministic median and extrema of verified adjacent JS values.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC07",
+      "family": "echoes",
+      "candidate_headline": "An exact normalized paragraph links The Eye of the World prologue and A Memory of Light epilogue.",
+      "numeric_values": {
+        "normalized_characters": 668,
+        "word_tokens": 136,
+        "occurrences": 2,
+        "distinct_books": 2
+      },
+      "source_chapter_ids": [
+        "b01:cPrologue",
+        "b14:cEpilogue"
+      ],
+      "source_offsets": [
+        {
+          "book": "1",
+          "chapter_id": "b01:cPrologue",
+          "document_id": "b01:s007",
+          "epub_member": "EPUB/01. The Eye of the World.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "document_sha256": "edbd2192c0fbc4d396d0fd4126a363989d8ce44ab72410fe091eccf9eb6c389c",
+          "first_passage_id": "e1d0f7b3ca807ec077712bd39cb65f0b23b08bef47ec9ed788261c211181fc0f",
+          "last_passage_id": "80fcf389147d2649300b28846c75a790695e688b46e6bf4bc9243628c916d44b",
+          "first_source_byte_start": "767",
+          "last_source_byte_end": "17382",
+          "passages": "41",
+          "word_tokens": "2616"
+        },
+        {
+          "book": "14",
+          "chapter_id": "b14:cEpilogue",
+          "document_id": "b14:s059",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0058.xhtml",
+          "document_sha256": "6c676b727743cd9a9aac530642f26f4dcead3607e981fc4cca437ffcdb28b81e",
+          "first_passage_id": "1af19c05cae9174795229b84092767ecff8f5d8d272c2bfe37a369684202b823",
+          "last_passage_id": "f4a26044e80f7b242a0e05e3940885f898a55356029532cbd989288934a1d10a",
+          "first_source_byte_start": "680",
+          "last_source_byte_end": "47358",
+          "passages": "276",
+          "word_tokens": "6318"
+        },
+        {
+          "book": "14",
+          "chapter_id": "b14:cEpilogue",
+          "document_id": "b14:s060",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0059.xhtml",
+          "document_sha256": "8496b2b5b5c07b3abf9ac430a3f3d6a5502da17ac965a056be1929b4b63bb999",
+          "first_passage_id": "2d751f4639e37d8f227b6bba0da5f7ed1372cd996515863a2eb0f79ae004b60f",
+          "last_passage_id": "5dd6003eb745725d82826e3350eaf38563a16fbfdb880e46bd295674891872a1",
+          "first_source_byte_start": "424",
+          "last_source_byte_end": "1701",
+          "passages": "7",
+          "word_tokens": "193"
+        }
+      ],
+      "evidence_rows": [
+        "echo_groups:echo:ab9e41d46f6b0b725a6c1052",
+        "echo_occurrences:echo:ab9e41d46f6b0b725a6c1052"
+      ],
+      "counterexample": "Another exact match occurs between two chapters of The Dragon Reborn, so an exact repeat need not span the series.",
+      "confounds": "Whitespace is normalized, but case and punctuation must match. Paragraph framing or epigraphs can repeat without demonstrating causal setup/payoff. Attribution and intent remain unadjudicated.",
+      "method": "Frozen SHA-256 candidate; independent direct source-string equality and SHA-512 grouping.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [
+        {
+          "echo_group_id": "echo:ab9e41d46f6b0b725a6c1052",
+          "passage_id": "b6b59d81b01ec9963b534988d6e7d48d7cffab0d42f0a9e6bdb8f525d8efc9c5",
+          "book": "1",
+          "chapter_id": "b01:cPrologue",
+          "document_id": "b01:s007",
+          "paragraph": "41",
+          "epub_member": "EPUB/01. The Eye of the World.epub",
+          "source_path": "OEBPS/Text/part0006.xhtml",
+          "document_sha256": "edbd2192c0fbc4d396d0fd4126a363989d8ce44ab72410fe091eccf9eb6c389c",
+          "source_byte_ranges": "[[16573,17241]]",
+          "normalized_char_start": "0",
+          "normalized_char_end": "668",
+          "word_tokens": "136"
+        },
+        {
+          "echo_group_id": "echo:ab9e41d46f6b0b725a6c1052",
+          "passage_id": "2d751f4639e37d8f227b6bba0da5f7ed1372cd996515863a2eb0f79ae004b60f",
+          "book": "14",
+          "chapter_id": "b14:cEpilogue",
+          "document_id": "b14:s060",
+          "paragraph": "0",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0059.xhtml",
+          "document_sha256": "8496b2b5b5c07b3abf9ac430a3f3d6a5502da17ac965a056be1929b4b63bb999",
+          "source_byte_ranges": "[[424,1092]]",
+          "normalized_char_start": "0",
+          "normalized_char_end": "668",
+          "word_tokens": "136"
+        }
+      ],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    },
+    {
+      "claim_id": "AC08",
+      "family": "echoes",
+      "candidate_headline": "Three first chapters share one exact normalized paragraph; the census depends on its minimum-length rule.",
+      "numeric_values": {
+        "normalized_characters": 436,
+        "word_tokens": 85,
+        "occurrences": 3,
+        "groups_at_80_characters": 10,
+        "occurrences_at_80_characters": 21,
+        "pairs_at_80_characters": 12,
+        "groups_at_40_characters": 15,
+        "occurrences_at_40_characters": 39
+      },
+      "source_chapter_ids": [
+        "b01:c1",
+        "b03:c1",
+        "b14:c1"
+      ],
+      "source_offsets": [
+        {
+          "book": "1",
+          "chapter_id": "b01:c1",
+          "document_id": "b01:s009",
+          "epub_member": "EPUB/01. The Eye of the World.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "ba8608a56de5d34584c8fd9d24cbeb3f899c8eb9ada1de5edd7de13c9d425b51",
+          "first_passage_id": "3fbde83020b8c2cd9b3f243cbd47dded6f8f71b717b8984dd73cb05225351e13",
+          "last_passage_id": "b34ddc05358a51c48a33190a2d645e25d7524448dee5d3ddbda935c531e954c6",
+          "first_source_byte_start": "742",
+          "last_source_byte_end": "46125",
+          "passages": "128",
+          "word_tokens": "7162"
+        },
+        {
+          "book": "3",
+          "chapter_id": "b03:c1",
+          "document_id": "b03:s009",
+          "epub_member": "EPUB/03. The Dragon Reborn.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "6f0e76258a961c16b8cc2036ba0e3032b5649187a89c8a961a6799b268e8ced7",
+          "first_passage_id": "348e2dc8123f0e2bca65a350f194ed48b7dd5b88ed99e14e9d76b10636d02760",
+          "last_passage_id": "fdb7b7c1d23fd2fcf75b933706b526c70d7c24d25e07cc736792bb5822e297a8",
+          "first_source_byte_start": "763",
+          "last_source_byte_end": "26207",
+          "passages": "68",
+          "word_tokens": "4111"
+        },
+        {
+          "book": "14",
+          "chapter_id": "b14:c1",
+          "document_id": "b14:s009",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "2cdfc73da970d5274a73bde868cf9c2eab546a022c0880fe00f3dd155fe6b93b",
+          "first_passage_id": "2a9b27fae53e7cb08bcd47e75fdf03264d5dc8f11fc80a3948d55173c017fe54",
+          "last_passage_id": "25916a3e1c8b21bf3c82e01382cdfae26c3112fd314669f00754c00bac2a1a20",
+          "first_source_byte_start": "731",
+          "last_source_byte_end": "59565",
+          "passages": "279",
+          "word_tokens": "8084"
+        }
+      ],
+      "evidence_rows": [
+        "echo_groups:echo:82f561f8eb3a8ae9a4edf7d2",
+        "echo_cutoff_sensitivity:cutoffs=40,80"
+      ],
+      "counterexample": "Another longer shared opening paragraph appears in only two different first chapters; repeated framing is not unique to the three-way match.",
+      "confounds": "This is exhaustive only for exact normalized paragraph matches across different included chapters, not substring, paraphrase, quotation or allusion discovery. Threshold chosen exploratorily.",
+      "method": "Exact-paragraph grouping, explicit cutoff sensitivity, all source paragraphs rechecked.",
+      "discovery_status": "EXPLORATORY_SELECTED_AFTER_INSPECTION",
+      "numeric_status": "VERIFIED_DESCRIPTIVE_NUMBERS",
+      "interpretation_status": "CANDIDATE_NOT_LITERARY_CAUSAL_VALIDATION",
+      "publication_use": "Only the narrowly stated descriptive numbers are eligible after independent verification; broader literary inference needs analyst review.",
+      "extra_evidence": [
+        {
+          "echo_group_id": "echo:82f561f8eb3a8ae9a4edf7d2",
+          "passage_id": "3fbde83020b8c2cd9b3f243cbd47dded6f8f71b717b8984dd73cb05225351e13",
+          "book": "1",
+          "chapter_id": "b01:c1",
+          "document_id": "b01:s009",
+          "paragraph": "2",
+          "epub_member": "EPUB/01. The Eye of the World.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "ba8608a56de5d34584c8fd9d24cbeb3f899c8eb9ada1de5edd7de13c9d425b51",
+          "source_byte_ranges": "[[742,1166],[1170,1171],[1176,1187]]",
+          "normalized_char_start": "0",
+          "normalized_char_end": "436",
+          "word_tokens": "85"
+        },
+        {
+          "echo_group_id": "echo:82f561f8eb3a8ae9a4edf7d2",
+          "passage_id": "348e2dc8123f0e2bca65a350f194ed48b7dd5b88ed99e14e9d76b10636d02760",
+          "book": "3",
+          "chapter_id": "b03:c1",
+          "document_id": "b03:s009",
+          "paragraph": "2",
+          "epub_member": "EPUB/03. The Dragon Reborn.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "6f0e76258a961c16b8cc2036ba0e3032b5649187a89c8a961a6799b268e8ced7",
+          "source_byte_ranges": "[[763,1187],[1191,1192],[1197,1208]]",
+          "normalized_char_start": "0",
+          "normalized_char_end": "436",
+          "word_tokens": "85"
+        },
+        {
+          "echo_group_id": "echo:82f561f8eb3a8ae9a4edf7d2",
+          "passage_id": "2a9b27fae53e7cb08bcd47e75fdf03264d5dc8f11fc80a3948d55173c017fe54",
+          "book": "14",
+          "chapter_id": "b14:c1",
+          "document_id": "b14:s009",
+          "paragraph": "3",
+          "epub_member": "EPUB/14. A Memory of Light.epub",
+          "source_path": "OEBPS/Text/part0008.xhtml",
+          "document_sha256": "2cdfc73da970d5274a73bde868cf9c2eab546a022c0880fe00f3dd155fe6b93b",
+          "source_byte_ranges": "[[731,1155],[1176,1177],[1184,1195]]",
+          "normalized_char_start": "0",
+          "normalized_char_end": "436",
+          "word_tokens": "85"
+        }
+      ],
+      "independent_evidence": [
+        "audit/claims_reference.json",
+        "audit/aggregate_reference.json",
+        "audit/source_reference_final.json"
+      ]
+    }
+  ]
+}

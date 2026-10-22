@@ -1,0 +1,1380 @@
+b,k,p,w,pct,segment_id,chapter_key,chapter_id,epub_chapter_available
+0,Ch1: The Hook,Lan Mandragoran,5677,4.6589,pov:0000,1,b00:c1,1
+0,Ch2: A Wish Fulfilled,Moiraine Damodred,4949,4.0615,pov:0001,2,b00:c2,1
+0,Ch3: Practice,Moiraine Damodred,8708,7.1464,pov:0002,3,b00:c3,1
+0,Ch4: Leaving the Tower,Moiraine Damodred,6071,4.9823,pov:0003,4,b00:c4,1
+0,Ch5: The Human Heart,Moiraine Damodred,7958,6.5309,pov:0004,5,b00:c5,1
+0,Ch6: Surprises,Moiraine Damodred,5466,4.4858,pov:0005,6,b00:c6,1
+0,Ch7: The Itch,Moiraine Damodred,3302,2.7098,pov:0006,7,b00:c7,1
+0,Ch8: Shreds of Serenity,Moiraine Damodred,4266,3.501,pov:0007,8,b00:c8,1
+0,Ch9: It Begins,Moiraine Damodred,4876,4.0016,pov:0008,9,b00:c9,1
+0,Ch10: It Finishes,Moiraine Damodred,2570,2.1091,pov:0009,10,b00:c10,1
+0,Ch11: Just Before Dawn,Moiraine Damodred,3299,2.7074,pov:0010,11,b00:c11,1
+0,Ch12: Entering Home,Moiraine Damodred,3475,2.8518,pov:0011,12,b00:c12,1
+0,Ch12: Entering Home,Siuan Sanche,1338,1.0981,pov:0012,12,b00:c12,1
+0,Ch12: Entering Home,Lan Mandragoran,633,0.5195,pov:0013,12,b00:c12,1
+0,Ch13: Business in the City,Moiraine Damodred,3733,3.0636,pov:0014,13,b00:c13,1
+0,Ch14: Changes,Moiraine Damodred,6544,5.3704,pov:0015,14,b00:c14,1
+0,Ch15: Into Canluum,Lan Mandragoran,2804,2.3012,pov:0016,15,b00:c15,1
+0,Ch16: The Deeps,Lan Mandragoran,4304,3.5322,pov:0017,16,b00:c16,1
+0,Ch17: An Arrival,Moiraine Damodred,5127,4.2076,pov:0018,17,b00:c17,1
+0,Ch18: A Narrow Passage,Moiraine Damodred,3743,3.0718,pov:0019,18,b00:c18,1
+0,Ch19: Pond Water,Moiraine Damodred,3726,3.0578,pov:0020,19,b00:c19,1
+0,Ch20: Breakfast in Manala,Lan Mandragoran,2895,2.3758,pov:0021,20,b00:c20,1
+0,Ch21: Some Tricks of the Power,Lan Mandragoran,1809,1.4846,pov:0022,21,b00:c21,1
+0,Ch21: Some Tricks of the Power,Moiraine Damodred,2504,2.055,pov:0023,21,b00:c21,1
+0,Ch22: Keeping Custom,Lan Mandragoran,5116,4.1985,pov:0024,22,b00:c22,1
+0,Ch23: The Evening Star,Moiraine Damodred,3514,2.8838,pov:0025,23,b00:c23,1
+0,Ch24: Making Use of Invisibility,Moiraine Damodred,2902,2.3816,pov:0026,24,b00:c24,1
+0,Ch25: An Answer,Moiraine Damodred,4507,3.6987,pov:0027,25,b00:c25,1
+0,Ch26: When to Surrender,Lan Mandragoran,1119,0.9183,pov:0028,26,b00:c26,1
+0,Ch26: When to Surrender,Moiraine Damodred,2882,2.3652,pov:0029,26,b00:c26,1
+0,Epilogue,Moiraine Damodred,2035,1.6701,pov:0030,Epilogue,b00:cEpilogue,1
+1,Prologue: Dragonmount,Lews Therin Telamon,2362,0.7615,pov:0031,Prologue,b01:cPrologue,1
+1,Prologue: Dragonmount,Quote,254,0.0819,pov:0032,Prologue,b01:cPrologue,1
+1,Prologue: Ravens,Egwene al'Vere,10044,3.238,pov:0033,Ravens,b01:cRavens,0
+1,Ch1: An Empty Road,Rand al'Thor,7164,2.3095,pov:0034,1,b01:c1,1
+1,Ch2: Strangers,Rand al'Thor,4956,1.5977,pov:0035,2,b01:c2,1
+1,Ch3: The Peddler,Rand al'Thor,5260,1.6957,pov:0036,3,b01:c3,1
+1,Ch4: The Gleeman,Rand al'Thor,5965,1.923,pov:0037,4,b01:c4,1
+1,Ch5: Winternight,Rand al'Thor,7123,2.2963,pov:0038,5,b01:c5,1
+1,Ch6: The Westwood,Rand al'Thor,3411,1.0996,pov:0039,6,b01:c6,1
+1,Ch7: Out of the Woods,Rand al'Thor,5682,1.8318,pov:0040,7,b01:c7,1
+1,Ch8: A Place of Safety,Rand al'Thor,5934,1.913,pov:0041,8,b01:c8,1
+1,Ch9: Tellings of the Wheel,Rand al'Thor,6933,2.2351,pov:0042,9,b01:c9,1
+1,Ch10: Leavetaking,Rand al'Thor,4048,1.305,pov:0043,10,b01:c10,1
+1,Ch11: The Road to Taren Ferry,Rand al'Thor,3567,1.1499,pov:0044,11,b01:c11,1
+1,Ch12: Across the Taren,Rand al'Thor,5255,1.6941,pov:0045,12,b01:c12,1
+1,Ch13: Choices,Rand al'Thor,7308,2.356,pov:0046,13,b01:c13,1
+1,Ch14: The Stag and Lion,Rand al'Thor,5890,1.8988,pov:0047,14,b01:c14,1
+1,Ch15: Strangers and Friends,Rand al'Thor,9061,2.9211,pov:0048,15,b01:c15,1
+1,Ch16: The Wisdom,Rand al'Thor,4246,1.3688,pov:0049,16,b01:c16,1
+1,Ch17: Watchers and Hunters,Rand al'Thor,6565,2.1164,pov:0050,17,b01:c17,1
+1,Ch18: The Caemlyn Road,Rand al'Thor,5529,1.7825,pov:0051,18,b01:c18,1
+1,Ch19: Shadow's Waiting,Rand al'Thor,7094,2.287,pov:0052,19,b01:c19,1
+1,Ch20: Dust on the Wind,Rand al'Thor,2177,0.7018,pov:0053,20,b01:c20,1
+1,Ch20: Dust on the Wind,Perrin Aybara,1469,0.4736,pov:0054,20,b01:c20,1
+1,Ch20: Dust on the Wind,Rand al'Thor,3977,1.2821,pov:0055,20,b01:c20,1
+1,Ch21: Listen to the Wind,Nynaeve al'Meara,5127,1.6529,pov:0056,21,b01:c21,1
+1,Ch22: A Path Chosen,Perrin Aybara,2184,0.7041,pov:0057,22,b01:c22,1
+1,Ch23: Wolfbrother,Perrin Aybara,5822,1.8769,pov:0058,23,b01:c23,1
+1,Ch24: Flight Down the Arinelle,Rand al'Thor,5334,1.7196,pov:0059,24,b01:c24,1
+1,Ch25: The Traveling People,Perrin Aybara,6144,1.9807,pov:0060,25,b01:c25,1
+1,Ch26: Whitebridge,Rand al'Thor,8979,2.8947,pov:0061,26,b01:c26,1
+1,Ch27: Shelter From the Storm,Perrin Aybara,4918,1.5855,pov:0062,27,b01:c27,1
+1,Ch28: Footprints in the Air,Nynaeve al'Meara,3163,1.0197,pov:0063,28,b01:c28,1
+1,Ch29: Eyes Without Pity,Perrin Aybara,6184,1.9936,pov:0064,29,b01:c29,1
+1,Ch30: Children of Shadow,Perrin Aybara,6407,2.0655,pov:0065,30,b01:c30,1
+1,Ch31: Play for Your Supper,Rand al'Thor,4545,1.4652,pov:0066,31,b01:c31,1
+1,Ch32: Four Kings in Shadow,Rand al'Thor,7977,2.5716,pov:0067,32,b01:c32,1
+1,Ch33: The Dark Waits,Rand al'Thor,10410,3.356,pov:0068,33,b01:c33,1
+1,Ch34: The Last Village,Rand al'Thor,5931,1.912,pov:0069,34,b01:c34,1
+1,Ch35: Caemlyn,Rand al'Thor,5354,1.726,pov:0070,35,b01:c35,1
+1,Ch36: Web of the Pattern,Rand al'Thor,5726,1.846,pov:0071,36,b01:c36,1
+1,Ch37: The Long Chase,Nynaeve al'Meara,3239,1.0442,pov:0072,37,b01:c37,1
+1,Ch38: Rescue,Perrin Aybara,5934,1.913,pov:0073,38,b01:c38,1
+1,Ch39: Weaving of the Web,Rand al'Thor,4472,1.4417,pov:0074,39,b01:c39,1
+1,Ch40: The Web Tightens,Rand al'Thor,9523,3.07,pov:0075,40,b01:c40,1
+1,Ch41: Old Friends and New Threats,Rand al'Thor,5812,1.8737,pov:0076,41,b01:c41,1
+1,Ch42: Remembrance of Dreams,Rand al'Thor,4720,1.5216,pov:0077,42,b01:c42,1
+1,Ch43: Decisions and Apparitions,Rand al'Thor,4900,1.5797,pov:0078,43,b01:c43,1
+1,Ch44: The Dark Along the Ways,Rand al'Thor,5305,1.7102,pov:0079,44,b01:c44,1
+1,Ch45: What Follows in Shadow,Rand al'Thor,5563,1.7934,pov:0080,45,b01:c45,1
+1,Ch46: Fal Dara,Rand al'Thor,6748,2.1754,pov:0081,46,b01:c46,1
+1,Ch47: More Tales of the Wheel,Rand al'Thor,5169,1.6664,pov:0082,47,b01:c47,1
+1,Ch48: The Blight,Rand al'Thor,4586,1.4784,pov:0083,48,b01:c48,1
+1,Ch49: The Dark One Stirs,Rand al'Thor,3478,1.1212,pov:0084,49,b01:c49,1
+1,Ch50: Meetings at the Eye,Rand al'Thor,4544,1.4649,pov:0085,50,b01:c50,1
+1,Ch51: Against the Shadow,Rand al'Thor,3513,1.1325,pov:0086,51,b01:c51,1
+1,Ch52: Neither Beginning Nor End,Rand al'Thor,3878,1.2502,pov:0087,52,b01:c52,1
+1,Ch53: The Wheel Turns,Rand al'Thor,3204,1.0329,pov:0088,53,b01:c53,1
+1,Ch53: The Wheel Turns,Moiraine Damodred,124,0.04,pov:0089,53,b01:c53,1
+2,Prologue: In the Shadow,Quote,207,0.0795,pov:0090,Prologue,b02:cPrologue,1
+2,Prologue: In the Shadow,Jaichim Carridin,5313,2.0407,pov:0091,Prologue,b02:cPrologue,1
+2,Ch1: The Flame of Tar Valon,Rand al'Thor,4202,1.614,pov:0092,1,b02:c1,1
+2,Ch2: The Welcome,Rand al'Thor,4551,1.748,pov:0093,2,b02:c2,1
+2,Ch3: Friends And Enemies,Rand al'Thor,8430,3.2379,pov:0094,3,b02:c3,1
+2,Ch4: Summoned,Moiraine Damodred,6437,2.4724,pov:0095,4,b02:c4,1
+2,Ch5: The Shadow in Shienar,Moiraine Damodred,3869,1.4861,pov:0096,5,b02:c5,1
+2,Ch5: The Shadow in Shienar,Geofram Bornhald,1446,0.5554,pov:0097,5,b02:c5,1
+2,Ch5: The Shadow in Shienar,Liandrin,2222,0.8535,pov:0098,5,b02:c5,1
+2,Ch5: The Shadow in Shienar,Padan Fain,171,0.0657,pov:0099,5,b02:c5,1
+2,Ch6: Dark Prophecy,Rand al'Thor,7265,2.7904,pov:0100,6,b02:c6,1
+2,Ch7: Blood Calls Blood,Moiraine Damodred,3558,1.3666,pov:0101,7,b02:c7,1
+2,Ch7: Blood Calls Blood,Perrin Aybara,1191,0.4575,pov:0102,7,b02:c7,1
+2,Ch7: Blood Calls Blood,Rand al'Thor,2174,0.835,pov:0103,7,b02:c7,1
+2,Ch8: The Dragon Reborn,Rand al'Thor,4591,1.7634,pov:0104,8,b02:c8,1
+2,Ch8: The Dragon Reborn,Moiraine Damodred,156,0.0599,pov:0105,8,b02:c8,1
+2,Ch8: The Dragon Reborn,Nynaeve al'Meara,2510,0.9641,pov:0106,8,b02:c8,1
+2,Ch8: The Dragon Reborn,Egwene al'Vere,2312,0.888,pov:0107,8,b02:c8,1
+2,Ch9: Leavetakings,Rand al'Thor,4102,1.5756,pov:0108,9,b02:c9,1
+2,Ch9: Leavetakings,Bayle Domon,4052,1.5563,pov:0109,9,b02:c9,1
+2,Ch10: The Hunt Begins,Rand al'Thor,8585,3.2974,pov:0110,10,b02:c10,1
+2,Ch11: Glimmers of the Pattern,Rand al'Thor,3407,1.3086,pov:0111,11,b02:c11,1
+2,Ch11: Glimmers of the Pattern,Padan Fain,1127,0.4329,pov:0112,11,b02:c11,1
+2,Ch12: Woven in the Pattern,Egwene al'Vere,5898,2.2654,pov:0113,12,b02:c12,1
+2,Ch13: From Stone to Stone,Rand al'Thor,3284,1.2614,pov:0114,13,b02:c13,1
+2,Ch14: Wolf brother,Perrin Aybara,3467,1.3317,pov:0115,14,b02:c14,1
+2,Ch15: Kinslayer,Rand al'Thor,4728,1.816,pov:0116,15,b02:c15,1
+2,Ch16: In the Mirror of Darkness,Rand al'Thor,6407,2.4609,pov:0117,16,b02:c16,1
+2,Ch17: Choices,Rand al'Thor,3111,1.1949,pov:0118,17,b02:c17,1
+2,Ch18: To the White Tower,Egwene al'Vere,4665,1.7918,pov:0119,18,b02:c18,1
+2,Ch19: Beneath the Dagger,Rand al'Thor,5238,2.0119,pov:0120,19,b02:c19,1
+2,Ch19: Beneath the Dagger,Padan Fain,258,0.0991,pov:0121,19,b02:c19,1
+2,Ch20: Saidin,Rand al'Thor,2677,1.0282,pov:0122,20,b02:c20,1
+2,Ch21: The Nine Rings,Rand al'Thor,4394,1.6877,pov:0123,21,b02:c21,1
+2,Ch22: Watchers,Moiraine Damodred,5353,2.0561,pov:0124,22,b02:c22,1
+2,Ch23: The Testing,Nynaeve al'Meara,7750,2.9767,pov:0125,23,b02:c23,1
+2,Ch24: New Friends and Old Enemies,Egwene al'Vere,4221,1.6213,pov:0126,24,b02:c24,1
+2,Ch24: New Friends and Old Enemies,Min Farshaw,192,0.0737,pov:0127,24,b02:c24,1
+2,Ch25: Cairhien,Rand al'Thor,4584,1.7607,pov:0128,25,b02:c25,1
+2,Ch26: Discord,Rand al'Thor,4291,1.6481,pov:0129,26,b02:c26,1
+2,Ch26: Discord,Thomdril Merrilin,629,0.2416,pov:0130,26,b02:c26,1
+2,Ch27: The Shadow in the Night,Rand al'Thor,5070,1.9474,pov:0131,27,b02:c27,1
+2,Ch28: A New Thread in the Pattern,Perrin Aybara,2690,1.0332,pov:0132,28,b02:c28,1
+2,Ch29: Seanchan,Geofram Bornhald,1582,0.6076,pov:0133,29,b02:c29,1
+2,Ch29: Seanchan,Bayle Domon,5600,2.1509,pov:0134,29,b02:c29,1
+2,Ch30: Daes Dae'mar,Rand al'Thor,4507,1.7311,pov:0135,30,b02:c30,1
+2,Ch31: On the Scent,Rand al'Thor,1875,0.7202,pov:0136,31,b02:c31,1
+2,Ch31: On the Scent,Perrin Aybara,2940,1.1292,pov:0137,31,b02:c31,1
+2,Ch32: Dangerous Words,Rand al'Thor,4079,1.5667,pov:0138,32,b02:c32,1
+2,Ch33: A Message From The Dark,Rand al'Thor,5831,2.2397,pov:0139,33,b02:c33,1
+2,Ch34: The Wheel Weaves,Thomdril Merrilin,2121,0.8147,pov:0140,34,b02:c34,1
+2,Ch34: The Wheel Weaves,Padan Fain,3916,1.5041,pov:0141,34,b02:c34,1
+2,Ch35: Stedding Tsofu,Rand al'Thor,4872,1.8713,pov:0142,35,b02:c35,1
+2,Ch36: Among the Elders,Rand al'Thor,3494,1.342,pov:0143,36,b02:c36,1
+2,Ch37: What Might Be,Rand al'Thor,4942,1.8982,pov:0144,37,b02:c37,1
+2,Ch38: Practice,Egwene al'Vere,4832,1.8559,pov:0145,38,b02:c38,1
+2,Ch39: Flight From the White Tower,Egwene al'Vere,5278,2.0272,pov:0146,39,b02:c39,1
+2,Ch40: Damane,Egwene al'Vere,4935,1.8955,pov:0147,40,b02:c40,1
+2,Ch40: Damane,Nynaeve al'Meara,1741,0.6687,pov:0148,40,b02:c40,1
+2,Ch41: Disagreements,Rand al'Thor,3428,1.3167,pov:0149,41,b02:c41,1
+2,Ch42: Falme,Nynaeve al'Meara,1679,0.6449,pov:0150,42,b02:c42,1
+2,Ch42: Falme,Egwene al'Vere,2979,1.1442,pov:0151,42,b02:c42,1
+2,Ch43: A Plan,Min Farshaw,3355,1.2886,pov:0152,43,b02:c43,1
+2,Ch44: Five Will Ride Forth,Perrin Aybara,1092,0.4194,pov:0153,44,b02:c44,1
+2,Ch44: Five Will Ride Forth,Geofram Bornhald,1084,0.4164,pov:0154,44,b02:c44,1
+2,Ch44: Five Will Ride Forth,Rand al'Thor,1561,0.5996,pov:0155,44,b02:c44,1
+2,Ch45: Blademaster,Nynaeve al'Meara,2563,0.9844,pov:0156,45,b02:c45,1
+2,Ch45: Blademaster,Bayle Domon,178,0.0684,pov:0157,45,b02:c45,1
+2,Ch45: Blademaster,Rand al'Thor,5299,2.0353,pov:0158,45,b02:c45,1
+2,Ch46: To Come Out of the Shadow,Nynaeve al'Meara,3491,1.3409,pov:0159,46,b02:c46,1
+2,Ch46: To Come Out of the Shadow,Bayle Domon,245,0.0941,pov:0160,46,b02:c46,1
+2,Ch46: To Come Out of the Shadow,Geofram Bornhald,197,0.0757,pov:0161,46,b02:c46,1
+2,Ch46: To Come Out of the Shadow,Rand al'Thor,1157,0.4444,pov:0162,46,b02:c46,1
+2,Ch47: The Grave Is No Bar to My Call,Rand al'Thor,1129,0.4336,pov:0163,47,b02:c47,1
+2,Ch47: The Grave Is No Bar to My Call,Geofram Bornhald,217,0.0833,pov:0164,47,b02:c47,1
+2,Ch47: The Grave Is No Bar to My Call,Rand al'Thor,2751,1.0566,pov:0165,47,b02:c47,1
+2,Ch48: First Claiming,Min Farshaw,1830,0.7029,pov:0166,48,b02:c48,1
+2,Ch48: First Claiming,Jaret Byar,122,0.0469,pov:0167,48,b02:c48,1
+2,Ch49: What Was Meant To Be,Rand al'Thor,2381,0.9145,pov:0168,49,b02:c49,1
+2,Ch50: After,Narrator,174,0.0668,pov:0169,50,b02:c50,1
+2,Ch50: After,Quote,111,0.0426,pov:0170,50,b02:c50,1
+3,Prologue: Fortress of the Light,Quote,100,0.0411,pov:0171,Prologue,b03:cPrologue,1
+3,Prologue: Fortress of the Light,Pedron Niall,5530,2.2704,pov:0172,Prologue,b03:cPrologue,1
+3,Prologue: Fortress of the Light,Jaichim Carridin,1220,0.5009,pov:0173,Prologue,b03:cPrologue,1
+3,Ch1: Waiting,Perrin Aybara,4112,1.6882,pov:0174,1,b03:c1,1
+3,Ch2: Saidin,Perrin Aybara,4741,1.9464,pov:0175,2,b03:c2,1
+3,Ch3: News from the Plain,Perrin Aybara,3529,1.4488,pov:0176,3,b03:c3,1
+3,Ch4: Shadows Sleeping,Perrin Aybara,2978,1.2226,pov:0177,4,b03:c4,1
+3,Ch5: Nightmares Walking,Perrin Aybara,4870,1.9994,pov:0178,5,b03:c5,1
+3,Ch6: The Hunt Begins,Perrin Aybara,5399,2.2166,pov:0179,6,b03:c6,1
+3,Ch7: The Way Out of the Mountains,Perrin Aybara,2124,0.872,pov:0180,7,b03:c7,1
+3,Ch8: Jarra,Perrin Aybara,5512,2.263,pov:0181,8,b03:c8,1
+3,Ch9: Wolf Dreams,Perrin Aybara,2255,0.9258,pov:0182,9,b03:c9,1
+3,Ch9: Wolf Dreams,Rand al'Thor,523,0.2147,pov:0183,9,b03:c9,1
+3,Ch10: Secrets,Egwene al'Vere,5441,2.2338,pov:0184,10,b03:c10,1
+3,Ch11: Tar Valon,Egwene al'Vere,3965,1.6278,pov:0185,11,b03:c11,1
+3,Ch12: The Amyrlin Seat,Siuan Sanche,2088,0.8572,pov:0186,12,b03:c12,1
+3,Ch13: Punishments,Egwene al'Vere,4489,1.843,pov:0187,13,b03:c13,1
+3,Ch14: The Bite of the Thorns,Egwene al'Vere,2759,1.1327,pov:0188,14,b03:c14,1
+3,Ch15: The Gray Man,Egwene al'Vere,3175,1.3035,pov:0189,15,b03:c15,1
+3,Ch16: Hunters Three,Egwene al'Vere,3234,1.3277,pov:0190,16,b03:c16,1
+3,Ch17: The Red Sister,Egwene al'Vere,2294,0.9418,pov:0191,17,b03:c17,1
+3,Ch18: Healing,Egwene al'Vere,2341,0.9611,pov:0192,18,b03:c18,1
+3,Ch19: Awakening,Matrim Cauthon,2761,1.1335,pov:0193,19,b03:c19,1
+3,Ch20: Visitations,Matrim Cauthon,4737,1.9448,pov:0194,20,b03:c20,1
+3,Ch21: A World of Dreams,Egwene al'Vere,2557,1.0498,pov:0195,21,b03:c21,1
+3,Ch21: A World of Dreams,Verin Mathwin,221,0.0907,pov:0196,21,b03:c21,1
+3,Ch22: The Price of the Ring,Egwene al'Vere,8342,3.4248,pov:0197,22,b03:c22,1
+3,Ch23: Sealed,Egwene al'Vere,3096,1.2711,pov:0198,23,b03:c23,1
+3,Ch24: Scouting and Discoveries,Matrim Cauthon,5320,2.1841,pov:0199,24,b03:c24,1
+3,Ch25: Questions,Egwene al'Vere,4015,1.6484,pov:0200,25,b03:c25,1
+3,Ch26: Behind a Lock,Egwene al'Vere,2708,1.1118,pov:0201,26,b03:c26,1
+3,Ch27: Tel'aran'rhiod,Egwene al'Vere,5580,2.2909,pov:0202,27,b03:c27,1
+3,Ch28: A Way Out,Matrim Cauthon,2692,1.1052,pov:0203,28,b03:c28,1
+3,Ch29: A Trap To Spring,Nynaeve al'Meara,3401,1.3963,pov:0204,29,b03:c29,1
+3,Ch30: The First Toss,Matrim Cauthon,4191,1.7206,pov:0205,30,b03:c30,1
+3,Ch31: The Woman of Tanchico,Matrim Cauthon,2683,1.1015,pov:0206,31,b03:c31,1
+3,Ch32: The First Ship,Matrim Cauthon,5464,2.2433,pov:0207,32,b03:c32,1
+3,Ch32: The First Ship,Rand al'Thor,598,0.2455,pov:0208,32,b03:c32,1
+3,Ch33: Within the Weave,Perrin Aybara,4454,1.8286,pov:0209,33,b03:c33,1
+3,Ch34: A Different Dance,Perrin Aybara,4158,1.7071,pov:0210,34,b03:c34,1
+3,Ch35: The Falcon,Perrin Aybara,3225,1.324,pov:0211,35,b03:c35,1
+3,Ch36: Daughter of the Night,Perrin Aybara,4072,1.6718,pov:0212,36,b03:c36,1
+3,Ch36: Daughter of the Night,Rand al'Thor,788,0.3235,pov:0213,36,b03:c36,1
+3,Ch37: Fires in Cairhien,Egwene al'Vere,4024,1.6521,pov:0214,37,b03:c37,1
+3,Ch38: Maidens of the Spear,Egwene al'Vere,3672,1.5076,pov:0215,38,b03:c38,1
+3,Ch39: Threads in the Pattern,Egwene al'Vere,7593,3.1173,pov:0216,39,b03:c39,1
+3,Ch40: A Hero in the Night,Matrim Cauthon,5947,2.4416,pov:0217,40,b03:c40,1
+3,Ch41: A Hunter's Oath,Perrin Aybara,3027,1.2427,pov:0218,41,b03:c41,1
+3,Ch42: Easing the Badger,Perrin Aybara,5636,2.3139,pov:0219,42,b03:c42,1
+3,Ch43: Shadowbrothers,Perrin Aybara,2878,1.1816,pov:0220,43,b03:c43,1
+3,Ch44: Hunted,Perrin Aybara,3136,1.2875,pov:0221,44,b03:c44,1
+3,Ch44: Hunted,Matrim Cauthon,1801,0.7394,pov:0222,44,b03:c44,1
+3,Ch45: Caemlyn,Matrim Cauthon,3990,1.6381,pov:0223,45,b03:c45,1
+3,Ch46: A Message Out of the Shadow,Matrim Cauthon,4159,1.7075,pov:0224,46,b03:c46,1
+3,Ch47: To Race the Shadow,Matrim Cauthon,2955,1.2132,pov:0225,47,b03:c47,1
+3,Ch48: Following the Craft,Egwene al'Vere,6193,2.5426,pov:0226,48,b03:c48,1
+3,Ch49: A Storm in Tear,Egwene al'Vere,2341,0.9611,pov:0227,49,b03:c49,1
+3,Ch49: A Storm in Tear,Matrim Cauthon,5427,2.2281,pov:0228,49,b03:c49,1
+3,Ch50: The Hammer,Perrin Aybara,6179,2.5368,pov:0229,50,b03:c50,1
+3,Ch51: Bait for the Net,Nynaeve al'Meara,3499,1.4365,pov:0230,51,b03:c51,1
+3,Ch52: In Search of a Remedy,Matrim Cauthon,2662,1.0929,pov:0231,52,b03:c52,1
+3,Ch53: A Flow of the Spirit,Perrin Aybara,2981,1.2239,pov:0232,53,b03:c53,1
+3,Ch54: Into the Stone,Matrim Cauthon,3813,1.5654,pov:0233,54,b03:c54,1
+3,Ch54: Into the Stone,Rand al'Thor,139,0.0571,pov:0234,54,b03:c54,1
+3,Ch54: Into the Stone,Egwene al'Vere,1934,0.794,pov:0235,54,b03:c54,1
+3,Ch54: Into the Stone,Perrin Aybara,474,0.1946,pov:0236,54,b03:c54,1
+3,Ch54: Into the Stone,Matrim Cauthon,973,0.3995,pov:0237,54,b03:c54,1
+3,Ch55: What Is Written in Prophecy,Rand al'Thor,2213,0.9086,pov:0238,55,b03:c55,1
+3,Ch55: What Is Written in Prophecy,Egwene al'Vere,1003,0.4118,pov:0239,55,b03:c55,1
+3,Ch55: What Is Written in Prophecy,Matrim Cauthon,1882,0.7727,pov:0240,55,b03:c55,1
+3,Ch55: What Is Written in Prophecy,Perrin Aybara,740,0.3038,pov:0241,55,b03:c55,1
+3,Ch55: What Is Written in Prophecy,Rand al'Thor,1572,0.6454,pov:0242,55,b03:c55,1
+3,Ch56: People of the Dragon,Narrator,126,0.0517,pov:0243,56,b03:c56,1
+3,Ch56: People of the Dragon,Matrim Cauthon,2787,1.1442,pov:0244,56,b03:c56,1
+3,Ch56: People of the Dragon,Quote,76,0.0312,pov:0245,56,b03:c56,1
+4,Ch1: Seeds of Shadow,Quote,108,0.028,pov:0246,1,b04:c1,1
+4,Ch1: Seeds of Shadow,Min Farshaw,9837,2.5523,pov:0247,1,b04:c1,1
+4,Ch1: Seeds of Shadow,Elaida do Avriny a'Roihan,1423,0.3692,pov:0248,1,b04:c1,1
+4,Ch1: Seeds of Shadow,Dain Bornhald,1836,0.4764,pov:0249,1,b04:c1,1
+4,Ch1: Seeds of Shadow,Suroth Sabelle Meldarath,2668,0.6922,pov:0250,1,b04:c1,1
+4,Ch2: Whirlpools in the Pattern,Perrin Aybara,4376,1.1354,pov:0251,2,b04:c2,1
+4,Ch2: Whirlpools in the Pattern,Matrim Cauthon,5072,1.316,pov:0252,2,b04:c2,1
+4,Ch2: Whirlpools in the Pattern,Rand al'Thor,5633,1.4615,pov:0253,2,b04:c2,1
+4,Ch3: Reflection,Perrin Aybara,7299,1.8938,pov:0254,3,b04:c3,1
+4,Ch4: Strings,Thomdril Merrilin,2677,0.6946,pov:0255,4,b04:c4,1
+4,Ch5: Questioners,Egwene al'Vere,3927,1.0189,pov:0256,5,b04:c5,1
+4,Ch6: Doorways,Elayne Trakand,7490,1.9434,pov:0257,6,b04:c6,1
+4,Ch7: Playing With Fire,Egwene al'Vere,6418,1.6652,pov:0258,7,b04:c7,1
+4,Ch8: Hard Heads,Elayne Trakand,2725,0.707,pov:0259,8,b04:c8,1
+4,Ch8: Hard Heads,Rand al'Thor,1333,0.3459,pov:0260,8,b04:c8,1
+4,Ch8: Hard Heads,Egwene al'Vere,1863,0.4834,pov:0261,8,b04:c8,1
+4,Ch9: Decisions,Matrim Cauthon,596,0.1546,pov:0262,9,b04:c9,1
+4,Ch9: Decisions,Perrin Aybara,548,0.1422,pov:0263,9,b04:c9,1
+4,Ch9: Decisions,Egwene al'Vere,779,0.2021,pov:0264,9,b04:c9,1
+4,Ch9: Decisions,Elayne Trakand,417,0.1082,pov:0265,9,b04:c9,1
+4,Ch9: Decisions,Rand al'Thor,3900,1.0119,pov:0266,9,b04:c9,1
+4,Ch10: The Stone Stands,Rand al'Thor,5458,1.4161,pov:0267,10,b04:c10,1
+4,Ch11: What Lies Hidden,Egwene al'Vere,8021,2.0811,pov:0268,11,b04:c11,1
+4,Ch12: Tanchico or the Tower,Elayne Trakand,3463,0.8985,pov:0269,12,b04:c12,1
+4,Ch13: Rumors,Matrim Cauthon,3392,0.8801,pov:0270,13,b04:c13,1
+4,Ch14: Customs of Mayene,Perrin Aybara,1980,0.5137,pov:0271,14,b04:c14,1
+4,Ch14: Customs of Mayene,Faile Bashere,1368,0.3549,pov:0272,14,b04:c14,1
+4,Ch15: Into the Doorway,Matrim Cauthon,4673,1.2125,pov:0273,15,b04:c15,1
+4,Ch16: Leavetakings,Perrin Aybara,3364,0.8728,pov:0274,16,b04:c16,1
+4,Ch16: Leavetakings,Elayne Trakand,1986,0.5153,pov:0275,16,b04:c16,1
+4,Ch17: Deceptions,Thomdril Merrilin,2933,0.761,pov:0276,17,b04:c17,1
+4,Ch17: Deceptions,Min Farshaw,5172,1.3419,pov:0277,17,b04:c17,1
+4,Ch17: Deceptions,Sahra Covenry,592,0.1536,pov:0278,17,b04:c17,1
+4,Ch18: Into the Ways,Perrin Aybara,4350,1.1287,pov:0279,18,b04:c18,1
+4,Ch19: The Wavedancer,Elayne Trakand,5719,1.4839,pov:0280,19,b04:c19,1
+4,Ch20: Winds Rising,Elayne Trakand,6691,1.7361,pov:0281,20,b04:c20,1
+4,Ch21: Into the Heart,Moiraine Damodred,5648,1.4654,pov:0282,21,b04:c21,1
+4,Ch22: Out of the Stone,Rand al'Thor,6286,1.631,pov:0283,22,b04:c22,1
+4,Ch23: Beyond the Stone,Egwene al'Vere,9380,2.4338,pov:0284,23,b04:c23,1
+4,Ch24: Rhuidean,Matrim Cauthon,5508,1.4291,pov:0285,24,b04:c24,1
+4,Ch25: The Road to the Spear,Rand al'Thor,6764,1.755,pov:0286,25,b04:c25,1
+4,Ch26: The Dedicated,Rand al'Thor,8363,2.1699,pov:0287,26,b04:c26,1
+4,Ch27: Within the Ways,Perrin Aybara,4787,1.242,pov:0288,27,b04:c27,1
+4,Ch28: To the Tower of Ghenjei,Perrin Aybara,4285,1.1118,pov:0289,28,b04:c28,1
+4,Ch29: Homecoming,Perrin Aybara,5812,1.508,pov:0290,29,b04:c29,1
+4,Ch30: Beyond the Oak,Perrin Aybara,4593,1.1917,pov:0291,30,b04:c30,1
+4,Ch31: Assurances,Perrin Aybara,5120,1.3284,pov:0292,31,b04:c31,1
+4,Ch31: Assurances,Dain Bornhald,2070,0.5371,pov:0293,31,b04:c31,1
+4,Ch31: Assurances,Padan Fain,640,0.1661,pov:0294,31,b04:c31,1
+4,Ch32: Questions to Be Asked,Perrin Aybara,5832,1.5132,pov:0295,32,b04:c32,1
+4,Ch33: A New Weave in the Pattern,Perrin Aybara,8929,2.3167,pov:0296,33,b04:c33,1
+4,Ch34: He Who Comes With the Dawn,Rand al'Thor,7967,2.0671,pov:0297,34,b04:c34,1
+4,Ch35: Sharp Lessons,Egwene al'Vere,5260,1.3648,pov:0298,35,b04:c35,1
+4,Ch36: Misdirections,Rand al'Thor,1777,0.4611,pov:0299,36,b04:c36,1
+4,Ch36: Misdirections,Matrim Cauthon,3335,0.8653,pov:0300,36,b04:c36,1
+4,Ch37: Imre Stand,Rand al'Thor,3832,0.9943,pov:0301,37,b04:c37,1
+4,Ch37: Imre Stand,Matrim Cauthon,4001,1.0381,pov:0302,37,b04:c37,1
+4,Ch37: Imre Stand,Rand al'Thor,313,0.0812,pov:0303,37,b04:c37,1
+4,Ch38: Hidden Faces,Egeanin Tamarath,2182,0.5661,pov:0304,38,b04:c38,1
+4,Ch38: Hidden Faces,Jaichim Carridin,3194,0.8287,pov:0305,38,b04:c38,1
+4,Ch38: Hidden Faces,Liandrin,1931,0.501,pov:0306,38,b04:c38,1
+4,Ch38: Hidden Faces,Egeanin Tamarath,2154,0.5589,pov:0307,38,b04:c38,1
+4,Ch39: A Cup of Wine,Elayne Trakand,4792,1.2433,pov:0308,39,b04:c39,1
+4,Ch39: A Cup of Wine,Nynaeve al'Meara,1032,0.2678,pov:0309,39,b04:c39,1
+4,Ch39: A Cup of Wine,Elayne Trakand,1611,0.418,pov:0310,39,b04:c39,1
+4,Ch40: Hunter of Trollocs,Perrin Aybara,5323,1.3811,pov:0311,40,b04:c40,1
+4,Ch41: Among the Tuatha'an,Perrin Aybara,3649,0.9468,pov:0312,41,b04:c41,1
+4,Ch42: A Missing Leaf,Perrin Aybara,6113,1.5861,pov:0313,42,b04:c42,1
+4,Ch43: Care for the Living,Perrin Aybara,3698,0.9595,pov:0314,43,b04:c43,1
+4,Ch44: The Breaking Storm,Perrin Aybara,5391,1.3988,pov:0315,44,b04:c44,1
+4,Ch45: The Tinker's Sword,Perrin Aybara,7577,1.9659,pov:0316,45,b04:c45,1
+4,Ch46: Veils,Egeanin Tamarath,1037,0.2691,pov:0317,46,b04:c46,1
+4,Ch46: Veils,Elayne Trakand,6717,1.7428,pov:0318,46,b04:c46,1
+4,Ch46: Veils,Egeanin Tamarath,260,0.0675,pov:0319,46,b04:c46,1
+4,Ch46: Veils,Almurat Mor,130,0.0337,pov:0320,46,b04:c46,1
+4,Ch47: The Truth of a Viewing,Siuan Sanche,2174,0.5641,pov:0321,47,b04:c47,1
+4,Ch47: The Truth of a Viewing,Min Farshaw,866,0.2247,pov:0322,47,b04:c47,1
+4,Ch47: The Truth of a Viewing,Siuan Sanche,644,0.1671,pov:0323,47,b04:c47,1
+4,Ch47: The Truth of a Viewing,Min Farshaw,6829,1.7719,pov:0324,47,b04:c47,1
+4,Ch48: An Offer Refused,Rand al'Thor,5521,1.4325,pov:0325,48,b04:c48,1
+4,Ch49: Cold Rocks Hold,Rand al'Thor,6025,1.5633,pov:0326,49,b04:c49,1
+4,Ch50: Traps,Rand al'Thor,5129,1.3308,pov:0327,50,b04:c50,1
+4,Ch50: Traps,Matrim Cauthon,1724,0.4473,pov:0328,50,b04:c50,1
+4,Ch51: Revelations in Tanchico,Elayne Trakand,6646,1.7244,pov:0329,51,b04:c51,1
+4,Ch52: Need,Nynaeve al'Meara,6589,1.7096,pov:0330,52,b04:c52,1
+4,Ch52: Need,Elayne Trakand,2011,0.5218,pov:0331,52,b04:c52,1
+4,Ch53: The Price of a Departure,Perrin Aybara,7948,2.0622,pov:0332,53,b04:c53,1
+4,Ch54: Into the Palace,Elayne Trakand,5319,1.3801,pov:0333,54,b04:c54,1
+4,Ch54: Into the Palace,Nynaeve al'Meara,3645,0.9457,pov:0334,54,b04:c54,1
+4,Ch55: Into the Deep,Nynaeve al'Meara,3229,0.8378,pov:0335,55,b04:c55,1
+4,Ch56: Goldeneyes,Perrin Aybara,8248,2.14,pov:0336,56,b04:c56,1
+4,Ch56: Goldeneyes,Padan Fain,514,0.1334,pov:0337,56,b04:c56,1
+4,Ch57: A Breaking in the Three-fold Land,Rand al'Thor,8239,2.1377,pov:0338,57,b04:c57,1
+4,Ch58: The Traps of Rhuidean,Rand al'Thor,6665,1.7293,pov:0339,58,b04:c58,1
+4,Ch58: The Traps of Rhuidean,Quote,68,0.0176,pov:0340,58,b04:c58,1
+5,Prologue: The First Sparks Fall,Quote,86,0.0249,pov:0341,Prologue,b05:cPrologue,1
+5,Prologue: The First Sparks Fall,Elaida do Avriny a'Roihan,4773,1.3797,pov:0342,Prologue,b05:cPrologue,1
+5,Prologue: The First Sparks Fall,Padan Fain,874,0.2526,pov:0343,Prologue,b05:cPrologue,1
+5,Prologue: The First Sparks Fall,Rahvin,3456,0.999,pov:0344,Prologue,b05:cPrologue,1
+5,Ch1: Fanning The Sparks,Min Farshaw,8332,2.4084,pov:0345,1,b05:c1,1
+5,Ch1: Fanning The Sparks,Gareth Bryne,2357,0.6813,pov:0346,1,b05:c1,1
+5,Ch1: Fanning The Sparks,Alteima,3000,0.8672,pov:0347,1,b05:c1,1
+5,Ch1: Fanning The Sparks,Morgase Trakand,247,0.0714,pov:0348,1,b05:c1,1
+5,Ch2: Rhuidean,Rand al'Thor,9104,2.6316,pov:0349,2,b05:c2,1
+5,Ch3: Pale Shadows,Rand al'Thor,3344,0.9666,pov:0350,3,b05:c3,1
+5,Ch3: Pale Shadows,Matrim Cauthon,3765,1.0883,pov:0351,3,b05:c3,1
+5,Ch4: Twilight,Rand al'Thor,5220,1.5089,pov:0352,4,b05:c4,1
+5,Ch5: Among the Wise Ones,Egwene al'Vere,8230,2.3789,pov:0353,5,b05:c5,1
+5,Ch6: Gateways,Rand al'Thor,8388,2.4246,pov:0354,6,b05:c6,1
+5,Ch7: A Departure,Egwene al'Vere,2933,0.8478,pov:0355,7,b05:c7,1
+5,Ch7: A Departure,Moiraine Damodred,1533,0.4431,pov:0356,7,b05:c7,1
+5,Ch8: Over the Border,Nynaeve al'Meara,3390,0.9799,pov:0357,8,b05:c8,1
+5,Ch9: A Signal,Nynaeve al'Meara,6131,1.7722,pov:0358,9,b05:c9,1
+5,Ch10: Figs and Mice,Elayne Trakand,4608,1.332,pov:0359,10,b05:c10,1
+5,Ch10: Figs and Mice,Narrator,841,0.2431,pov:0360,10,b05:c10,1
+5,Ch11: The Nine Horse Hitch,Siuan Sanche,3766,1.0886,pov:0361,11,b05:c11,1
+5,Ch11: The Nine Horse Hitch,Min Farshaw,792,0.2289,pov:0362,11,b05:c11,1
+5,Ch12: An Old Pipe,Gareth Bryne,2619,0.757,pov:0363,12,b05:c12,1
+5,Ch13: A Small Room in Sienda,Elayne Trakand,5285,1.5277,pov:0364,13,b05:c13,1
+5,Ch14: Meetings,Nynaeve al'Meara,5010,1.4482,pov:0365,14,b05:c14,1
+5,Ch15: What Can Be Learned in Dreams,Nynaeve al'Meara,4724,1.3655,pov:0366,15,b05:c15,1
+5,Ch15: What Can Be Learned in Dreams,Egwene al'Vere,3147,0.9097,pov:0367,15,b05:c15,1
+5,Ch16: An Unexpected Offer,Nynaeve al'Meara,5979,1.7283,pov:0368,16,b05:c16,1
+5,Ch17: Heading West,Nynaeve al'Meara,4582,1.3245,pov:0369,17,b05:c17,1
+5,Ch18: A Hound of Darkness,Liandrin,3710,1.0724,pov:0370,18,b05:c18,1
+5,Ch19: Memories,Morgase Trakand,7451,2.1538,pov:0371,19,b05:c19,1
+5,Ch19: Memories,Padan Fain,1680,0.4856,pov:0372,19,b05:c19,1
+5,Ch20: Jangai Pass,Rand al'Thor,3755,1.0854,pov:0373,20,b05:c20,1
+5,Ch21: The Gift of a Blade,Rand al'Thor,4428,1.2799,pov:0374,21,b05:c21,1
+5,Ch22: Birdcalls by Night,Matrim Cauthon,2430,0.7024,pov:0375,22,b05:c22,1
+5,Ch22: Birdcalls by Night,Rand al'Thor,2665,0.7703,pov:0376,22,b05:c22,1
+5,"Ch23: ""The Fifth, I Give You""",Egwene al'Vere,3556,1.0279,pov:0377,23,b05:c23,1
+5,Ch24: A Message Sent,Egwene al'Vere,4004,1.1574,pov:0378,24,b05:c24,1
+5,Ch25: Dreams of Galad,Egwene al'Vere,3553,1.027,pov:0379,25,b05:c25,1
+5,Ch25: Dreams of Galad,Moghedien,269,0.0778,pov:0380,25,b05:c25,1
+5,Ch26: Sallie Daera,Min Farshaw,5155,1.4901,pov:0381,26,b05:c26,1
+5,Ch27: The Practice of Diffidence,Siuan Sanche,6503,1.8797,pov:0382,27,b05:c27,1
+5,Ch28: Trapped,Gareth Bryne,3739,1.0808,pov:0383,28,b05:c28,1
+5,Ch28: Trapped,Min Farshaw,1620,0.4683,pov:0384,28,b05:c28,1
+5,Ch29: Memories of Saldaea,Hadnan Kadere,2262,0.6538,pov:0385,29,b05:c29,1
+5,Ch30: A Wager,Rand al'Thor,3816,1.103,pov:0386,30,b05:c30,1
+5,Ch31: The Far Snows,Rand al'Thor,4564,1.3193,pov:0387,31,b05:c31,1
+5,Ch32: A Short Spear,Rand al'Thor,5135,1.4843,pov:0388,32,b05:c32,1
+5,Ch33: A Question of Crimson,Nynaeve al'Meara,4784,1.3828,pov:0389,33,b05:c33,1
+5,Ch34: A Silver Arrow,Nynaeve al'Meara,4724,1.3655,pov:0390,34,b05:c34,1
+5,Ch34: A Silver Arrow,Liandrin,1393,0.4027,pov:0391,34,b05:c34,1
+5,Ch35: Ripped Away,Elayne Trakand,3178,0.9186,pov:0392,35,b05:c35,1
+5,Ch36: A New Name,Elayne Trakand,6198,1.7916,pov:0393,36,b05:c36,1
+5,Ch37: Performances in Samara,Nynaeve al'Meara,4246,1.2273,pov:0394,37,b05:c37,1
+5,Ch38: An Old Acquaintance,Nynaeve al'Meara,2791,0.8068,pov:0395,38,b05:c38,1
+5,Ch39: Encounters in Samara,Nynaeve al'Meara,7284,2.1055,pov:0396,39,b05:c39,1
+5,Ch40: The Wheel Weaves,Nynaeve al'Meara,7737,2.2364,pov:0397,40,b05:c40,1
+5,Ch41: The Craft of Kin Tovere,Rand al'Thor,4173,1.2062,pov:0398,41,b05:c41,1
+5,Ch42: Before The Arrow,Matrim Cauthon,4767,1.3779,pov:0399,42,b05:c42,1
+5,Ch42: Before The Arrow,Rand al'Thor,1328,0.3839,pov:0400,42,b05:c42,1
+5,"Ch43: This Place, This Day",Rand al'Thor,3160,0.9134,pov:0401,43,b05:c43,1
+5,"Ch43: This Place, This Day",Matrim Cauthon,3938,1.1383,pov:0402,43,b05:c43,1
+5,Ch44: The Lesser Sadness,Rand al'Thor,3735,1.0796,pov:0403,44,b05:c44,1
+5,Ch44: The Lesser Sadness,Matrim Cauthon,2792,0.807,pov:0404,44,b05:c44,1
+5,Ch44: The Lesser Sadness,Rand al'Thor,2056,0.5943,pov:0405,44,b05:c44,1
+5,Ch45: After the Storm,Matrim Cauthon,2769,0.8004,pov:0406,45,b05:c45,1
+5,Ch45: After the Storm,Rand al'Thor,3454,0.9984,pov:0407,45,b05:c45,1
+5,"Ch46: Other Battle, Other Weapons",Rand al'Thor,7882,2.2783,pov:0408,46,b05:c46,1
+5,Ch47: The Price of A Ship,Nynaeve al'Meara,6981,2.0179,pov:0409,47,b05:c47,1
+5,Ch47: The Price of A Ship,Elayne Trakand,1659,0.4795,pov:0410,47,b05:c47,1
+5,Ch48: Leavetakings,Nynaeve al'Meara,4989,1.4421,pov:0411,48,b05:c48,1
+5,Ch49: To Boannda,Nynaeve al'Meara,11647,3.3666,pov:0412,49,b05:c49,1
+5,"Ch50: To Teach, and Learn",Nynaeve al'Meara,8004,2.3136,pov:0413,50,b05:c50,1
+5,"Ch50: To Teach, and Learn",Elayne Trakand,1490,0.4307,pov:0414,50,b05:c50,1
+5,Ch51: News Comes to Cairhien,Rand al'Thor,7301,2.1104,pov:0415,51,b05:c51,1
+5,Ch51: News Comes to Cairhien,Egwene al'Vere,573,0.1656,pov:0416,51,b05:c51,1
+5,Ch51: News Comes to Cairhien,Matrim Cauthon,1709,0.494,pov:0417,51,b05:c51,1
+5,Ch52: Choices,Rand al'Thor,3339,0.9652,pov:0418,52,b05:c52,1
+5,Ch52: Choices,Hadnan Kadere,1258,0.3636,pov:0419,52,b05:c52,1
+5,Ch52: Choices,Rand al'Thor,2155,0.6229,pov:0420,52,b05:c52,1
+5,Ch52: Choices,Moiraine Damodred,462,0.1335,pov:0421,52,b05:c52,1
+5,Ch53: Fading Words,Rand al'Thor,4263,1.2322,pov:0422,53,b05:c53,1
+5,Ch54: To Caemlyn,Rand al'Thor,3802,1.099,pov:0423,54,b05:c54,1
+5,Ch54: To Caemlyn,Nynaeve al'Meara,5381,1.5554,pov:0424,54,b05:c54,1
+5,Ch55: The Threads Burn,Rand al'Thor,2240,0.6475,pov:0425,55,b05:c55,1
+5,Ch55: The Threads Burn,Nynaeve al'Meara,1646,0.4758,pov:0426,55,b05:c55,1
+5,Ch55: The Threads Burn,Rand al'Thor,835,0.2414,pov:0427,55,b05:c55,1
+5,Ch55: The Threads Burn,Nynaeve al'Meara,1090,0.3151,pov:0428,55,b05:c55,1
+5,Ch55: The Threads Burn,Rand al'Thor,355,0.1026,pov:0429,55,b05:c55,1
+5,Ch55: The Threads Burn,Nynaeve al'Meara,1347,0.3894,pov:0430,55,b05:c55,1
+5,Ch55: The Threads Burn,Rand al'Thor,1087,0.3142,pov:0431,55,b05:c55,1
+5,Ch56: Glowing Embers,Rand al'Thor,1901,0.5495,pov:0432,56,b05:c56,1
+5,Ch56: Glowing Embers,Asmodean,328,0.0948,pov:0433,56,b05:c56,1
+5,Ch56: Glowing Embers,Morgase Trakand,835,0.2414,pov:0434,56,b05:c56,1
+5,Ch56: Glowing Embers,Quote,77,0.0223,pov:0435,56,b05:c56,1
+6,Prologue: The First Message,Quote,41,0.0104,pov:0436,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Demandred,1864,0.4717,pov:0437,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Nynaeve al'Meara,5063,1.2813,pov:0438,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Elayne Trakand,4046,1.024,pov:0439,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Faile Bashere,6021,1.5238,pov:0440,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Gawyn Trakand,2591,0.6557,pov:0441,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Katerine Alruddin,1001,0.2533,pov:0442,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Sevanna,637,0.1612,pov:0443,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Morgase Trakand,4374,1.107,pov:0444,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Pedron Niall,1280,0.3239,pov:0445,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Mesaana,1908,0.4829,pov:0446,Prologue,b06:cPrologue,1
+6,Prologue: The First Message,Osan'gar,1272,0.3219,pov:0447,Prologue,b06:cPrologue,1
+6,Ch1: Lion on the Hill,Rand al'Thor,6490,1.6425,pov:0448,1,b06:c1,1
+6,Ch2: A New Arrival,Rand al'Thor,5591,1.415,pov:0449,2,b06:c2,1
+6,Ch3: A Woman's Eyes,Rand al'Thor,6592,1.6683,pov:0450,3,b06:c3,1
+6,Ch4: A Sense of Humor,Rand al'Thor,7704,1.9497,pov:0451,4,b06:c4,1
+6,Ch5: A Different Dance,Matrim Cauthon,12582,3.1842,pov:0452,5,b06:c5,1
+6,Ch6: Threads Woven of Shadow,Sammael,5102,1.2912,pov:0453,6,b06:c6,1
+6,Ch6: Threads Woven of Shadow,Graendal,986,0.2495,pov:0454,6,b06:c6,1
+6,Ch6: Threads Woven of Shadow,Semirhage,3091,0.7823,pov:0455,6,b06:c6,1
+6,Ch7: A Matter of Thought,Elayne Trakand,11728,2.9681,pov:0456,7,b06:c7,1
+6,Ch7: A Matter of Thought,Demandred,141,0.0357,pov:0457,7,b06:c7,1
+6,Ch8: The Storm Gathers,Nynaeve al'Meara,9990,2.5282,pov:0458,8,b06:c8,1
+6,Ch9: Plans,Pedron Niall,5208,1.318,pov:0459,9,b06:c9,1
+6,Ch9: Plans,Morgase Trakand,2529,0.64,pov:0460,9,b06:c9,1
+6,Ch10: A Saying in the Borderlands,Rand al'Thor,8249,2.0876,pov:0461,10,b06:c10,1
+6,Ch11: Lessons and Teachers,Verin Mathwin,3197,0.8091,pov:0462,11,b06:c11,1
+6,Ch11: Lessons and Teachers,Rand al'Thor,2531,0.6405,pov:0463,11,b06:c11,1
+6,Ch12: Questions and Answers,Nynaeve al'Meara,8590,2.1739,pov:0464,12,b06:c12,1
+6,Ch12: Questions and Answers,Narrator,10,0.0025,pov:0465,12,b06:c12,1
+6,Ch13: Under the Dust,Nynaeve al'Meara,7829,1.9813,pov:0466,13,b06:c13,1
+6,Ch14: Dreams and Nightmares,Egwene al'Vere,3651,0.924,pov:0467,14,b06:c14,1
+6,Ch14: Dreams and Nightmares,Nynaeve al'Meara,2959,0.7489,pov:0468,14,b06:c14,1
+6,Ch15: A Pile of Sand,Egwene al'Vere,4030,1.0199,pov:0469,15,b06:c15,1
+6,Ch15: A Pile of Sand,Elayne Trakand,4328,1.0953,pov:0470,15,b06:c15,1
+6,Ch15: A Pile of Sand,Sheriam Bayanar,129,0.0326,pov:0471,15,b06:c15,1
+6,Ch16: Tellings of the Wheel,Rand al'Thor,5811,1.4706,pov:0472,16,b06:c16,1
+6,Ch17: The Wheel of a Life,Rand al'Thor,5573,1.4104,pov:0473,17,b06:c17,1
+6,Ch18: A Taste of Solitude,Rand al'Thor,4031,1.0202,pov:0474,18,b06:c18,1
+6,Ch18: A Taste of Solitude,Egwene al'Vere,3380,0.8554,pov:0475,18,b06:c18,1
+6,Ch18: A Taste of Solitude,Rand al'Thor,322,0.0815,pov:0476,18,b06:c18,1
+6,Ch18: A Taste of Solitude,Sulin,149,0.0377,pov:0477,18,b06:c18,1
+6,Ch19: Matters of Toh,Rand al'Thor,4365,1.1047,pov:0478,19,b06:c19,1
+6,Ch19: Matters of Toh,Aviendha,654,0.1655,pov:0479,19,b06:c19,1
+6,Ch20: From the Stedding,Rand al'Thor,5045,1.2768,pov:0480,20,b06:c20,1
+6,Ch21: To Shadar Logoth,Rand al'Thor,5347,1.3532,pov:0481,21,b06:c21,1
+6,Ch22: Heading South,Matrim Cauthon,6192,1.5671,pov:0482,22,b06:c22,1
+6,Ch23: To Understand a Message,Graendal,1811,0.4583,pov:0483,23,b06:c23,1
+6,Ch23: To Understand a Message,Sammael,144,0.0364,pov:0484,23,b06:c23,1
+6,Ch24: An Embassy,Egwene al'Vere,4754,1.2031,pov:0485,24,b06:c24,1
+6,Ch25: Like Lightning and Rain,Egwene al'Vere,6090,1.5412,pov:0486,25,b06:c25,1
+6,Ch25: Like Lightning and Rain,Katerine Alruddin,78,0.0197,pov:0487,25,b06:c25,1
+6,Ch25: Like Lightning and Rain,Nesune Bihara,85,0.0215,pov:0488,25,b06:c25,1
+6,Ch25: Like Lightning and Rain,Sarene Nemdahl,1116,0.2824,pov:0489,25,b06:c25,1
+6,Ch26: Connecting Lines,Rand al'Thor,5069,1.2829,pov:0490,26,b06:c26,1
+6,Ch27: Gifts,Egwene al'Vere,8587,2.1732,pov:0491,27,b06:c27,1
+6,Ch27: Gifts,Nesune Bihara,800,0.2025,pov:0492,27,b06:c27,1
+6,Ch28: Letters,Rand al'Thor,6309,1.5967,pov:0493,28,b06:c28,1
+6,Ch28: Letters,Padan Fain,1223,0.3095,pov:0494,28,b06:c28,1
+6,Ch29: Fire and Spirit,Nynaeve al'Meara,4999,1.2651,pov:0495,29,b06:c29,1
+6,Ch30: To Heal Again,Nynaeve al'Meara,3606,0.9126,pov:0496,30,b06:c30,1
+6,Ch30: To Heal Again,Siuan Sanche,1356,0.3432,pov:0497,30,b06:c30,1
+6,Ch30: To Heal Again,Elayne Trakand,2583,0.6537,pov:0498,30,b06:c30,1
+6,Ch30: To Heal Again,Delana Mosalaine,1406,0.3558,pov:0499,30,b06:c30,1
+6,Ch31: Red Wax,Eamon Valda,1659,0.4199,pov:0500,31,b06:c31,1
+6,Ch31: Red Wax,Pedron Niall,885,0.224,pov:0501,31,b06:c31,1
+6,Ch31: Red Wax,Morgase Trakand,2686,0.6798,pov:0502,31,b06:c31,1
+6,Ch31: Red Wax,Rhadam Asunawa,351,0.0888,pov:0503,31,b06:c31,1
+6,Ch32: Summoned in Haste,Egwene al'Vere,5261,1.3314,pov:0504,32,b06:c32,1
+6,Ch32: Summoned in Haste,Rand al'Thor,210,0.0531,pov:0505,32,b06:c32,1
+6,Ch33: Courage to Strengthen,Egwene al'Vere,930,0.2354,pov:0506,33,b06:c33,1
+6,Ch33: Courage to Strengthen,Matrim Cauthon,3469,0.8779,pov:0507,33,b06:c33,1
+6,Ch33: Courage to Strengthen,Egwene al'Vere,1657,0.4194,pov:0508,33,b06:c33,1
+6,Ch34: Journey to Salidar,Egwene al'Vere,3062,0.7749,pov:0509,34,b06:c34,1
+6,Ch35: In the Hall of the Sitters,Egwene al'Vere,3774,0.9551,pov:0510,35,b06:c35,1
+6,Ch36: The Amyrlin Is Raised,Egwene al'Vere,5520,1.397,pov:0511,36,b06:c36,1
+6,Ch37: When Battle Begins,Egwene al'Vere,3553,0.8992,pov:0512,37,b06:c37,1
+6,Ch37: When Battle Begins,Romanda Cassin,200,0.0506,pov:0513,37,b06:c37,1
+6,Ch37: When Battle Begins,Lelaine Akashi,160,0.0405,pov:0514,37,b06:c37,1
+6,Ch37: When Battle Begins,Delana Mosalaine,305,0.0772,pov:0515,37,b06:c37,1
+6,Ch37: When Battle Begins,Siuan Sanche,284,0.0719,pov:0516,37,b06:c37,1
+6,Ch37: When Battle Begins,Nynaeve al'Meara,231,0.0585,pov:0517,37,b06:c37,1
+6,Ch37: When Battle Begins,Elayne Trakand,446,0.1129,pov:0518,37,b06:c37,1
+6,Ch37: When Battle Begins,Egwene al'Vere,108,0.0273,pov:0519,37,b06:c37,1
+6,Ch38: A Sudden Chill,Matrim Cauthon,4800,1.2148,pov:0520,38,b06:c38,1
+6,Ch39: Possibilities,Egwene al'Vere,5713,1.4458,pov:0521,39,b06:c39,1
+6,Ch40: Unexpected Laughter,Matrim Cauthon,2182,0.5522,pov:0522,40,b06:c40,1
+6,Ch40: Unexpected Laughter,Elayne Trakand,2627,0.6648,pov:0523,40,b06:c40,1
+6,Ch41: A Threat,Min Farshaw,1687,0.4269,pov:0524,41,b06:c41,1
+6,Ch41: A Threat,Rand al'Thor,5882,1.4886,pov:0525,41,b06:c41,1
+6,Ch42: The Black Tower,Rand al'Thor,4879,1.2348,pov:0526,42,b06:c42,1
+6,Ch43: The Crown of Roses,Merana Ambrey,2810,0.7111,pov:0527,43,b06:c43,1
+6,Ch43: The Crown of Roses,Dyelin Taravin,102,0.0258,pov:0528,43,b06:c43,1
+6,Ch43: The Crown of Roses,Luan Norwelyn,109,0.0276,pov:0529,43,b06:c43,1
+6,Ch43: The Crown of Roses,Ellorien Traemane,83,0.021,pov:0530,43,b06:c43,1
+6,Ch44: The Color of Trust,Matrim Cauthon,5657,1.4317,pov:0531,44,b06:c44,1
+6,Ch44: The Color of Trust,Egwene al'Vere,276,0.0698,pov:0532,44,b06:c44,1
+6,Ch45: A Bitter Thought,Vilnar Barada,879,0.2225,pov:0533,45,b06:c45,1
+6,Ch45: A Bitter Thought,Perrin Aybara,4550,1.1515,pov:0534,45,b06:c45,1
+6,Ch46: Beyond the Gate,Perrin Aybara,3382,0.8559,pov:0535,46,b06:c46,1
+6,Ch46: Beyond the Gate,Rand al'Thor,1691,0.428,pov:0536,46,b06:c46,1
+6,Ch46: Beyond the Gate,Demira Eriff,920,0.2328,pov:0537,46,b06:c46,1
+6,Ch46: Beyond the Gate,Perrin Aybara,1288,0.326,pov:0538,46,b06:c46,1
+6,Ch46: Beyond the Gate,Demira Eriff,1298,0.3285,pov:0539,46,b06:c46,1
+6,Ch47: The Wandering Woman,Matrim Cauthon,5999,1.5182,pov:0540,47,b06:c47,1
+6,Ch48: Leaning on the Knife,Nynaeve al'Meara,5087,1.2874,pov:0541,48,b06:c48,1
+6,Ch49: The Mirror of Mists,Rand al'Thor,4144,1.0488,pov:0542,49,b06:c49,1
+6,Ch49: The Mirror of Mists,Min Farshaw,1698,0.4297,pov:0543,49,b06:c49,1
+6,Ch49: The Mirror of Mists,Rand al'Thor,1851,0.4684,pov:0544,49,b06:c49,1
+6,Ch49: The Mirror of Mists,Merana Ambrey,2114,0.535,pov:0545,49,b06:c49,1
+6,Ch50: Thorns,Rand al'Thor,4328,1.0953,pov:0546,50,b06:c50,1
+6,Ch50: Thorns,Perrin Aybara,2519,0.6375,pov:0547,50,b06:c50,1
+6,Ch50: Thorns,Rand al'Thor,285,0.0721,pov:0548,50,b06:c50,1
+6,Ch51: The Taking,Rand al'Thor,1451,0.3672,pov:0549,51,b06:c51,1
+6,Ch51: The Taking,Bain,280,0.0709,pov:0550,51,b06:c51,1
+6,Ch51: The Taking,Perrin Aybara,248,0.0628,pov:0551,51,b06:c51,1
+6,Ch51: The Taking,Rand al'Thor,557,0.141,pov:0552,51,b06:c51,1
+6,Ch51: The Taking,Sorilea,205,0.0519,pov:0553,51,b06:c51,1
+6,Ch52: Weaves of the Power,Matrim Cauthon,1761,0.4457,pov:0554,52,b06:c52,1
+6,Ch52: Weaves of the Power,Elayne Trakand,2171,0.5494,pov:0555,52,b06:c52,1
+6,Ch52: Weaves of the Power,Egwene al'Vere,3071,0.7772,pov:0556,52,b06:c52,1
+6,Ch52: Weaves of the Power,Myrelle Berengari,588,0.1488,pov:0557,52,b06:c52,1
+6,Ch53: The Feast of Lights,Perrin Aybara,4400,1.1135,pov:0558,53,b06:c53,1
+6,Ch53: The Feast of Lights,Galina Casban,896,0.2268,pov:0559,53,b06:c53,1
+6,Ch53: The Feast of Lights,Rand al'Thor,1663,0.4209,pov:0560,53,b06:c53,1
+6,Ch53: The Feast of Lights,Galina Casban,336,0.085,pov:0561,53,b06:c53,1
+6,Ch53: The Feast of Lights,Sevanna,322,0.0815,pov:0562,53,b06:c53,1
+6,Ch54: The Sending,Perrin Aybara,8863,2.243,pov:0563,54,b06:c54,1
+6,Ch55: Dumai's Wells,Gawyn Trakand,872,0.2207,pov:0564,55,b06:c55,1
+6,Ch55: Dumai's Wells,Rand al'Thor,678,0.1716,pov:0565,55,b06:c55,1
+6,Ch55: Dumai's Wells,Perrin Aybara,2082,0.5269,pov:0566,55,b06:c55,1
+6,Ch55: Dumai's Wells,Rand al'Thor,5470,1.3843,pov:0567,55,b06:c55,1
+6,Epilogue: The Answer,Falion Bhoda,314,0.0795,pov:0568,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Narrator,120,0.0304,pov:0569,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Seanchan Rider,129,0.0326,pov:0570,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Moghedien,583,0.1475,pov:0571,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Egwene al'Vere,154,0.039,pov:0572,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Demandred,39,0.0099,pov:0573,Epilogue,b06:cEpilogue,1
+6,Epilogue: The Answer,Quote,71,0.018,pov:0574,Epilogue,b06:cEpilogue,1
+7,Prologue: Lightnings,Quote,103,0.0358,pov:0575,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Elaida do Avriny a'Roihan,6480,2.2522,pov:0576,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Sevanna,5304,1.8435,pov:0577,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Alviarin Freidhen,2329,0.8095,pov:0578,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Pedron Niall,2313,0.8039,pov:0579,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Eamon Valda,1079,0.375,pov:0580,Prologue,b07:cPrologue,1
+7,Prologue: Lightnings,Gawyn Trakand,1959,0.6809,pov:0581,Prologue,b07:cPrologue,1
+7,Ch1: High Chasaline,Perrin Aybara,5983,2.0795,pov:0582,1,b07:c1,1
+7,Ch2: The Butcher's Yard,Perrin Aybara,9708,3.3741,pov:0583,2,b07:c2,1
+7,Ch3: Hill of the Golden Dawn,Perrin Aybara,6409,2.2275,pov:0584,3,b07:c3,1
+7,Ch4: Into Cairhien,Perrin Aybara,5032,1.7489,pov:0585,4,b07:c4,1
+7,Ch5: A Broken Crown,Perrin Aybara,5034,1.7496,pov:0586,5,b07:c5,1
+7,"Ch6: Old Fear, and New Fear",Perrin Aybara,4401,1.5296,pov:0587,6,b07:c6,1
+7,Ch7: Pitfalls and Tripwires,Rand al'Thor,7930,2.7562,pov:0588,7,b07:c7,1
+7,Ch8: The Figurehead,Egwene al'Vere,4886,1.6982,pov:0589,8,b07:c8,1
+7,Ch9: A Pair of Silverpike,Egwene al'Vere,8177,2.842,pov:0590,9,b07:c9,1
+7,Ch10: Unseen Eyes,Egwene al'Vere,8530,2.9647,pov:0591,10,b07:c10,1
+7,Ch11: An Oath,Egwene al'Vere,7968,2.7694,pov:0592,11,b07:c11,1
+7,Ch12: A Morning of Victory,Egwene al'Vere,13402,4.658,pov:0593,12,b07:c12,1
+7,Ch13: The Bowl of the Winds,Aviendha,7648,2.6581,pov:0594,13,b07:c13,1
+7,Ch14: White Plumes,Matrim Cauthon,6557,2.279,pov:0595,14,b07:c14,1
+7,Ch15: Insects,Jaichim Carridin,3379,1.1744,pov:0596,15,b07:c15,1
+7,Ch16: A Touch on the Cheek,Matrim Cauthon,5637,1.9592,pov:0597,16,b07:c16,1
+7,Ch17: The Triumph of Logic,Matrim Cauthon,3809,1.3239,pov:0598,17,b07:c17,1
+7,Ch17: The Triumph of Logic,Joline Maza,1527,0.5307,pov:0599,17,b07:c17,1
+7,Ch17: The Triumph of Logic,Falion Bhoda,1479,0.514,pov:0600,17,b07:c17,1
+7,Ch17: The Triumph of Logic,Noal Charin,314,0.1091,pov:0601,17,b07:c17,1
+7,Ch18: As the Plow Breaks the Earth,Rand al'Thor,6010,2.0888,pov:0602,18,b07:c18,1
+7,Ch19: Diamonds and Stars,Merana Ambrey,3992,1.3875,pov:0603,19,b07:c19,1
+7,Ch19: Diamonds and Stars,Min Farshaw,1535,0.5335,pov:0604,19,b07:c19,1
+7,Ch19: Diamonds and Stars,Cadsuane Melaidhrin,425,0.1477,pov:0605,19,b07:c19,1
+7,Ch20: Patterns Within Patterns,Sevanna,3482,1.2102,pov:0606,20,b07:c20,1
+7,Ch20: Patterns Within Patterns,Moridin,1115,0.3875,pov:0607,20,b07:c20,1
+7,Ch21: Swovan Night,Matrim Cauthon,2290,0.7959,pov:0608,21,b07:c21,1
+7,Ch21: Swovan Night,Nynaeve al'Meara,3288,1.1428,pov:0609,21,b07:c21,1
+7,Ch22: Small Sacrifices,Elayne Trakand,6259,2.1754,pov:0610,22,b07:c22,1
+7,Ch23: Next Door to a Weaver,Nynaeve al'Meara,7280,2.5302,pov:0611,23,b07:c23,1
+7,Ch24: The Kin,Reanne Corly,1242,0.4317,pov:0612,24,b07:c24,1
+7,Ch24: The Kin,Nynaeve al'Meara,2245,0.7803,pov:0613,24,b07:c24,1
+7,Ch25: Mindtrap,Moghedien,3717,1.2919,pov:0614,25,b07:c25,1
+7,Ch26: The Irrevocable Words,Morgase Trakand,8489,2.9504,pov:0615,26,b07:c26,1
+7,Ch27: To Be Alone,Perrin Aybara,3712,1.2901,pov:0616,27,b07:c27,1
+7,Ch28: Bread and Cheese,Matrim Cauthon,6692,2.3259,pov:0617,28,b07:c28,1
+7,Ch29: The Festival of Birds,Matrim Cauthon,4706,1.6356,pov:0618,29,b07:c29,1
+7,Ch29: The Festival of Birds,Reanne Corly,274,0.0952,pov:0619,29,b07:c29,1
+7,Ch30: The First Cup,Elayne Trakand,3212,1.1164,pov:0620,30,b07:c30,1
+7,Ch30: The First Cup,Moghedien,1195,0.4153,pov:0621,30,b07:c30,1
+7,Ch31: Mashiara,Nynaeve al'Meara,4645,1.6144,pov:0622,31,b07:c31,1
+7,Ch31: Mashiara,Elayne Trakand,2722,0.9461,pov:0623,31,b07:c31,1
+7,Ch32: Sealed to the Flame,Elaida do Avriny a'Roihan,3207,1.1146,pov:0624,32,b07:c32,1
+7,Ch32: Sealed to the Flame,Alviarin Freidhen,217,0.0754,pov:0625,32,b07:c32,1
+7,Ch32: Sealed to the Flame,Seaine Herimon,3228,1.1219,pov:0626,32,b07:c32,1
+7,Ch33: A Bath,Rand al'Thor,4831,1.6791,pov:0627,33,b07:c33,1
+7,Ch34: Ta'veren,Rand al'Thor,5652,1.9644,pov:0628,34,b07:c34,1
+7,Ch35: Into the Woods,Min Farshaw,6579,2.2866,pov:0629,35,b07:c35,1
+7,Ch36: Blades,Min Farshaw,8114,2.8201,pov:0630,36,b07:c36,1
+7,Ch37: A Note from the Palace,Matrim Cauthon,3791,1.3176,pov:0631,37,b07:c37,1
+7,Ch38: Six Stories,Matrim Cauthon,9085,3.1576,pov:0632,38,b07:c38,1
+7,Ch39: Promises to Keep,Matrim Cauthon,8554,2.973,pov:0633,39,b07:c39,1
+7,Ch40: Spears,Galina Casban,2690,0.9349,pov:0634,40,b07:c40,1
+7,Ch40: Spears,Sevanna,1772,0.6159,pov:0635,40,b07:c40,1
+7,Ch40: Spears,Maeric,1127,0.3917,pov:0636,40,b07:c40,1
+7,Ch40: Spears,Graendal,551,0.1915,pov:0637,40,b07:c40,1
+7,Ch40: Spears,Shaidar Haran,230,0.0799,pov:0638,40,b07:c40,1
+7,Ch41: A Crown of Swords,Rand al'Thor,11891,4.1329,pov:0639,41,b07:c41,1
+7,Ch41: A Crown of Swords,Narrator,231,0.0803,pov:0640,41,b07:c41,1
+7,Ch41: A Crown of Swords,Quote,65,0.0226,pov:0641,41,b07:c41,1
+8,Prologue: Deceptive Appearances,Quote,52,0.0233,pov:0642,Prologue,b08:cPrologue,1
+8,Prologue: Deceptive Appearances,Ethenielle Kirukon Materasu,3917,1.7577,pov:0643,Prologue,b08:cPrologue,1
+8,Prologue: Deceptive Appearances,Verin Mathwin,7309,3.2799,pov:0644,Prologue,b08:cPrologue,1
+8,Prologue: Deceptive Appearances,Moridin,863,0.3873,pov:0645,Prologue,b08:cPrologue,1
+8,Ch1: To Keep the Bargain,Aviendha,8460,3.7964,pov:0646,1,b08:c1,1
+8,Ch2: Unweaving,Elayne Trakand,5893,2.6445,pov:0647,2,b08:c2,1
+8,Ch2: Unweaving,Moridin,1015,0.4555,pov:0648,2,b08:c2,1
+8,Ch2: Unweaving,Gholam,402,0.1804,pov:0649,2,b08:c2,1
+8,Ch3: A Pleasant Ride,Elayne Trakand,5029,2.2567,pov:0650,3,b08:c3,1
+8,Ch4: A Quiet Place,Elayne Trakand,5477,2.4578,pov:0651,4,b08:c4,1
+8,Ch5: The Breaking Storm,Elayne Trakand,7722,3.4652,pov:0652,5,b08:c5,1
+8,Ch6: Threads,Elayne Trakand,8456,3.7946,pov:0653,6,b08:c6,1
+8,Ch6: Threads,Chulein,1231,0.5524,pov:0654,6,b08:c6,1
+8,Ch7: A Goatpen,Perrin Aybara,6470,2.9034,pov:0655,7,b08:c7,1
+8,Ch8: A Simple Country Woman,Perrin Aybara,6891,3.0923,pov:0656,8,b08:c8,1
+8,Ch8: A Simple Country Woman,Faile Bashere,2314,1.0384,pov:0657,8,b08:c8,1
+8,Ch8: A Simple Country Woman,Morgase Trakand,1373,0.6161,pov:0658,8,b08:c8,1
+8,Ch9: Tangles,Perrin Aybara,7786,3.4939,pov:0659,9,b08:c9,1
+8,Ch10: Changes,Perrin Aybara,6231,2.7961,pov:0660,10,b08:c10,1
+8,Ch10: Changes,Faile Bashere,1780,0.7988,pov:0661,10,b08:c10,1
+8,Ch10: Changes,Perrin Aybara,1058,0.4748,pov:0662,10,b08:c10,1
+8,Ch11: Questions and an Oath,Sevanna,3223,1.4463,pov:0663,11,b08:c11,1
+8,Ch11: Questions and an Oath,Galina Casban,3476,1.5598,pov:0664,11,b08:c11,1
+8,Ch12: New Alliances,Graendal,3055,1.3709,pov:0665,12,b08:c12,1
+8,Ch12: New Alliances,Cadsuane Melaidhrin,5247,2.3546,pov:0666,12,b08:c12,1
+8,Ch13: Floating Like Snow,Rand al'Thor,4531,2.0333,pov:0667,13,b08:c13,1
+8,Ch14: Message from the M'Hael,Rand al'Thor,5471,2.4551,pov:0668,14,b08:c14,1
+8,Ch15: Stronger than Written Law,Egwene al'Vere,6755,3.0313,pov:0669,15,b08:c15,1
+8,Ch16: Unexpected Absences,Egwene al'Vere,2878,1.2915,pov:0670,16,b08:c16,1
+8,Ch16: Unexpected Absences,Aran'gar,255,0.1144,pov:0671,16,b08:c16,1
+8,Ch16: Unexpected Absences,Egwene al'Vere,4878,2.189,pov:0672,16,b08:c16,1
+8,Ch16: Unexpected Absences,Sheriam Bayanar,168,0.0754,pov:0673,16,b08:c16,1
+8,Ch17: Out on the Ice,Egwene al'Vere,5848,2.6243,pov:0674,17,b08:c17,1
+8,Ch18: A Peculiar Calling,Egwene al'Vere,3991,1.7909,pov:0675,18,b08:c18,1
+8,Ch19: The Law,Egwene al'Vere,6784,3.0443,pov:0676,19,b08:c19,1
+8,Ch20: Into Andor,Elayne Trakand,6200,2.7822,pov:0677,20,b08:c20,1
+8,Ch21: Answering the Summons,Rand al'Thor,5857,2.6283,pov:0678,21,b08:c21,1
+8,Ch22: Gathering Clouds,Rand al'Thor,3727,1.6725,pov:0679,22,b08:c22,1
+8,Ch22: Gathering Clouds,Assid Bakuun,1403,0.6296,pov:0680,22,b08:c22,1
+8,"Ch23: Fog of War, Storm of Battle",Rand al'Thor,2766,1.2412,pov:0681,23,b08:c23,1
+8,"Ch23: Fog of War, Storm of Battle",Furyk Karede,1603,0.7193,pov:0682,23,b08:c23,1
+8,"Ch23: Fog of War, Storm of Battle",Rand al'Thor,3655,1.6402,pov:0683,23,b08:c23,1
+8,Ch24: A Time for Iron,Kennar Miraj,2540,1.1398,pov:0684,24,b08:c24,1
+8,Ch24: A Time for Iron,Rand al'Thor,3226,1.4476,pov:0685,24,b08:c24,1
+8,Ch24: A Time for Iron,Kennar Miraj,649,0.2912,pov:0686,24,b08:c24,1
+8,Ch24: A Time for Iron,Bertome Saighan,1141,0.512,pov:0687,24,b08:c24,1
+8,Ch24: A Time for Iron,Varek,1308,0.587,pov:0688,24,b08:c24,1
+8,Ch24: A Time for Iron,Davram Bashere,776,0.3482,pov:0689,24,b08:c24,1
+8,Ch24: A Time for Iron,Rand al'Thor,2531,1.1358,pov:0690,24,b08:c24,1
+8,Ch24: A Time for Iron,Abaldar Yulan,117,0.0525,pov:0691,24,b08:c24,1
+8,Ch25: An Unwelcome Return,Elaida do Avriny a'Roihan,3509,1.5746,pov:0692,25,b08:c25,1
+8,Ch25: An Unwelcome Return,Alviarin Freidhen,629,0.2823,pov:0693,25,b08:c25,1
+8,Ch26: The Extra Bit,Seaine Herimon,5314,2.3846,pov:0694,26,b08:c26,1
+8,Ch26: The Extra Bit,Toveine Gazal,1904,0.8544,pov:0695,26,b08:c26,1
+8,Ch27: The Bargain,Min Farshaw,6473,2.9047,pov:0696,27,b08:c27,1
+8,Ch27: The Bargain,Rand al'Thor,2682,1.2035,pov:0697,27,b08:c27,1
+8,Ch28: Crimsonthorn,Elayne Trakand,4207,1.8879,pov:0698,28,b08:c28,1
+8,Ch28: Crimsonthorn,Daved Hanlon,1303,0.5847,pov:0699,28,b08:c28,1
+8,Ch29: A Cup of Sleep,Min Farshaw,3594,1.6128,pov:0700,29,b08:c29,1
+8,Ch29: A Cup of Sleep,Rand al'Thor,1989,0.8926,pov:0701,29,b08:c29,1
+8,Ch29: A Cup of Sleep,Min Farshaw,1104,0.4954,pov:0702,29,b08:c29,1
+8,Ch30: Beginnings,Perrin Aybara,2700,1.2116,pov:0703,30,b08:c30,1
+8,Ch30: Beginnings,Faile Bashere,2365,1.0613,pov:0704,30,b08:c30,1
+8,Ch30: Beginnings,Egwene al'Vere,964,0.4326,pov:0705,30,b08:c30,1
+8,Ch31: After,Narrator,319,0.1431,pov:0706,31,b08:c31,1
+9,Prologue: Snow,Quote,54,0.0226,pov:0707,Prologue,b09:cPrologue,1
+9,Prologue: Snow,Seaine Herimon,3594,1.5049,pov:0708,Prologue,b09:cPrologue,1
+9,Prologue: Snow,Elayne Trakand,12438,5.208,pov:0709,Prologue,b09:cPrologue,1
+9,Prologue: Snow,Toveine Gazal,5901,2.4708,pov:0710,Prologue,b09:cPrologue,1
+9,Prologue: Snow,Rand al'Thor,5209,2.1811,pov:0711,Prologue,b09:cPrologue,1
+9,Ch1: Leaving the Prophet,Perrin Aybara,4065,1.7021,pov:0712,1,b09:c1,1
+9,Ch2: Taken,Perrin Aybara,5321,2.228,pov:0713,2,b09:c2,1
+9,Ch3: Customs,Faile Bashere,4694,1.9655,pov:0714,3,b09:c3,1
+9,Ch4: Offers,Faile Bashere,6829,2.8594,pov:0715,4,b09:c4,1
+9,Ch5: Flags,Perrin Aybara,4042,1.6925,pov:0716,5,b09:c5,1
+9,Ch6: The Scent of Madness,Perrin Aybara,6850,2.8682,pov:0717,6,b09:c6,1
+9,Ch7: The Streets of Caemlyn,Elayne Trakand,6384,2.6731,pov:0718,7,b09:c7,1
+9,Ch8: Sea Folk and Kin,Elayne Trakand,7313,3.0621,pov:0719,8,b09:c8,1
+9,Ch9: A Cup of Tea,Elayne Trakand,4764,1.9948,pov:0720,9,b09:c9,1
+9,Ch10: A Plan Succeeds,Elayne Trakand,7551,3.1617,pov:0721,10,b09:c10,1
+9,Ch10: A Plan Succeeds,Asne Zeramene,1662,0.6959,pov:0722,10,b09:c10,1
+9,Ch10: A Plan Succeeds,Mili Skane,1087,0.4551,pov:0723,10,b09:c10,1
+9,Ch11: Ideas of Importance,Rand al'Thor,2675,1.1201,pov:0724,11,b09:c11,1
+9,Ch11: Ideas of Importance,Nynaeve al'Meara,7571,3.1701,pov:0725,11,b09:c11,1
+9,Ch12: A Lily in Winter,Elayne Trakand,5731,2.3997,pov:0726,12,b09:c12,1
+9,Ch12: A Lily in Winter,Min Farshaw,2706,1.133,pov:0727,12,b09:c12,1
+9,Ch12: A Lily in Winter,Elayne Trakand,343,0.1436,pov:0728,12,b09:c12,1
+9,Ch13: Wonderful News,Cadsuane Melaidhrin,4589,1.9215,pov:0729,13,b09:c13,1
+9,Ch13: Wonderful News,Demandred,2238,0.9371,pov:0730,13,b09:c13,1
+9,Ch14: What a Veil Hides,Tuon Athaem Kore Paendrag,3630,1.5199,pov:0731,14,b09:c14,1
+9,Ch15: In Need of a Bellfounder,Matrim Cauthon,4409,1.8461,pov:0732,15,b09:c15,1
+9,Ch16: An Unexpected Encounter,Matrim Cauthon,5996,2.5106,pov:0733,16,b09:c16,1
+9,Ch17: Pink Ribbons,Matrim Cauthon,6313,2.6434,pov:0734,17,b09:c17,1
+9,Ch18: An Offer,Matrim Cauthon,5968,2.4989,pov:0735,18,b09:c18,1
+9,Ch19: Three Women,Matrim Cauthon,6074,2.5433,pov:0736,19,b09:c19,1
+9,Ch20: Questions of Treason,Bethamin Zeami,4950,2.0726,pov:0737,20,b09:c20,1
+9,Ch21: A Matter of Property,Egeanin Tamarath,4622,1.9353,pov:0738,21,b09:c21,1
+9,Ch22: Out of Thin Air,Rand al'Thor,3433,1.4375,pov:0739,22,b09:c22,1
+9,Ch22: Out of Thin Air,Raefar Kisman,771,0.3228,pov:0740,22,b09:c22,1
+9,Ch22: Out of Thin Air,Rand al'Thor,1789,0.7491,pov:0741,22,b09:c22,1
+9,Ch22: Out of Thin Air,Slayer,705,0.2952,pov:0742,22,b09:c22,1
+9,Ch23: To Lose the Sun,Shalon din Togara Morning Tide,6617,2.7706,pov:0743,23,b09:c23,1
+9,Ch24: Among the Counsels,Shalon din Togara Morning Tide,4734,1.9822,pov:0744,24,b09:c24,1
+9,Ch25: Bonds,Rand al'Thor,4618,1.9336,pov:0745,25,b09:c25,1
+9,Ch25: Bonds,Verin Mathwin,1116,0.4673,pov:0746,25,b09:c25,1
+9,Ch26: Expectation,Elayne Trakand,6314,2.6438,pov:0747,26,b09:c26,1
+9,Ch27: To Surprise Queens and Kings,Elayne Trakand,7222,3.024,pov:0748,27,b09:c27,1
+9,Ch28: News in a Cloth Sack,Matrim Cauthon,6734,2.8196,pov:0749,28,b09:c28,1
+9,Ch29: Another Plan,Matrim Cauthon,6136,2.5692,pov:0750,29,b09:c29,1
+9,"Ch30: Cold, Fat Raindrops",Matrim Cauthon,3726,1.5601,pov:0751,30,b09:c30,1
+9,Ch31: What the Aelfinn Said,Matrim Cauthon,5102,2.1363,pov:0752,31,b09:c31,1
+9,Ch32: A Portion of Wisdom,Rand al'Thor,5309,2.223,pov:0753,32,b09:c32,1
+9,Ch33: Blue Carp Street,Min Farshaw,1411,0.5908,pov:0754,33,b09:c33,1
+9,Ch33: Blue Carp Street,Rand al'Thor,3359,1.4065,pov:0755,33,b09:c33,1
+9,Ch34: The Hummingbird's Secret,Nynaeve al'Meara,1189,0.4979,pov:0756,34,b09:c34,1
+9,Ch34: The Hummingbird's Secret,Rand al'Thor,621,0.26,pov:0757,34,b09:c34,1
+9,Ch34: The Hummingbird's Secret,Cadsuane Melaidhrin,1685,0.7055,pov:0758,34,b09:c34,1
+9,Ch35: With the Choedan Kal,Rand al'Thor,3924,1.643,pov:0759,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Elza Penfell,584,0.2445,pov:0760,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Barmellin,277,0.116,pov:0761,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Timna,186,0.0779,pov:0762,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cyndane,305,0.1277,pov:0763,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cadsuane Melaidhrin,368,0.1541,pov:0764,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Rand al'Thor,141,0.059,pov:0765,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Demandred,749,0.3136,pov:0766,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cyndane,119,0.0498,pov:0767,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Osan'gar,396,0.1658,pov:0768,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Verin Mathwin,225,0.0942,pov:0769,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Eben Hopwil,474,0.1985,pov:0770,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cyndane,398,0.1666,pov:0771,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Moghedien,305,0.1277,pov:0772,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Rand al'Thor,120,0.0502,pov:0773,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cadsuane Melaidhrin,627,0.2625,pov:0774,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Osan'gar,236,0.0988,pov:0775,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Elza Penfell,217,0.0909,pov:0776,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Moghedien,342,0.1432,pov:0777,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Cadsuane Melaidhrin,620,0.2596,pov:0778,35,b09:c35,1
+9,Ch35: With the Choedan Kal,Narrator,48,0.0201,pov:0779,35,b09:c35,1
+10,Prologue: Glimmers of the Pattern,Quote,80,0.0302,pov:0780,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Rodel Ituralde,4927,1.8616,pov:0781,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Eamon Valda,1644,0.6212,pov:0782,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Gabrelle,2873,1.0855,pov:0783,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Yukiri,6188,2.338,pov:0784,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Gawyn Trakand,3014,1.1388,pov:0785,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Davram Bashere,4320,1.6322,pov:0786,Prologue,b10:cPrologue,1
+10,Prologue: Glimmers of the Pattern,Samitsu,9655,3.648,pov:0787,Prologue,b10:cPrologue,1
+10,Ch1: Time to Be Gone,Matrim Cauthon,7864,2.9713,pov:0788,1,b10:c1,1
+10,Ch2: Two Captains,Matrim Cauthon,5996,2.2655,pov:0789,2,b10:c2,1
+10,Ch3: A Fan of Colors,Matrim Cauthon,9834,3.7156,pov:0790,3,b10:c3,1
+10,Ch4: A Tale of a Doll,Furyk Karede,5721,2.1616,pov:0791,4,b10:c4,1
+10,Ch5: The Forging of a Hammer,Perrin Aybara,8846,3.3423,pov:0792,5,b10:c5,1
+10,Ch6: The Scent of a Dream,Perrin Aybara,5625,2.1253,pov:0793,6,b10:c6,1
+10,Ch7: Blacksmith's Puzzle,Perrin Aybara,5957,2.2507,pov:0794,7,b10:c7,1
+10,Ch8: Whirlpools of Color,Perrin Aybara,7690,2.9055,pov:0795,8,b10:c8,1
+10,Ch9: Traps,Faile Bashere,11636,4.3964,pov:0796,9,b10:c9,1
+10,Ch10: A Blazing Beacon,Elayne Trakand,7019,2.652,pov:0797,10,b10:c10,1
+10,Ch11: Talk of Debts,Elayne Trakand,6885,2.6014,pov:0798,11,b10:c11,1
+10,Ch12: A Bargain,Elayne Trakand,6643,2.5099,pov:0799,12,b10:c12,1
+10,Ch13: High Seats,Elayne Trakand,6782,2.5624,pov:0800,13,b10:c13,1
+10,Ch14: What Wise Ones Know,Elayne Trakand,8858,3.3468,pov:0801,14,b10:c14,1
+10,Ch15: Gathering Darkness,Elenia Sarand,6642,2.5095,pov:0802,15,b10:c15,1
+10,Ch15: Gathering Darkness,Daved Hanlon,6287,2.3754,pov:0803,15,b10:c15,1
+10,Ch16: The Subject of Negotiations,Egwene al'Vere,7357,2.7797,pov:0804,16,b10:c16,1
+10,Ch17: Secrets,Delana Mosalaine,248,0.0937,pov:0805,17,b10:c17,1
+10,Ch17: Secrets,Egwene al'Vere,10363,3.9155,pov:0806,17,b10:c17,1
+10,Ch18: A Chat with Siuan,Egwene al'Vere,7445,2.8129,pov:0807,18,b10:c18,1
+10,Ch19: Surprises,Egwene al'Vere,9803,3.7039,pov:0808,19,b10:c19,1
+10,Ch20: In the Night,Egwene al'Vere,8034,3.0355,pov:0809,20,b10:c20,1
+10,Ch21: A Mark,Alviarin Freidhen,8132,3.0725,pov:0810,21,b10:c21,1
+10,Ch22: One Answer,Pevara Tazanovni,2392,0.9038,pov:0811,22,b10:c22,1
+10,Ch23: Ornaments,Cadsuane Melaidhrin,6551,2.4752,pov:0812,23,b10:c23,1
+10,Ch24: A Strengthening Storm,Rand al'Thor,4231,1.5986,pov:0813,24,b10:c24,1
+10,Ch24: A Strengthening Storm,Cadsuane Melaidhrin,761,0.2875,pov:0814,24,b10:c24,1
+10,Ch24: A Strengthening Storm,Rand al'Thor,1384,0.5229,pov:0815,24,b10:c24,1
+10,Ch24: A Strengthening Storm,Elza Penfell,424,0.1602,pov:0816,24,b10:c24,1
+10,Ch25: When to Wear Jewels,Perrin Aybara,4360,1.6473,pov:0817,25,b10:c25,1
+10,Ch26: In So Habor,Perrin Aybara,5462,2.0637,pov:0818,26,b10:c26,1
+10,Ch27: What Must Be Done,Perrin Aybara,6558,2.4778,pov:0819,27,b10:c27,1
+10,Ch28: A Cluster of Rosebuds,Matrim Cauthon,10355,3.9124,pov:0820,28,b10:c28,1
+10,Ch29: Something Flickers,Matrim Cauthon,8628,3.2599,pov:0821,29,b10:c29,1
+10,Ch30: What the Oath Rod Can Do,Egwene al'Vere,10877,4.1097,pov:0822,30,b10:c30,1
+10,Epilogue: An Answer,Rand al'Thor,263,0.0994,pov:0823,Epilogue,b10:cEpilogue,1
+10,Epilogue: An Answer,Quote,55,0.0208,pov:0824,Epilogue,b10:cEpilogue,1
+11,Prologue: Embers Falling on Dry Grass,Quote,22,0.007,pov:0825,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Galadedrid Damodred,5567,1.7723,pov:0826,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Rodel Ituralde,2965,0.9439,pov:0827,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Suroth Sabelle Meldarath,6208,1.9764,pov:0828,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Pevara Tazanovni,5700,1.8147,pov:0829,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Alviarin Freidhen,2479,0.7892,pov:0830,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Galina Casban,6408,2.0401,pov:0831,Prologue,b11:cPrologue,1
+11,Prologue: Embers Falling on Dry Grass,Egwene al'Vere,7307,2.3263,pov:0832,Prologue,b11:cPrologue,1
+11,Ch1: When Last Sounds,Siuan Sanche,7785,2.4785,pov:0833,1,b11:c1,1
+11,Ch2: The Dark One's Touch,Beonin Marinye,4906,1.5619,pov:0834,2,b11:c2,1
+11,Ch2: The Dark One's Touch,Elaida do Avriny a'Roihan,4226,1.3454,pov:0835,2,b11:c2,1
+11,Ch3: At the Gardens,Aran'gar,3423,1.0898,pov:0836,3,b11:c3,1
+11,Ch4: A Deal,Perrin Aybara,5705,1.8163,pov:0837,4,b11:c4,1
+11,Ch5: Something… Strange,Faile Bashere,6856,2.1827,pov:0838,5,b11:c5,1
+11,Ch6: A Stave and a Razor,Matrim Cauthon,6706,2.1349,pov:0839,6,b11:c6,1
+11,Ch7: A Cold Medallion,Matrim Cauthon,4959,1.5788,pov:0840,7,b11:c7,1
+11,Ch8: Dragons' Eggs,Matrim Cauthon,10979,3.4953,pov:0841,8,b11:c8,1
+11,Ch9: A Short Path,Matrim Cauthon,6055,1.9277,pov:0842,9,b11:c9,1
+11,Ch10: A Village in Shiota,Matrim Cauthon,8187,2.6064,pov:0843,10,b11:c10,1
+11,Ch11: A Hell in Maderin,Matrim Cauthon,10577,3.3673,pov:0844,11,b11:c11,1
+11,Ch12: A Manufactory,Perrin Aybara,8013,2.551,pov:0845,12,b11:c12,1
+11,Ch13: Siege,Elayne Trakand,5287,1.6832,pov:0846,13,b11:c13,1
+11,Ch14: Wet Things,Elayne Trakand,5494,1.7491,pov:0847,14,b11:c14,1
+11,Ch15: A Different Skill,Elayne Trakand,6253,1.9907,pov:0848,15,b11:c15,1
+11,Ch16: The New Follower,Elayne Trakand,5916,1.8834,pov:0849,16,b11:c16,1
+11,Ch17: A Bronze Bear,Elayne Trakand,6537,2.0811,pov:0850,17,b11:c17,1
+11,Ch17: A Bronze Bear,Arymilla Marne,1702,0.5419,pov:0851,17,b11:c17,1
+11,Ch18: News for the Dragon,Rand al'Thor,5952,1.8949,pov:0852,18,b11:c18,1
+11,Ch19: Vows,Loial,4357,1.3871,pov:0853,19,b11:c19,1
+11,Ch19: Vows,Rand al'Thor,2767,0.8809,pov:0854,19,b11:c19,1
+11,Ch20: The Golden Crane,Rand al'Thor,6441,2.0506,pov:0855,20,b11:c20,1
+11,Ch20: The Golden Crane,Nynaeve al'Meara,1468,0.4674,pov:0856,20,b11:c20,1
+11,Ch20: The Golden Crane,Weilin Aldragoran,1845,0.5874,pov:0857,20,b11:c20,1
+11,Ch21: Within the Stone,Rand al'Thor,10535,3.354,pov:0858,21,b11:c21,1
+11,Ch22: To Make an Anchor Weep,Harine din Togara Two Winds,6117,1.9474,pov:0859,22,b11:c22,1
+11,Ch23: Call to a Sitting,Romanda Cassin,9283,2.9554,pov:0860,23,b11:c23,1
+11,Ch24: Honey in the Tea,Egwene al'Vere,15098,4.8067,pov:0861,24,b11:c24,1
+11,Ch25: Attending Elaida,Tarna Feir,2179,0.6937,pov:0862,25,b11:c25,1
+11,Ch25: Attending Elaida,Matrim Cauthon,4845,1.5425,pov:0863,25,b11:c25,1
+11,Ch26: As If the World Were Fog,Tuon Athaem Kore Paendrag,4488,1.4288,pov:0864,26,b11:c26,1
+11,Ch26: As If the World Were Fog,Perrin Aybara,6233,1.9844,pov:0865,26,b11:c26,1
+11,Ch26: As If the World Were Fog,Faile Bashere,1234,0.3929,pov:0866,26,b11:c26,1
+11,Ch27: A Plain Wooden Box,Rand al'Thor,6423,2.0449,pov:0867,27,b11:c27,1
+11,Ch27: A Plain Wooden Box,Matrim Cauthon,3722,1.185,pov:0868,27,b11:c27,1
+11,Ch28: In Malden,Faile Bashere,6200,1.9739,pov:0869,28,b11:c28,1
+11,Ch28: In Malden,Galina Casban,467,0.1487,pov:0870,28,b11:c28,1
+11,Ch29: The Last Knot,Perrin Aybara,3991,1.2706,pov:0871,29,b11:c29,1
+11,Ch29: The Last Knot,Faile Bashere,890,0.2833,pov:0872,29,b11:c29,1
+11,Ch29: The Last Knot,Perrin Aybara,4332,1.3792,pov:0873,29,b11:c29,1
+11,Ch30: Outside the Gates,Faile Bashere,1861,0.5925,pov:0874,30,b11:c30,1
+11,Ch30: Outside the Gates,Perrin Aybara,4165,1.326,pov:0875,30,b11:c30,1
+11,Ch30: Outside the Gates,Galina Casban,728,0.2318,pov:0876,30,b11:c30,1
+11,Ch31: The House on Full Moon Street,Elayne Trakand,7286,2.3196,pov:0877,31,b11:c31,1
+11,Ch32: To Keep the Bargain,Birgitte Silverbow,6495,2.0678,pov:0878,32,b11:c32,1
+11,Ch33: Nine Out of Ten,Elayne Trakand,4959,1.5788,pov:0879,33,b11:c33,1
+11,Ch34: A Cup of Kaf,Furyk Karede,2816,0.8965,pov:0880,34,b11:c34,1
+11,Ch35: The Importance of Dyelin,Elayne Trakand,6344,2.0197,pov:0881,35,b11:c35,1
+11,Ch36: Under an Oak,Furyk Karede,3288,1.0468,pov:0882,36,b11:c36,1
+11,Ch36: Under an Oak,Matrim Cauthon,1225,0.39,pov:0883,36,b11:c36,1
+11,Ch36: Under an Oak,Tuon Athaem Kore Paendrag,385,0.1226,pov:0884,36,b11:c36,1
+11,Ch37: Prince of the Ravens,Matrim Cauthon,5220,1.6619,pov:0885,37,b11:c37,1
+11,Epilogue: Remember the Old Saying,Suroth Sabelle Meldarath,1336,0.4253,pov:0886,Epilogue,b11:cEpilogue,1
+11,Epilogue: Remember the Old Saying,Pevara Tazanovni,2909,0.9261,pov:0887,Epilogue,b11:cEpilogue,1
+12,Prologue: What the Storm Means,Quote,69,0.0233,pov:0888,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Renald Fanwar,3841,1.2966,pov:0889,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Falendre,1794,0.6056,pov:0890,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Tylee Khirgan,1453,0.4905,pov:0891,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Graendal,3355,1.1326,pov:0892,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Rodel Ituralde,1138,0.3842,pov:0893,Prologue,b12:cPrologue,1
+12,Prologue: What the Storm Means,Masema Dagar,1449,0.4892,pov:0894,Prologue,b12:cPrologue,1
+12,Ch1: Tears of Steel,Rand al'Thor,6500,2.1943,pov:0895,1,b12:c1,1
+12,Ch2: The Nature of Pain,Egwene al'Vere,7040,2.3766,pov:0896,2,b12:c2,1
+12,Ch3: The Ways of Honor,Aviendha,4458,1.5049,pov:0897,3,b12:c3,1
+12,Ch4: Nightfall,Gawyn Trakand,1926,0.6502,pov:0898,4,b12:c4,1
+12,Ch5: A Tale of Blood,Rand al'Thor,3879,1.3095,pov:0899,5,b12:c5,1
+12,Ch5: A Tale of Blood,Cadsuane Melaidhrin,2171,0.7329,pov:0900,5,b12:c5,1
+12,Ch6: When Iron Melts,Rodel Ituralde,1369,0.4621,pov:0901,6,b12:c6,1
+12,Ch6: When Iron Melts,Leane Sharif,1169,0.3946,pov:0902,6,b12:c6,1
+12,Ch6: When Iron Melts,Egwene al'Vere,619,0.209,pov:0903,6,b12:c6,1
+12,Ch7: The Plan for Arad Doman,Nynaeve al'Meara,6114,2.064,pov:0904,7,b12:c7,1
+12,Ch8: Clean Shirts,Siuan Sanche,7627,2.5747,pov:0905,8,b12:c8,1
+12,Ch9: Leaving Malden,Perrin Aybara,5245,1.7706,pov:0906,9,b12:c9,1
+12,Ch10: The Last of the Tabac,Rodel Ituralde,4506,1.5211,pov:0907,10,b12:c10,1
+12,Ch11: The Death of Adrin,Aviendha,4507,1.5215,pov:0908,11,b12:c11,1
+12,Ch12: Unexpected Encounters,Egwene al'Vere,8403,2.8367,pov:0909,12,b12:c12,1
+12,Ch13: An Offer and a Departure,Gawyn Trakand,5917,1.9975,pov:0910,13,b12:c13,1
+12,Ch14: A Box Opens,Cadsuane Melaidhrin,2582,0.8716,pov:0911,14,b12:c14,1
+12,Ch15: A Place to Begin,Rand al'Thor,2022,0.6826,pov:0912,15,b12:c15,1
+12,Ch15: A Place to Begin,Min Farshaw,2577,0.8699,pov:0913,15,b12:c15,1
+12,Ch15: A Place to Begin,Aviendha,1242,0.4193,pov:0914,15,b12:c15,1
+12,Ch16: In the White Tower,Egwene al'Vere,10574,3.5696,pov:0915,16,b12:c16,1
+12,Ch17: Questions of Control,Cadsuane Melaidhrin,1975,0.6667,pov:0916,17,b12:c17,1
+12,Ch17: Questions of Control,Perrin Aybara,1720,0.5806,pov:0917,17,b12:c17,1
+12,Ch18: A Message in Haste,Siuan Sanche,3325,1.1225,pov:0918,18,b12:c18,1
+12,Ch19: Gambits,Tuon Athaem Kore Paendrag,6922,2.3367,pov:0919,19,b12:c19,1
+12,Ch20: On a Broken Road,Matrim Cauthon,5587,1.8861,pov:0920,20,b12:c20,1
+12,Ch21: Embers and Ash,Perrin Aybara,1281,0.4324,pov:0921,21,b12:c21,1
+12,Ch21: Embers and Ash,Faile Bashere,3840,1.2963,pov:0922,21,b12:c21,1
+12,Ch21: Embers and Ash,Perrin Aybara,277,0.0935,pov:0923,21,b12:c21,1
+12,Ch22: The Last That Could Be Done,Semirhage,1084,0.3659,pov:0924,22,b12:c22,1
+12,Ch22: The Last That Could Be Done,Rand al'Thor,6365,2.1487,pov:0925,22,b12:c22,1
+12,Ch23: A Warp in the Air,Cadsuane Melaidhrin,1790,0.6043,pov:0926,23,b12:c23,1
+12,Ch24: A New Commitment,Gawyn Trakand,6335,2.1386,pov:0927,24,b12:c24,1
+12,Ch25: In Darkness,Sheriam Bayanar,1322,0.4463,pov:0928,25,b12:c25,1
+12,Ch25: In Darkness,Egwene al'Vere,978,0.3302,pov:0929,25,b12:c25,1
+12,Ch26: A Crack in the Stone,Aviendha,3813,1.2872,pov:0930,26,b12:c26,1
+12,Ch26: A Crack in the Stone,Romanda Cassin,1841,0.6215,pov:0931,26,b12:c26,1
+12,Ch27: The Tipsy Gelding,Matrim Cauthon,8440,2.8492,pov:0932,27,b12:c27,1
+12,Ch28: Night in Hinderstap,Matrim Cauthon,8779,2.9636,pov:0933,28,b12:c28,1
+12,Ch29: Into Bandar Eban,Rand al'Thor,5581,1.884,pov:0934,29,b12:c29,1
+12,Ch30: Old Advice,Gawyn Trakand,4418,1.4914,pov:0935,30,b12:c30,1
+12,Ch31: A Promise to Lews Therin,Cadsuane Melaidhrin,3874,1.3078,pov:0936,31,b12:c31,1
+12,Ch31: A Promise to Lews Therin,Rand al'Thor,4389,1.4816,pov:0937,31,b12:c31,1
+12,Ch32: Rivers of Shadow,Nynaeve al'Meara,9489,3.2033,pov:0938,32,b12:c32,1
+12,Ch33: A Conversation with the Dragon,Nynaeve al'Meara,3717,1.2548,pov:0939,33,b12:c33,1
+12,Ch34: Legends,Matrim Cauthon,5571,1.8807,pov:0940,34,b12:c34,1
+12,Ch35: A Halo of Blackness,Rand al'Thor,2024,0.6833,pov:0941,35,b12:c35,1
+12,Ch35: A Halo of Blackness,Tuon Athaem Kore Paendrag,3351,1.1312,pov:0942,35,b12:c35,1
+12,Ch36: The Death of Tuon,Matrim Cauthon,3457,1.167,pov:0943,36,b12:c36,1
+12,Ch36: The Death of Tuon,Tuon Athaem Kore Paendrag,1096,0.37,pov:0944,36,b12:c36,1
+12,Ch37: A Force of Light,Min Farshaw,7667,2.5882,pov:0945,37,b12:c37,1
+12,Ch38: News in Tel'aran'rhiod,Egwene al'Vere,6875,2.3209,pov:0946,38,b12:c38,1
+12,Ch39: A Visit from Verin Sedai,Egwene al'Vere,7996,2.6993,pov:0947,39,b12:c39,1
+12,Ch40: The Tower Shakes,Siuan Sanche,1047,0.3534,pov:0948,40,b12:c40,1
+12,Ch40: The Tower Shakes,Egwene al'Vere,1900,0.6414,pov:0949,40,b12:c40,1
+12,Ch40: The Tower Shakes,Siuan Sanche,1413,0.477,pov:0950,40,b12:c40,1
+12,Ch40: The Tower Shakes,Adelorna Bastine,1706,0.5759,pov:0951,40,b12:c40,1
+12,Ch41: A Fount of Power,Gawyn Trakand,1587,0.5357,pov:0952,41,b12:c41,1
+12,Ch41: A Fount of Power,Saerin Asnobar,1534,0.5178,pov:0953,41,b12:c41,1
+12,Ch41: A Fount of Power,Egwene al'Vere,576,0.1944,pov:0954,41,b12:c41,1
+12,Ch41: A Fount of Power,Gareth Bryne,2789,0.9415,pov:0955,41,b12:c41,1
+12,Ch41: A Fount of Power,Egwene al'Vere,783,0.2643,pov:0956,41,b12:c41,1
+12,Ch41: A Fount of Power,Saerin Asnobar,477,0.161,pov:0957,41,b12:c41,1
+12,Ch41: A Fount of Power,Elaida do Avriny a'Roihan,304,0.1026,pov:0958,41,b12:c41,1
+12,Ch42: Before the Stone of Tear,Rand al'Thor,3863,1.3041,pov:0959,42,b12:c42,1
+12,Ch43: Sealed to the Flame,Egwene al'Vere,1938,0.6542,pov:0960,43,b12:c43,1
+12,Ch43: Sealed to the Flame,Jesse Bilal,2635,0.8895,pov:0961,43,b12:c43,1
+12,Ch43: Sealed to the Flame,Siuan Sanche,970,0.3275,pov:0962,43,b12:c43,1
+12,Ch43: Sealed to the Flame,Egwene al'Vere,2486,0.8392,pov:0963,43,b12:c43,1
+12,Ch44: Scents Unknown,Nynaeve al'Meara,6935,2.3411,pov:0964,44,b12:c44,1
+12,Ch45: The Tower Stands,Egwene al'Vere,4589,1.5492,pov:0965,45,b12:c45,1
+12,Ch46: To Be Forged Again,Egwene al'Vere,5696,1.9229,pov:0966,46,b12:c46,1
+12,Ch47: The One He Lost,Rand al'Thor,5202,1.7561,pov:0967,47,b12:c47,1
+12,Ch48: Reading the Commentary,Min Farshaw,2672,0.902,pov:0968,48,b12:c48,1
+12,Ch49: Just Another Man,Rand al'Thor,2374,0.8014,pov:0969,49,b12:c49,1
+12,Ch50: Veins of Gold,Rand al'Thor,1971,0.6654,pov:0970,50,b12:c50,1
+12,Epilogue: Bathed in Light,Egwene al'Vere,2002,0.6758,pov:0971,Epilogue,b12:cEpilogue,1
+12,Epilogue: Bathed in Light,Quote,52,0.0176,pov:0972,Epilogue,b12:cEpilogue,1
+13,Prologue: Distinctions,Quote,179,0.0549,pov:0973,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Lan Mandragoran,1280,0.3926,pov:0974,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Perrin Aybara,2588,0.7939,pov:0975,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Graendal,3539,1.0856,pov:0976,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Galadedrid Damodred,4330,1.3282,pov:0977,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Padan Fain,973,0.2985,pov:0978,Prologue,b13:cPrologue,1
+13,Prologue: Distinctions,Malenarin Rai,3023,0.9273,pov:0979,Prologue,b13:cPrologue,1
+13,Ch1: Apples First,Almen Bunt,2931,0.8991,pov:0980,1,b13:c1,1
+13,Ch2: Questions of Leadership,Perrin Aybara,3606,1.1061,pov:0981,2,b13:c2,1
+13,Ch2: Questions of Leadership,Galadedrid Damodred,1461,0.4482,pov:0982,2,b13:c2,1
+13,Ch3: The Amyrlin's Anger,Egwene al'Vere,1154,0.354,pov:0983,3,b13:c3,1
+13,Ch3: The Amyrlin's Anger,Siuan Sanche,2609,0.8003,pov:0984,3,b13:c3,1
+13,Ch3: The Amyrlin's Anger,Egwene al'Vere,1794,0.5503,pov:0985,3,b13:c3,1
+13,Ch4: The Pattern Groans,Perrin Aybara,3830,1.1749,pov:0986,4,b13:c4,1
+13,Ch4: The Pattern Groans,Galadedrid Damodred,2505,0.7684,pov:0987,4,b13:c4,1
+13,Ch5: Writings,Gawyn Trakand,4383,1.3445,pov:0988,5,b13:c5,1
+13,Ch5: Writings,Egwene al'Vere,391,0.1199,pov:0989,5,b13:c5,1
+13,Ch5: Writings,Graendal,2146,0.6583,pov:0990,5,b13:c5,1
+13,Ch6: Questioning Intentions,Morgase Trakand,4972,1.5252,pov:0991,6,b13:c6,1
+13,Ch7: Lighter than a Feather,Lan Mandragoran,1032,0.3166,pov:0992,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Galadedrid Damodred,384,0.1178,pov:0993,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Perrin Aybara,683,0.2095,pov:0994,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Galadedrid Damodred,393,0.1206,pov:0995,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Perrin Aybara,350,0.1074,pov:0996,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Galadedrid Damodred,240,0.0736,pov:0997,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Perrin Aybara,192,0.0589,pov:0998,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Galadedrid Damodred,67,0.0206,pov:0999,7,b13:c7,1
+13,Ch7: Lighter than a Feather,Perrin Aybara,71,0.0218,pov:1000,7,b13:c7,1
+13,Ch8: The Seven-Striped Lass,Matrim Cauthon,6788,2.0822,pov:1001,8,b13:c8,1
+13,Ch9: Blood in the Air,Matrim Cauthon,2908,0.892,pov:1002,9,b13:c9,1
+13,Ch10: After the Taint,Perrin Aybara,3445,1.0568,pov:1003,10,b13:c10,1
+13,Ch10: After the Taint,Galadedrid Damodred,270,0.0828,pov:1004,10,b13:c10,1
+13,Ch11: An Unexpected Letter,Elayne Trakand,4289,1.3157,pov:1005,11,b13:c11,1
+13,Ch12: An Empty Ink Bottle,Min Farshaw,878,0.2693,pov:1006,12,b13:c12,1
+13,Ch12: An Empty Ink Bottle,Cadsuane Melaidhrin,898,0.2755,pov:1007,12,b13:c12,1
+13,Ch13: For What Has Been Wrought,Min Farshaw,3029,0.9291,pov:1008,13,b13:c13,1
+13,Ch14: A Vow,Egwene al'Vere,5749,1.7635,pov:1009,14,b13:c14,1
+13,Ch15: Use a Pebble,Nynaeve al'Meara,3917,1.2015,pov:1010,15,b13:c15,1
+13,Ch15: Use a Pebble,Egwene al'Vere,1987,0.6095,pov:1011,15,b13:c15,1
+13,Ch16: Shanna'har,Faile Bashere,1967,0.6034,pov:1012,16,b13:c16,1
+13,Ch16: Shanna'har,Perrin Aybara,3922,1.2031,pov:1013,16,b13:c16,1
+13,"Ch17: Partings, and a Meeting",Matrim Cauthon,3818,1.1712,pov:1014,17,b13:c17,1
+13,"Ch17: Partings, and a Meeting",Elayne Trakand,2934,0.9,pov:1015,17,b13:c17,1
+13,Ch18: The Strength of This Place,Perrin Aybara,2407,0.7383,pov:1016,18,b13:c18,1
+13,Ch18: The Strength of This Place,Rodel Ituralde,2266,0.6951,pov:1017,18,b13:c18,1
+13,Ch18: The Strength of This Place,Faile Bashere,2528,0.7755,pov:1018,18,b13:c18,1
+13,Ch19: Talk of Dragons,Matrim Cauthon,7209,2.2114,pov:1019,19,b13:c19,1
+13,Ch20: A Choice,Nynaeve al'Meara,8030,2.4632,pov:1020,20,b13:c20,1
+13,Ch21: An Open Gate,Perrin Aybara,3108,0.9534,pov:1021,21,b13:c21,1
+13,Ch21: An Open Gate,Rodel Ituralde,2736,0.8393,pov:1022,21,b13:c21,1
+13,Ch21: An Open Gate,Morgase Trakand,1228,0.3767,pov:1023,21,b13:c21,1
+13,Ch22: The End of a Legend,Gawyn Trakand,3335,1.023,pov:1024,22,b13:c22,1
+13,Ch22: The End of a Legend,Matrim Cauthon,4242,1.3012,pov:1025,22,b13:c22,1
+13,Ch22: The End of a Legend,Birgitte Silverbow,3992,1.2245,pov:1026,22,b13:c22,1
+13,Ch23: Foxheads,Elayne Trakand,5951,1.8255,pov:1027,23,b13:c23,1
+13,Ch23: Foxheads,Gawyn Trakand,1207,0.3702,pov:1028,23,b13:c23,1
+13,Ch23: Foxheads,Lan Mandragoran,755,0.2316,pov:1029,23,b13:c23,1
+13,Ch24: To Make a Stand,Elayne Trakand,1488,0.4564,pov:1030,24,b13:c24,1
+13,Ch24: To Make a Stand,Rodel Ituralde,1402,0.4301,pov:1031,24,b13:c24,1
+13,Ch24: To Make a Stand,Perrin Aybara,4625,1.4187,pov:1032,24,b13:c24,1
+13,Ch25: Return to Bandar Eban,Min Farshaw,3676,1.1276,pov:1033,25,b13:c25,1
+13,Ch26: Parley,Perrin Aybara,2175,0.6672,pov:1034,26,b13:c26,1
+13,Ch26: Parley,Galadedrid Damodred,3517,1.0788,pov:1035,26,b13:c26,1
+13,Ch27: A Call to Stand,Egwene al'Vere,4279,1.3126,pov:1036,27,b13:c27,1
+13,Ch28: Oddities,Faile Bashere,556,0.1706,pov:1037,28,b13:c28,1
+13,Ch28: Oddities,Perrin Aybara,1673,0.5132,pov:1038,28,b13:c28,1
+13,Ch28: Oddities,Rodel Ituralde,3655,1.1212,pov:1039,28,b13:c28,1
+13,Ch29: A Terrible Feeling,Faile Bashere,2027,0.6218,pov:1040,29,b13:c29,1
+13,Ch29: A Terrible Feeling,Morgase Trakand,1805,0.5537,pov:1041,29,b13:c29,1
+13,Ch29: A Terrible Feeling,Perrin Aybara,709,0.2175,pov:1042,29,b13:c29,1
+13,Ch29: A Terrible Feeling,Elayne Trakand,2428,0.7448,pov:1043,29,b13:c29,1
+13,Ch30: Men Dream Here,Faile Bashere,848,0.2601,pov:1044,30,b13:c30,1
+13,Ch30: Men Dream Here,Perrin Aybara,4539,1.3923,pov:1045,30,b13:c30,1
+13,Ch31: Into the Void,Matrim Cauthon,4366,1.3393,pov:1046,31,b13:c31,1
+13,Ch32: A Storm of Light,Rodel Ituralde,4201,1.2887,pov:1047,32,b13:c32,1
+13,Ch32: A Storm of Light,Min Farshaw,1618,0.4963,pov:1048,32,b13:c32,1
+13,Ch33: A Good Soup,Siuan Sanche,1217,0.3733,pov:1049,33,b13:c33,1
+13,Ch33: A Good Soup,Perrin Aybara,969,0.2972,pov:1050,33,b13:c33,1
+13,Ch33: A Good Soup,Gawyn Trakand,5078,1.5577,pov:1051,33,b13:c33,1
+13,Ch34: Judgment,Perrin Aybara,1273,0.3905,pov:1052,34,b13:c34,1
+13,Ch34: Judgment,Faile Bashere,1641,0.5034,pov:1053,34,b13:c34,1
+13,Ch34: Judgment,Perrin Aybara,3902,1.1969,pov:1054,34,b13:c34,1
+13,Ch35: The Right Thing,Egwene al'Vere,373,0.1144,pov:1055,35,b13:c35,1
+13,Ch35: The Right Thing,Perrin Aybara,1120,0.3436,pov:1056,35,b13:c35,1
+13,Ch35: The Right Thing,Galadedrid Damodred,527,0.1617,pov:1057,35,b13:c35,1
+13,Ch35: The Right Thing,Perrin Aybara,2255,0.6917,pov:1058,35,b13:c35,1
+13,Ch36: An Invitation,Egwene al'Vere,4643,1.4242,pov:1059,36,b13:c36,1
+13,Ch36: An Invitation,Perrin Aybara,401,0.123,pov:1060,36,b13:c36,1
+13,Ch37: Darkness in the Tower,Gawyn Trakand,843,0.2586,pov:1061,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Egwene al'Vere,577,0.177,pov:1062,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Perrin Aybara,443,0.1359,pov:1063,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Gawyn Trakand,878,0.2693,pov:1064,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Perrin Aybara,544,0.1669,pov:1065,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Egwene al'Vere,965,0.296,pov:1066,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Perrin Aybara,672,0.2061,pov:1067,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Gawyn Trakand,652,0.2,pov:1068,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Mesaana,351,0.1077,pov:1069,37,b13:c37,1
+13,Ch37: Darkness in the Tower,Perrin Aybara,670,0.2055,pov:1070,37,b13:c37,1
+13,Ch38: Wounds,Egwene al'Vere,2628,0.8061,pov:1071,38,b13:c38,1
+13,Ch38: Wounds,Perrin Aybara,1171,0.3592,pov:1072,38,b13:c38,1
+13,Ch38: Wounds,Egwene al'Vere,571,0.1752,pov:1073,38,b13:c38,1
+13,Ch38: Wounds,Perrin Aybara,850,0.2607,pov:1074,38,b13:c38,1
+13,Ch38: Wounds,Graendal,260,0.0798,pov:1075,38,b13:c38,1
+13,Ch39: In the Three-fold Land,Aviendha,2329,0.7144,pov:1076,39,b13:c39,1
+13,Ch40: A Making,Perrin Aybara,3562,1.0926,pov:1077,40,b13:c40,1
+13,Ch40: A Making,Faile Bashere,1111,0.3408,pov:1078,40,b13:c40,1
+13,Ch40: A Making,Perrin Aybara,714,0.219,pov:1079,40,b13:c40,1
+13,Ch40: A Making,Galadedrid Damodred,631,0.1936,pov:1080,40,b13:c40,1
+13,Ch40: A Making,Perrin Aybara,880,0.2699,pov:1081,40,b13:c40,1
+13,Ch41: An Unexpected Ally,Galadedrid Damodred,571,0.1752,pov:1082,41,b13:c41,1
+13,Ch41: An Unexpected Ally,Perrin Aybara,886,0.2718,pov:1083,41,b13:c41,1
+13,Ch41: An Unexpected Ally,Galadedrid Damodred,762,0.2337,pov:1084,41,b13:c41,1
+13,Ch41: An Unexpected Ally,Perrin Aybara,982,0.3012,pov:1085,41,b13:c41,1
+13,Ch41: An Unexpected Ally,Galadedrid Damodred,1551,0.4758,pov:1086,41,b13:c41,1
+13,Ch42: Stronger than Blood,Gawyn Trakand,1236,0.3791,pov:1087,42,b13:c42,1
+13,Ch42: Stronger than Blood,Lan Mandragoran,1386,0.4252,pov:1088,42,b13:c42,1
+13,Ch43: Some Tea,Galadedrid Damodred,1447,0.4439,pov:1089,43,b13:c43,1
+13,Ch43: Some Tea,Alliandre Maritha Kigarin,1480,0.454,pov:1090,43,b13:c43,1
+13,Ch44: A Backhanded Request,Morgase Trakand,1676,0.5141,pov:1091,44,b13:c44,1
+13,Ch44: A Backhanded Request,Perrin Aybara,2613,0.8015,pov:1092,44,b13:c44,1
+13,Ch45: A Reunion,Elayne Trakand,3977,1.2199,pov:1093,45,b13:c45,1
+13,Ch45: A Reunion,Aviendha,967,0.2966,pov:1094,45,b13:c45,1
+13,Ch46: Working Leather,Androl Genhald,6010,1.8436,pov:1095,46,b13:c46,1
+13,Ch47: A Teaching Chamber,Faile Bashere,4114,1.262,pov:1096,47,b13:c47,1
+13,Ch47: A Teaching Chamber,Tuon Athaem Kore Paendrag,2110,0.6472,pov:1097,47,b13:c47,1
+13,Ch47: A Teaching Chamber,Perrin Aybara,1725,0.5291,pov:1098,47,b13:c47,1
+13,Ch48: Near Avendesora,Aviendha,4566,1.4006,pov:1099,48,b13:c48,1
+13,Ch49: Court of the Sun,Aviendha,4938,1.5147,pov:1100,49,b13:c49,1
+13,Ch50: Choosing Enemies,Elayne Trakand,3311,1.0157,pov:1101,50,b13:c50,1
+13,Ch51: A Testing,Min Farshaw,3123,0.958,pov:1102,51,b13:c51,1
+13,Ch51: A Testing,Cadsuane Melaidhrin,1040,0.319,pov:1103,51,b13:c51,1
+13,Ch52: Boots,Elayne Trakand,2952,0.9055,pov:1104,52,b13:c52,1
+13,Ch52: Boots,Matrim Cauthon,2822,0.8656,pov:1105,52,b13:c52,1
+13,Ch53: Gateways,Pevara Tazanovni,1855,0.569,pov:1106,53,b13:c53,1
+13,Ch53: Gateways,Perrin Aybara,2155,0.661,pov:1107,53,b13:c53,1
+13,Ch53: Gateways,Matrim Cauthon,4417,1.3549,pov:1108,53,b13:c53,1
+13,Ch54: The Light of the World,Matrim Cauthon,5406,1.6583,pov:1109,54,b13:c54,1
+13,Ch55: The One Left Behind,Matrim Cauthon,3330,1.0215,pov:1110,55,b13:c55,1
+13,Ch56: Something Wrong,Egwene al'Vere,1233,0.3782,pov:1111,56,b13:c56,1
+13,Ch56: Something Wrong,Androl Genhald,1423,0.4365,pov:1112,56,b13:c56,1
+13,Ch57: A Rabbit for Supper,Matrim Cauthon,2986,0.916,pov:1113,57,b13:c57,1
+13,Epilogue: And After,Graendal,564,0.173,pov:1114,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Perrin Aybara,1433,0.4396,pov:1115,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Olver,1663,0.5101,pov:1116,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Barriga,456,0.1399,pov:1117,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Rand al'Thor,925,0.2837,pov:1118,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Lan Mandragoran,475,0.1457,pov:1119,Epilogue,b13:cEpilogue,1
+13,Epilogue: And After,Quote,245,0.0752,pov:1120,Epilogue,b13:cEpilogue,1
+14,Prologue: By Grace and Banners Fallen,Quote,87,0.024,pov:1121,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Bayrd,2733,0.757,pov:1122,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,876,0.243,pov:1123,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Isam,2599,0.72,pov:1124,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,1197,0.331,pov:1125,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Leilwin Shipless,3133,0.867,pov:1126,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,1107,0.307,pov:1127,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Aviendha,2443,0.676,pov:1128,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,1673,0.463,pov:1129,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Androl Genhald,3174,0.879,pov:1130,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,2311,0.64,pov:1131,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Moghedien,2499,0.691,pov:1132,Prologue,b14:cPrologue,1
+14,Prologue: By Grace and Banners Fallen,Talmanes,1294,0.358,pov:1133,Prologue,b14:cPrologue,1
+14,Ch1: Eastward the Wind Blew,Rand al'Thor,2931,0.812,pov:1134,1,b14:c1,1
+14,Ch1: Eastward the Wind Blew,Egwene al'Vere,2733,0.757,pov:1135,1,b14:c1,1
+14,Ch1: Eastward the Wind Blew,Rand al'Thor,2503,0.693,pov:1136,1,b14:c1,1
+14,Ch2: The Choice of an Ajah,Pevara,3963,1.097,pov:1137,2,b14:c2,1
+14,Ch2: The Choice of an Ajah,Aviendha,2975,0.824,pov:1138,2,b14:c2,1
+14,Ch3: A Dangerous Place,Androl Genhald,2470,0.684,pov:1139,3,b14:c3,1
+14,Ch3: A Dangerous Place,Rand al'Thor,1470,0.407,pov:1140,3,b14:c3,1
+14,Ch3: A Dangerous Place,Pevara,2344,0.649,pov:1141,3,b14:c3,1
+14,Ch4: Advantages to a Bond,Androl Genhald,2564,0.71,pov:1142,4,b14:c4,1
+14,Ch4: Advantages to a Bond,Rand al'Thor,1467,0.406,pov:1143,4,b14:c4,1
+14,Ch4: Advantages to a Bond,Pevara,2240,0.62,pov:1144,4,b14:c4,1
+14,Ch5: To Require a Boon,Rand al'Thor,1412,0.391,pov:1145,5,b14:c5,1
+14,Ch5: To Require a Boon,Egwene al'Vere,8450,2.34,pov:1146,5,b14:c5,1
+14,Ch6: A Knack,Perrin Aybara,5145,1.425,pov:1147,6,b14:c6,1
+14,Ch6: A Knack,Lan Mandragoran,2167,0.6,pov:1148,6,b14:c6,1
+14,Ch7: Into the Thick of It,Elayne Trakand,2667,0.738,pov:1149,7,b14:c7,1
+14,Ch7: Into the Thick of It,Lan Mandragoran,3217,0.891,pov:1150,7,b14:c7,1
+14,Ch8: That Smoldering City,Elayne Trakand,2143,0.593,pov:1151,8,b14:c8,1
+14,Ch8: That Smoldering City,Androl Genhald,2141,0.593,pov:1152,8,b14:c8,1
+14,Ch9: To Die Well,Lan Mandragoran,2189,0.606,pov:1153,9,b14:c9,1
+14,Ch9: To Die Well,Egwene al'Vere,1858,0.514,pov:1154,9,b14:c9,1
+14,Ch9: To Die Well,Rand al'Thor,2729,0.756,pov:1155,9,b14:c9,1
+14,Ch10: The Use of Dragons,Perrin Aybara,236,0.065,pov:1156,10,b14:c10,1
+14,Ch10: The Use of Dragons,Elayne Trakand,1630,0.451,pov:1157,10,b14:c10,1
+14,Ch10: The Use of Dragons,Androl Genhald,491,0.136,pov:1158,10,b14:c10,1
+14,Ch10: The Use of Dragons,Lan Mandragoran,513,0.142,pov:1159,10,b14:c10,1
+14,Ch10: The Use of Dragons,Elayne Trakand,1962,0.543,pov:1160,10,b14:c10,1
+14,Ch11: Just Another Sell-sword,Egwene al'Vere,1552,0.43,pov:1161,11,b14:c11,1
+14,Ch11: Just Another Sell-sword,Matrim Cauthon,3711,1.028,pov:1162,11,b14:c11,1
+14,Ch11: Just Another Sell-sword,Rand al'Thor,2160,0.598,pov:1163,11,b14:c11,1
+14,Ch12: A Shard of a Moment,Birgitte,1054,0.292,pov:1164,12,b14:c12,1
+14,Ch12: A Shard of a Moment,Rand al'Thor,2284,0.632,pov:1165,12,b14:c12,1
+14,Ch12: A Shard of a Moment,Perrin Aybara,687,0.19,pov:1166,12,b14:c12,1
+14,Ch13: What Must Be Done,Egwene al'Vere,1568,0.434,pov:1167,13,b14:c13,1
+14,Ch13: What Must Be Done,Elayne Trakand,1024,0.284,pov:1168,13,b14:c13,1
+14,Ch13: What Must Be Done,Perrin Aybara,2348,0.65,pov:1169,13,b14:c13,1
+14,Ch14: Doses of Forkroot,Perrin Aybara,2017,0.558,pov:1170,14,b14:c14,1
+14,Ch14: Doses of Forkroot,Androl Genhald,2055,0.569,pov:1171,14,b14:c14,1
+14,Ch14: Doses of Forkroot,Perrin Aybara,1984,0.549,pov:1172,14,b14:c14,1
+14,Ch14: Doses of Forkroot,Androl Genhald,504,0.14,pov:1173,14,b14:c14,1
+14,Ch15: Your Neck in a Cord,Matrim Cauthon,2463,0.692,pov:1174,15,b14:c15,1
+14,Ch15: Your Neck in a Cord,Rand al'Thor,3016,0.835,pov:1175,15,b14:c15,1
+14,Ch15: Your Neck in a Cord,Matrim Cauthon,2504,0.693,pov:1176,15,b14:c15,1
+14,Ch16: A Silence Like Screaming,Loial,863,0.239,pov:1177,16,b14:c16,1
+14,Ch16: A Silence Like Screaming,Galad Damodred,511,0.141,pov:1178,16,b14:c16,1
+14,Ch16: A Silence Like Screaming,Rand al'Thor,1471,0.407,pov:1179,16,b14:c16,1
+14,Ch16: A Silence Like Screaming,Moiraine Damodred,180,0.05,pov:1180,16,b14:c16,1
+14,Ch16: A Silence Like Screaming,Lan Mandragoran,3004,0.832,pov:1181,16,b14:c16,1
+14,"17, Ch17: Older, More Weathered",Matrim Cauthon,3614,1.001,pov:1182,17,b14:c17,1
+14,Ch18: To Feel Wasted,Gawyn Trakand,3488,0.966,pov:1183,18,b14:c18,1
+14,Ch18: To Feel Wasted,Lan Mandragoran,2063,0.571,pov:1184,18,b14:c18,1
+14,Ch18: To Feel Wasted,Rand al'Thor,1859,0.515,pov:1185,18,b14:c18,1
+14,Ch19: The Choice of a Patch,Elayne Trakand,1982,0.549,pov:1186,19,b14:c19,1
+14,Ch19: The Choice of a Patch,Egwene al'Vere,1511,0.418,pov:1187,19,b14:c19,1
+14,Ch19: The Choice of a Patch,Matrim Cauthon,1748,0.484,pov:1188,19,b14:c19,1
+14,Ch20: Into Thankan'dar,Egwene al'Vere,2571,0.712,pov:1189,20,b14:c20,1
+14,Ch20: Into Thankan'dar,Aviendha,3559,0.985,pov:1190,20,b14:c20,1
+14,Ch21: Not a Mistake to Ignore,Siuan Sanche,1514,0.419,pov:1191,21,b14:c21,1
+14,Ch21: Not a Mistake to Ignore,Lyrelle,2139,0.592,pov:1192,21,b14:c21,1
+14,Ch21: Not a Mistake to Ignore,Pevara,574,0.159,pov:1193,21,b14:c21,1
+14,Ch22: The Wyld,Egwene al'Vere,2260,0.626,pov:1194,22,b14:c22,1
+14,Ch22: The Wyld,Perrin Aybara,2586,0.712,pov:1195,22,b14:c22,1
+14,Ch23: At the Edge of Time,Gawyn Trakand,717,0.199,pov:1196,23,b14:c23,1
+14,Ch23: At the Edge of Time,Egwene al'Vere,2020,0.559,pov:1197,23,b14:c23,1
+14,Ch23: At the Edge of Time,Aviendha,2745,0.76,pov:1198,23,b14:c23,1
+14,Ch23: At the Edge of Time,Rand al'Thor,1091,0.302,pov:1199,23,b14:c23,1
+14,Ch24: To Ignore the Omens,Fortuona,2549,0.706,pov:1200,24,b14:c24,1
+14,Ch24: To Ignore the Omens,Lan Mandragoran,748,0.207,pov:1201,24,b14:c24,1
+14,Ch24: To Ignore the Omens,Elayne Trakand,1995,0.552,pov:1202,24,b14:c24,1
+14,Ch24: To Ignore the Omens,Rodel Ituralde,2348,0.65,pov:1203,24,b14:c24,1
+14,Ch25: Quick Fragments,Siuan Sanche,745,0.206,pov:1204,25,b14:c25,1
+14,Ch25: Quick Fragments,Rand al'Thor,827,0.229,pov:1205,25,b14:c25,1
+14,Ch25: Quick Fragments,Lan Mandragoran,931,0.258,pov:1206,25,b14:c25,1
+14,Ch25: Quick Fragments,Perrin Aybara,4201,1.163,pov:1207,25,b14:c25,1
+14,Ch26: Considerations,Egwene al'Vere,3640,1.008,pov:1208,26,b14:c26,1
+14,Ch26: Considerations,Elayne Trakand,2173,0.602,pov:1209,26,b14:c26,1
+14,Ch27: Friendly Fire,Gareth Bryne,2686,0.744,pov:1210,27,b14:c27,1
+14,Ch27: Friendly Fire,Min Farshaw,3156,0.874,pov:1211,27,b14:c27,1
+14,Ch28: Too Many Men,Lan Mandragoran,1877,0.52,pov:1212,28,b14:c28,1
+14,Ch28: Too Many Men,Loial,500,0.138,pov:1213,28,b14:c28,1
+14,Ch28: Too Many Men,Matrim Cauthon,1553,0.43,pov:1214,28,b14:c28,1
+14,Ch29: The Loss of a Hill,Egwene al'Vere,913,0.253,pov:1215,29,b14:c29,1
+14,Ch29: The Loss of a Hill,Lan Mandragoran,1580,0.437,pov:1216,29,b14:c29,1
+14,Ch29: The Loss of a Hill,Matrim Cauthon,4083,1.131,pov:1217,29,b14:c29,1
+14,Ch30: The Way of the Predator,Perrin Aybara,1834,0.508,pov:1218,30,b14:c30,1
+14,Ch30: The Way of the Predator,Rand al'Thor,1630,0.451,pov:1219,30,b14:c30,1
+14,Ch30: The Way of the Predator,Elayne Trakand,2442,0.676,pov:1220,30,b14:c30,1
+14,Ch31: A Tempest of Water,Egwene al'Vere,1221,0.338,pov:1221,31,b14:c31,1
+14,Ch31: A Tempest of Water,Rodel Ituralde,1527,0.423,pov:1222,31,b14:c31,1
+14,Ch31: A Tempest of Water,Egwene al'Vere,2367,0.655,pov:1223,31,b14:c31,1
+14,Ch32: A Yellow Flower-Spider,Matrim Cauthon,4300,1.191,pov:1224,32,b14:c32,1
+14,Ch32: A Yellow Flower-Spider,Galad Damodred,1339,0.371,pov:1225,32,b14:c32,1
+14,Ch33: The Prince's Tabac,Perrin Aybara,1929,0.534,pov:1226,33,b14:c33,1
+14,Ch33: The Prince's Tabac,Faile,3443,0.953,pov:1227,33,b14:c33,1
+14,Ch33: The Prince's Tabac,Aviendha,4005,1.109,pov:1228,33,b14:c33,1
+14,Ch34: Drifting,Rand al'Thor,335,0.093,pov:1229,34,b14:c34,1
+14,Ch34: Drifting,Perrin Aybara,573,0.159,pov:1230,34,b14:c34,1
+14,Ch34: Drifting,Faile,1846,0.511,pov:1231,34,b14:c34,1
+14,Ch34: Drifting,Aviendha,1175,0.325,pov:1232,34,b14:c34,1
+14,Ch35: A Practiced Grin,Olver,1882,0.521,pov:1233,35,b14:c35,1
+14,Ch35: A Practiced Grin,Cadsuane Melaidhrin,766,0.212,pov:1234,35,b14:c35,1
+14,Ch35: A Practiced Grin,Faile,1411,0.391,pov:1235,35,b14:c35,1
+14,Ch36: Unchangeable Things,Nynaeve al'Meara,893,0.247,pov:1236,36,b14:c36,1
+14,Ch36: Unchangeable Things,Matrim Cauthon,3514,0.973,pov:1237,36,b14:c36,1
+14,Ch36: Unchangeable Things,Perrin Aybara,294,0.081,pov:1238,36,b14:c36,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Lan Mandragoran,663,0.184,pov:1239,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Elayne Trakand,2017,0.558,pov:1240,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Uno Nomesta,2062,0.571,pov:1241,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Logain Ablar,1147,0.318,pov:1242,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Gawyn Trakand,852,0.236,pov:1243,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Tam al'Thor,1414,0.392,pov:1244,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Pevara,1621,0.449,pov:1245,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,2533,0.701,pov:1246,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Galad Damodred,1042,0.289,pov:1247,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,2691,0.745,pov:1248,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,1177,0.326,pov:1249,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Gawyn Trakand,2931,0.812,pov:1250,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Faile,1059,0.293,pov:1251,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Perrin Aybara,1251,0.347,pov:1252,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Androl Genhald,1357,0.376,pov:1253,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rhuarc,1423,0.394,pov:1254,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,1212,0.336,pov:1255,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Silviana Brehon,2455,0.68,pov:1256,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Elayne Trakand,1418,0.393,pov:1257,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,1352,0.374,pov:1258,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Min Farshaw,1352,0.374,pov:1259,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,171,0.047,pov:1260,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Demandred,2082,0.576,pov:1261,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,294,0.081,pov:1262,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Juilin Sandar,647,0.179,pov:1263,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Pevara,2021,0.56,pov:1264,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Galad Damodred,1460,0.404,pov:1265,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,251,0.069,pov:1266,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Tam al'Thor,792,0.219,pov:1267,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Fortuona,996,0.276,pov:1268,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,1864,0.516,pov:1269,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,610,0.169,pov:1270,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Tam al'Thor,1569,0.434,pov:1271,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Elayne Trakand,915,0.253,pov:1272,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Galad Damodred,574,0.159,pov:1273,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Nynaeve al'Meara,202,0.056,pov:1274,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,2414,0.668,pov:1275,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,1025,0.284,pov:1276,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Galad Damodred,563,0.156,pov:1277,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Androl Genhald,993,0.275,pov:1278,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Gerard Arganda,2340,0.648,pov:1279,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,1976,0.547,pov:1280,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,602,0.167,pov:1281,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Olver,2943,0.815,pov:1282,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Leane Sharif,837,0.232,pov:1283,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Talmanes,837,0.232,pov:1284,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Faile,1389,0.385,pov:1285,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Logain Ablar,796,0.22,pov:1286,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,683,0.189,pov:1287,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Ila,861,0.238,pov:1288,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Olver,845,0.234,pov:1289,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Logain Ablar,928,0.257,pov:1290,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,816,0.226,pov:1291,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Hurin,561,0.155,pov:1292,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Berelain,1526,0.423,pov:1293,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,506,0.14,pov:1294,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Mazrim Taim,1134,0.314,pov:1295,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Elayne Trakand,1218,0.337,pov:1296,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,300,0.083,pov:1297,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Min Farshaw,1773,0.491,pov:1298,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Egwene al'Vere,1746,0.483,pov:1299,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,124,0.034,pov:1300,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Leane Sharif,178,0.049,pov:1301,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Berelain,214,0.059,pov:1302,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Matrim Cauthon,1235,0.342,pov:1303,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Olver,69,0.019,pov:1304,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Loial,426,0.118,pov:1305,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Tam al'Thor,260,0.072,pov:1306,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Lan Mandragoran,628,0.174,pov:1307,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Min Farshaw,111,0.031,pov:1308,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Rand al'Thor,60,0.017,pov:1309,37,b14:c37,1
+14,Ch37: The Last Battle*There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!,Lan Mandragoran,811,0.225,pov:1310,37,b14:c37,1
+14,Ch38: The Place That Was Not,Rand al'Thor,539,0.149,pov:1311,38,b14:c38,1
+14,Ch38: The Place That Was Not,Shendla,65,0.018,pov:1312,38,b14:c38,1
+14,Ch38: The Place That Was Not,Rand al'Thor,449,0.124,pov:1313,38,b14:c38,1
+14,Ch38: The Place That Was Not,Loial,145,0.04,pov:1314,38,b14:c38,1
+14,Ch39: Those Who Fight,Rand al'Thor,513,0.142,pov:1315,39,b14:c39,1
+14,Ch39: Those Who Fight,Matrim Cauthon,141,0.039,pov:1316,39,b14:c39,1
+14,Ch39: Those Who Fight,Rand al'Thor,21,0.006,pov:1317,39,b14:c39,1
+14,Ch39: Those Who Fight,Matrim Cauthon,101,0.028,pov:1318,39,b14:c39,1
+14,Ch39: Those Who Fight,Rand al'Thor,40,0.011,pov:1319,39,b14:c39,1
+14,Ch39: Those Who Fight,Olver,48,0.013,pov:1320,39,b14:c39,1
+14,Ch39: Those Who Fight,Matrim Cauthon,159,0.044,pov:1321,39,b14:c39,1
+14,Ch39: Those Who Fight,Elayne Trakand,361,0.1,pov:1322,39,b14:c39,1
+14,Ch39: Those Who Fight,Matrim Cauthon,1368,0.379,pov:1323,39,b14:c39,1
+14,Ch39: Those Who Fight,Olver,312,0.086,pov:1324,39,b14:c39,1
+14,Ch40: Wolfbrother,Elayne Trakand,435,0.12,pov:1325,40,b14:c40,1
+14,Ch40: Wolfbrother,Aviendha,1304,0.361,pov:1326,40,b14:c40,1
+14,Ch40: Wolfbrother,Elayne Trakand,560,0.155,pov:1327,40,b14:c40,1
+14,Ch40: Wolfbrother,Matrim Cauthon,721,0.2,pov:1328,40,b14:c40,1
+14,Ch40: Wolfbrother,Jur Grady,833,0.231,pov:1329,40,b14:c40,1
+14,Ch41: A Smile,Pevara,638,0.177,pov:1330,41,b14:c41,1
+14,Ch41: A Smile,Moghedien,1034,0.286,pov:1331,41,b14:c41,1
+14,Ch41: A Smile,Talmanes,304,0.084,pov:1332,41,b14:c41,1
+14,Ch42: Impossibilities,Aviendha,1087,0.301,pov:1333,42,b14:c42,1
+14,Ch42: Impossibilities,Atal Mishraile,1423,0.394,pov:1334,42,b14:c42,1
+14,Ch42: Impossibilities,Pevara,367,0.102,pov:1335,42,b14:c42,1
+14,Ch42: Impossibilities,Aviendha,560,0.155,pov:1336,42,b14:c42,1
+14,Ch43: A Field of Glass,Logain Ablar,862,0.239,pov:1337,43,b14:c43,1
+14,Ch43: A Field of Glass,Matrim Cauthon,1287,0.356,pov:1338,43,b14:c43,1
+14,Ch43: A Field of Glass,Rand al'Thor,384,0.106,pov:1339,43,b14:c43,1
+14,Ch43: A Field of Glass,Aviendha,444,0.123,pov:1340,43,b14:c43,1
+14,Ch44: Two Craftsmen,Perrin Aybara,2634,0.729,pov:1341,44,b14:c44,1
+14,Ch44: Two Craftsmen,Thom Merrilin,1632,0.452,pov:1342,44,b14:c44,1
+14,Ch45: Tendrils of Mist,Matrim Cauthon,427,0.118,pov:1343,45,b14:c45,1
+14,Ch45: Tendrils of Mist,Shaisam,587,0.163,pov:1344,45,b14:c45,1
+14,Ch45: Tendrils of Mist,Gaul,920,0.255,pov:1345,45,b14:c45,1
+14,Ch45: Tendrils of Mist,Matrim Cauthon,1120,0.31,pov:1346,45,b14:c45,1
+14,Ch46: To Awaken,Rand al'Thor,143,0.04,pov:1347,46,b14:c46,1
+14,Ch46: To Awaken,Nynaeve al'Meara,256,0.071,pov:1348,46,b14:c46,1
+14,Ch46: To Awaken,Perrin Aybara,1950,0.54,pov:1349,46,b14:c46,1
+14,Ch46: To Awaken,Matrim Cauthon,483,0.134,pov:1350,46,b14:c46,1
+14,Ch47: Watching the Flow Writhe,Aviendha,425,0.118,pov:1351,47,b14:c47,1
+14,Ch47: Watching the Flow Writhe,Shaisam,173,0.048,pov:1352,47,b14:c47,1
+14,Ch47: Watching the Flow Writhe,Perrin Aybara,422,0.117,pov:1353,47,b14:c47,1
+14,Ch47: Watching the Flow Writhe,Rand al'Thor,512,0.142,pov:1354,47,b14:c47,1
+14,Ch48: A Brilliant Lance,Elayne Trakand,150,0.042,pov:1355,48,b14:c48,1
+14,Ch48: A Brilliant Lance,Thom Merrilin,61,0.017,pov:1356,48,b14:c48,1
+14,Ch48: A Brilliant Lance,Min Farshaw,85,0.024,pov:1357,48,b14:c48,1
+14,Ch48: A Brilliant Lance,Aviendha,155,0.043,pov:1358,48,b14:c48,1
+14,Ch48: A Brilliant Lance,Logain Ablar,356,0.099,pov:1359,48,b14:c48,1
+14,Ch49: Light and Shadow,Perrin Aybara,1074,0.297,pov:1360,49,b14:c49,1
+14,Ch49: Light and Shadow,Rand al'Thor,421,0.117,pov:1361,49,b14:c49,1
+14,Ch49: Light and Shadow,Moiraine Damodred,162,0.045,pov:1362,49,b14:c49,1
+14,Epiloque: To See the Answer,Rand al'Thor,184,0.051,pov:1363,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Matrim Cauthon,182,0.05,pov:1364,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Perrin Aybara,1025,0.284,pov:1365,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Loial,872,0.241,pov:1366,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Matrim Cauthon,372,0.103,pov:1367,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Perrin Aybara,167,0.046,pov:1368,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Moghedien,413,0.114,pov:1369,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Nynaeve al'Meara,472,0.131,pov:1370,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Perrin Aybara,633,0.175,pov:1371,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Birgitte,357,0.099,pov:1372,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Tam al'Thor,262,0.073,pov:1373,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Min Farshaw,615,0.17,pov:1374,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Rand al'Thor,708,0.196,pov:1375,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Cadsuane Melaidhrin,180,0.05,pov:1376,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Rand al'Thor,708,0.196,pov:1377,Epilogue,b14:cEpilogue,1
+14,Epiloque: To See the Answer,Quote,182,0.05,pov:1378,Epilogue,b14:cEpilogue,1

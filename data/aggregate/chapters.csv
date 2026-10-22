@@ -1,0 +1,705 @@
+chapter_id,book,title,chapter_key,chapter_order,label,words,paragraphs
+b00:c1,0,New Spring,1,0,1 The Hook,5676,60
+b00:c2,0,New Spring,2,1,2 A Wish Fulfilled,4951,51
+b00:c3,0,New Spring,3,2,3 Practice,8710,100
+b00:c4,0,New Spring,4,3,4 Leaving the Tower,6073,58
+b00:c5,0,New Spring,5,4,5 The Human Heart,7960,121
+b00:c6,0,New Spring,6,5,6 Surprises,5466,80
+b00:c7,0,New Spring,7,6,7 The Itch,3307,46
+b00:c8,0,New Spring,8,7,8 Shreds of Serenity,4264,61
+b00:c9,0,New Spring,9,8,9 It Begins,4875,58
+b00:c10,0,New Spring,10,9,10 It Finishes,2570,40
+b00:c11,0,New Spring,11,10,11 Just Before Dawn,3299,50
+b00:c12,0,New Spring,12,11,12 Entering Home,5446,79
+b00:c13,0,New Spring,13,12,13 Business in the City,3734,46
+b00:c14,0,New Spring,14,13,14 Changes,6547,68
+b00:c15,0,New Spring,15,14,15 Into Canluum,2803,37
+b00:c16,0,New Spring,16,15,16 The Deeps,4302,53
+b00:c17,0,New Spring,17,16,17 An Arrival,5127,64
+b00:c18,0,New Spring,18,17,18 A Narrow Passage,3741,42
+b00:c19,0,New Spring,19,18,19 Pond Water,3728,49
+b00:c20,0,New Spring,20,19,20 Breakfast in Manala,2895,45
+b00:c21,0,New Spring,21,20,21 Some Tricks of the Power,4314,58
+b00:c22,0,New Spring,22,21,22 Keeping Custom,5117,73
+b00:c23,0,New Spring,23,22,23 The Evening Star,3514,51
+b00:c24,0,New Spring,24,23,24 Making Use of Invisibility,2902,44
+b00:c25,0,New Spring,25,24,25 An Answer,4505,60
+b00:c26,0,New Spring,26,25,26 When to Surrender,4001,58
+b00:cEpilogue,0,New Spring,Epilogue,26,Epilogue,2035,31
+b01:cPrologue,1,The Eye of the World,Prologue,0,Prologue Dragonmount,2616,41
+b01:c1,1,The Eye of the World,1,1,1 An Empty Road,7162,128
+b01:c2,1,The Eye of the World,2,2,2 Strangers,4962,107
+b01:c3,1,The Eye of the World,3,3,3 The Peddler,5255,134
+b01:c4,1,The Eye of the World,4,4,4 The Gleeman,5962,121
+b01:c5,1,The Eye of the World,5,5,5 Winternight,7122,113
+b01:c6,1,The Eye of the World,6,6,6 The Westwood,3411,49
+b01:c7,1,The Eye of the World,7,7,7 Out of the Woods,5682,99
+b01:c8,1,The Eye of the World,8,8,8 A Place of Safety,5933,124
+b01:c9,1,The Eye of the World,9,9,9 Tellings of the Wheel,6929,111
+b01:c10,1,The Eye of the World,10,10,10 Leavetaking,4048,101
+b01:c11,1,The Eye of the World,11,11,11 The Road to Taren Ferry,3568,68
+b01:c12,1,The Eye of the World,12,12,12 Across the Taren,5262,94
+b01:c13,1,The Eye of the World,13,13,13 Choices,7307,149
+b01:c14,1,The Eye of the World,14,14,14 The Stag and Lion,5890,110
+b01:c15,1,The Eye of the World,15,15,15 Strangers and Friends,9062,201
+b01:c16,1,The Eye of the World,16,16,16 The Wisdom,4247,96
+b01:c17,1,The Eye of the World,17,17,17 Watchers and Hunters,6563,148
+b01:c18,1,The Eye of the World,18,18,18 The Caemlyn Road,5531,126
+b01:c19,1,The Eye of the World,19,19,19 Shadow’s Waiting,7093,164
+b01:c20,1,The Eye of the World,20,20,20 Dust on the Wind,7628,152
+b01:c21,1,The Eye of the World,21,21,21 Listen to the Wind,5127,83
+b01:c22,1,The Eye of the World,22,22,22 A Path Chosen,2184,45
+b01:c23,1,The Eye of the World,23,23,23 Wolfbrother,5822,115
+b01:c24,1,The Eye of the World,24,24,24 Flight Down the Arinelle,5335,87
+b01:c25,1,The Eye of the World,25,25,25 The Traveling People,6142,129
+b01:c26,1,The Eye of the World,26,26,26 Whitebridge,8979,175
+b01:c27,1,The Eye of the World,27,27,27 Shelter From the Storm,4919,84
+b01:c28,1,The Eye of the World,28,28,28 Footprints in Air,3163,59
+b01:c29,1,The Eye of the World,29,29,29 Eyes Without Pity,6184,107
+b01:c30,1,The Eye of the World,30,30,30 Children of Shadow,6406,122
+b01:c31,1,The Eye of the World,31,31,31 Play for Your Supper,4544,68
+b01:c32,1,The Eye of the World,32,32,32 Four Kings in Shadow,7977,141
+b01:c33,1,The Eye of the World,33,33,33 The Dark Waits,10414,215
+b01:c34,1,The Eye of the World,34,34,34 The Last Village,5931,113
+b01:c35,1,The Eye of the World,35,35,35 Caemlyn,5353,99
+b01:c36,1,The Eye of the World,36,36,36 Web of the Pattern,5725,108
+b01:c37,1,The Eye of the World,37,37,37 The Long Chase,3238,57
+b01:c38,1,The Eye of the World,38,38,38 Rescue,5934,120
+b01:c39,1,The Eye of the World,39,39,39 Weaving of the Web,4472,64
+b01:c40,1,The Eye of the World,40,40,40 The Web Tightens,9548,201
+b01:c41,1,The Eye of the World,41,41,41 Old Friends and New Threats,5812,128
+b01:c42,1,The Eye of the World,42,42,42 Remembrance of Dreams,4720,91
+b01:c43,1,The Eye of the World,43,43,43 Decisions and Apparitions,4901,103
+b01:c44,1,The Eye of the World,44,44,44 The Dark Along the Ways,5314,88
+b01:c45,1,The Eye of the World,45,45,45 What Follows in Shadow,5564,126
+b01:c46,1,The Eye of the World,46,46,46 Fal Dara,6749,146
+b01:c47,1,The Eye of the World,47,47,47 More Tales of the Wheel,5169,77
+b01:c48,1,The Eye of the World,48,48,48 The Blight,4587,85
+b01:c49,1,The Eye of the World,49,49,49 The Dark One Stirs,3481,74
+b01:c50,1,The Eye of the World,50,50,50 Meetings at the Eye,4544,79
+b01:c51,1,The Eye of the World,51,51,51 Against the Shadow,3512,66
+b01:c52,1,The Eye of the World,52,52,52 There Is Neither Beginning Nor End,3877,80
+b01:c53,1,The Eye of the World,53,53,53 The Wheel Turns,3340,82
+b02:cPrologue,2,The Great Hunt,Prologue,0,Prologue: In the Shadow,5313,84
+b02:c1,2,The Great Hunt,1,1,1 The Flame of Tar Valon,4201,61
+b02:c2,2,The Great Hunt,2,2,2 The Welcome,4551,78
+b02:c3,2,The Great Hunt,3,3,3 Friends and Enemies,8431,141
+b02:c4,2,The Great Hunt,4,4,4 Summoned,6434,84
+b02:c5,2,The Great Hunt,5,5,5 The Shadow in Shienar,7707,138
+b02:c6,2,The Great Hunt,6,6,6 Dark Prophecy,7265,175
+b02:c7,2,The Great Hunt,7,7,7 Blood Calls Blood,6921,155
+b02:c8,2,The Great Hunt,8,8,8 The Dragon Reborn,9569,187
+b02:c9,2,The Great Hunt,9,9,9 Leavetakings,8153,163
+b02:c10,2,The Great Hunt,10,10,10 The Hunt Begins,8586,181
+b02:c11,2,The Great Hunt,11,11,11 Glimmers of the Pattern,4533,74
+b02:c12,2,The Great Hunt,12,12,12 Woven in the Pattern,5897,90
+b02:c13,2,The Great Hunt,13,13,13 From Stone to Stone,3282,58
+b02:c14,2,The Great Hunt,14,14,14 Wolfbrother,3467,69
+b02:c15,2,The Great Hunt,15,15,15 Kinslayer,4728,82
+b02:c16,2,The Great Hunt,16,16,16 In the Mirror of Darkness,6406,137
+b02:c17,2,The Great Hunt,17,17,17 Choices,3109,67
+b02:c18,2,The Great Hunt,18,18,18 To the White Tower,4665,92
+b02:c19,2,The Great Hunt,19,19,19 Beneath the Dagger,5496,119
+b02:c20,2,The Great Hunt,20,20,20 Saidin,2676,69
+b02:c21,2,The Great Hunt,21,21,21 The Nine Rings,4394,107
+b02:c22,2,The Great Hunt,22,22,22 Watchers,5354,89
+b02:c23,2,The Great Hunt,23,23,23 The Testing,7749,183
+b02:c24,2,The Great Hunt,24,24,24 New Friends and Old Enemies,4413,110
+b02:c25,2,The Great Hunt,25,25,25 Cairhien,4583,87
+b02:c26,2,The Great Hunt,26,26,26 Discord,4926,118
+b02:c27,2,The Great Hunt,27,27,27 The Shadow in the Night.,5071,121
+b02:c28,2,The Great Hunt,28,28,28 A New Thread in the Pattern.,2690,63
+b02:c29,2,The Great Hunt,29,29,29 Seanchan,7182,131
+b02:c30,2,The Great Hunt,30,30,30 Daes Dae’mar,4507,108
+b02:c31,2,The Great Hunt,31,31,31 On the Scent,4816,100
+b02:c32,2,The Great Hunt,32,32,32 Dangerous Words,4079,80
+b02:c33,2,The Great Hunt,33,33,33 A Message from the Dark,5830,123
+b02:c34,2,The Great Hunt,34,34,34 The Wheel Weaves,6037,100
+b02:c35,2,The Great Hunt,35,35,35 Stedding Tsofu,4872,88
+b02:c36,2,The Great Hunt,36,36,36 Among the Elders,3493,75
+b02:c37,2,The Great Hunt,37,37,37 What Might Be,4942,89
+b02:c38,2,The Great Hunt,38,38,38 Practice,4833,107
+b02:c39,2,The Great Hunt,39,39,39 Flight from the White Tower,5284,98
+b02:c40,2,The Great Hunt,40,40,40 Damane,6676,115
+b02:c41,2,The Great Hunt,41,41,41 Disagreements,3428,69
+b02:c42,2,The Great Hunt,42,42,42 Falme,4658,62
+b02:c43,2,The Great Hunt,43,43,43 A Plan,3355,58
+b02:c44,2,The Great Hunt,44,44,44 Five Will Ride Forth,3737,79
+b02:c45,2,The Great Hunt,45,45,45 Blademaster,8043,181
+b02:c46,2,The Great Hunt,46,46,46 To Come Out of the Shadow,5091,109
+b02:c47,2,The Great Hunt,47,47,47 The Grave Is No Bar to My Call,4098,94
+b02:c48,2,The Great Hunt,48,48,48 First Claiming,1952,32
+b02:c49,2,The Great Hunt,49,49,49 What Was Meant to Be,2382,57
+b02:c50,2,The Great Hunt,50,50,50 After,296,8
+b03:cPrologue,3,The Dragon Reborn,Prologue,0,Prologue: Fortress of the Light,6751,129
+b03:c1,3,The Dragon Reborn,1,1,1 Waiting,4111,68
+b03:c2,3,The Dragon Reborn,2,2,2 Saidin,4741,108
+b03:c3,3,The Dragon Reborn,3,3,3 News from the Plain,3529,67
+b03:c4,3,The Dragon Reborn,4,4,4 Shadows Sleeping,2978,67
+b03:c5,3,The Dragon Reborn,5,5,5 Nightmares Walking,4872,91
+b03:c6,3,The Dragon Reborn,6,6,6 The Hunt Begins,5398,124
+b03:c7,3,The Dragon Reborn,7,7,7 The Way Out of the Mountains,2123,39
+b03:c8,3,The Dragon Reborn,8,8,8 Jarra,5512,121
+b03:c9,3,The Dragon Reborn,9,9,9 Wolf Dreams,2778,76
+b03:c10,3,The Dragon Reborn,10,10,10 Secrets,5442,97
+b03:c11,3,The Dragon Reborn,11,11,11 Tar Valon,3964,70
+b03:c12,3,The Dragon Reborn,12,12,12 The Amyrlin Seat,2088,41
+b03:c13,3,The Dragon Reborn,13,13,13 Punishments,4486,84
+b03:c14,3,The Dragon Reborn,14,14,14 The Bite of the Thorns,2755,54
+b03:c15,3,The Dragon Reborn,15,15,15 The Gray Man,3175,66
+b03:c16,3,The Dragon Reborn,16,16,16 Hunters Three,3233,76
+b03:c17,3,The Dragon Reborn,17,17,17 The Red Sister,2294,51
+b03:c18,3,The Dragon Reborn,18,18,18 Healing,2341,48
+b03:c19,3,The Dragon Reborn,19,19,19 Awakening,2760,42
+b03:c20,3,The Dragon Reborn,20,20,20 Visitations,4743,95
+b03:c21,3,The Dragon Reborn,21,21,21 A World of Dreams,2778,41
+b03:c22,3,The Dragon Reborn,22,22,22 The Price of the Ring,8342,229
+b03:c23,3,The Dragon Reborn,23,23,23 Sealed,3096,56
+b03:c24,3,The Dragon Reborn,24,24,24 Scouting and Discoveries,5320,105
+b03:c25,3,The Dragon Reborn,25,25,25 Questions,4017,72
+b03:c26,3,The Dragon Reborn,26,26,26 Behind a Lock,2709,61
+b03:c27,3,The Dragon Reborn,27,27,27 Tel’aran’rhiod,5580,115
+b03:c28,3,The Dragon Reborn,28,28,28 A Way Out,2689,62
+b03:c29,3,The Dragon Reborn,29,29,29 A Trap to Spring,3400,59
+b03:c30,3,The Dragon Reborn,30,30,30 The First Toss,4191,76
+b03:c31,3,The Dragon Reborn,31,31,31 The Woman of Tanchico,2683,51
+b03:c32,3,The Dragon Reborn,32,32,32 The First Ship,6063,100
+b03:c33,3,The Dragon Reborn,33,33,33 Within the Weave,4452,69
+b03:c34,3,The Dragon Reborn,34,34,34 A Different Dance,4157,77
+b03:c35,3,The Dragon Reborn,35,35,35 The Falcon,3225,62
+b03:c36,3,The Dragon Reborn,36,36,36 Daughter of the Night,4860,98
+b03:c37,3,The Dragon Reborn,37,37,37 Fires in Cairhien,4026,66
+b03:c38,3,The Dragon Reborn,38,38,38 Maidens of the Spear,3672,81
+b03:c39,3,The Dragon Reborn,39,39,39 Threads in the Pattern,7595,151
+b03:c40,3,The Dragon Reborn,40,40,40 A Hero in the Night,5948,98
+b03:c41,3,The Dragon Reborn,41,41,41 A Hunter’s Oath,3028,46
+b03:c42,3,The Dragon Reborn,42,42,42 Easing the Badger,5637,98
+b03:c43,3,The Dragon Reborn,43,43,43 Shadowbrothers,2878,71
+b03:c44,3,The Dragon Reborn,44,44,44 Hunted,4937,96
+b03:c45,3,The Dragon Reborn,45,45,45 Caemlyn,3989,65
+b03:c46,3,The Dragon Reborn,46,46,46 A Message Out of the Shadow,4161,63
+b03:c47,3,The Dragon Reborn,47,47,47 To Race the Shadow,2954,55
+b03:c48,3,The Dragon Reborn,48,48,48 Following the Craft,6193,100
+b03:c49,3,The Dragon Reborn,49,49,49 A Storm in Tear,7766,132
+b03:c50,3,The Dragon Reborn,50,50,50 The Hammer,6178,105
+b03:c51,3,The Dragon Reborn,51,51,51 Bait for the Net,3499,56
+b03:c52,3,The Dragon Reborn,52,52,52 In Search of a Remedy,2662,52
+b03:c53,3,The Dragon Reborn,53,53,53 A Flow of the Spirit,2981,72
+b03:c54,3,The Dragon Reborn,54,54,54 Into the Stone,7334,129
+b03:c55,3,The Dragon Reborn,55,55,55 What Is Written in Prophecy,7410,136
+b03:c56,3,The Dragon Reborn,56,56,56 People of the Dragon,2999,61
+b04:c1,4,The Shadow Rising,1,0,CHAPTER 1 - Seeds of Shadow,15764,243
+b04:c2,4,The Shadow Rising,2,1,CHAPTER 2 - Whirlpools in the Pattern,15079,266
+b04:c3,4,The Shadow Rising,3,2,CHAPTER 3 - Reflection,7297,144
+b04:c4,4,The Shadow Rising,4,3,CHAPTER 4 - Strings,2678,51
+b04:c5,4,The Shadow Rising,5,4,CHAPTER 5 - Questioners,3926,56
+b04:c6,4,The Shadow Rising,6,5,CHAPTER 6 - Doorways,7492,127
+b04:c7,4,The Shadow Rising,7,6,CHAPTER 7 - Playing with Fire,6416,102
+b04:c8,4,The Shadow Rising,8,7,CHAPTER 8 - Hard Heads,5921,114
+b04:c9,4,The Shadow Rising,9,8,CHAPTER 9 - Decisions,6240,80
+b04:c10,4,The Shadow Rising,10,9,CHAPTER 10 - The Stone Stands,5464,84
+b04:c11,4,The Shadow Rising,11,10,CHAPTER 11 - What Lies Hidden,7993,106
+b04:c12,4,The Shadow Rising,12,11,CHAPTER 12 - Tanchico or the Tower,3463,74
+b04:c13,4,The Shadow Rising,13,12,CHAPTER 13 - Rumors,3392,58
+b04:c14,4,The Shadow Rising,14,13,CHAPTER 14 - Customs of Mayene,3348,68
+b04:c15,4,The Shadow Rising,15,14,CHAPTER 15 - Into the Doorway,4673,91
+b04:c16,4,The Shadow Rising,16,15,CHAPTER 16 - Leavetakings,5351,122
+b04:c17,4,The Shadow Rising,17,16,CHAPTER 17 - Deceptions,8696,158
+b04:c18,4,The Shadow Rising,18,17,CHAPTER 18 - Into the Ways,4349,81
+b04:c19,4,The Shadow Rising,19,18,CHAPTER 19 - The Wavedancer,5719,89
+b04:c20,4,The Shadow Rising,20,19,CHAPTER 20 - Winds Rising,6674,109
+b04:c21,4,The Shadow Rising,21,20,CHAPTER 21 - Into the Heart,5626,88
+b04:c22,4,The Shadow Rising,22,21,CHAPTER 22 - Out of the Stone,6276,108
+b04:c23,4,The Shadow Rising,23,22,CHAPTER 23 - Beyond the Stone,9364,204
+b04:c24,4,The Shadow Rising,24,23,CHAPTER 24 - Rhuidean,5495,107
+b04:c25,4,The Shadow Rising,25,24,CHAPTER 25 - The Road to the Spear,6755,130
+b04:c26,4,The Shadow Rising,26,25,CHAPTER 26 - The Dedicated,8357,169
+b04:c27,4,The Shadow Rising,27,26,CHAPTER 27 - Within the Ways,4779,76
+b04:c28,4,The Shadow Rising,28,27,CHAPTER 28 - To the Tower of Ghenjei,4279,94
+b04:c29,4,The Shadow Rising,29,28,CHAPTER 29 - Homecoming,5806,97
+b04:c30,4,The Shadow Rising,30,29,CHAPTER 30 - Beyond the Oak,4589,72
+b04:c31,4,The Shadow Rising,31,30,CHAPTER 31 - Assurances,7831,152
+b04:c32,4,The Shadow Rising,32,31,CHAPTER 32 - Questions to Be Asked,5833,93
+b04:c33,4,The Shadow Rising,33,32,CHAPTER 33 - A New Weave in the Pattern,8928,164
+b04:c34,4,The Shadow Rising,34,33,CHAPTER 34 - He Who Comes with the Dawn,7968,150
+b04:c35,4,The Shadow Rising,35,34,CHAPTER 35 - Sharp Lessons,5259,105
+b04:c36,4,The Shadow Rising,36,35,CHAPTER 36 - Misdirections,5113,77
+b04:c37,4,The Shadow Rising,37,36,CHAPTER 37 - Imre Stand,8144,139
+b04:c38,4,The Shadow Rising,38,37,CHAPTER 38 - Hidden Faces,9461,151
+b04:c39,4,The Shadow Rising,39,38,CHAPTER 39 - A Cup of Wine,7435,138
+b04:c40,4,The Shadow Rising,40,39,CHAPTER 40 - Hunter of Trollocs,5323,88
+b04:c41,4,The Shadow Rising,41,40,CHAPTER 41 - Among the Tuatha’an,3649,70
+b04:c42,4,The Shadow Rising,42,41,CHAPTER 42 - A Missing Leaf,6112,130
+b04:c43,4,The Shadow Rising,43,42,CHAPTER 43 - Care for the Living,3698,74
+b04:c44,4,The Shadow Rising,44,43,CHAPTER 44 - The Breaking Storm,5391,96
+b04:c45,4,The Shadow Rising,45,44,CHAPTER 45 - The Tinker’s Sword,7577,130
+b04:c46,4,The Shadow Rising,46,45,CHAPTER 46 - Veils,8179,135
+b04:c47,4,The Shadow Rising,47,46,CHAPTER 47 - The Truth of a Viewing,10514,181
+b04:c48,4,The Shadow Rising,48,47,CHAPTER 48 - An Offer Refused,5520,81
+b04:c49,4,The Shadow Rising,49,48,CHAPTER 49 - Cold Rocks Hold,6021,95
+b04:c50,4,The Shadow Rising,50,49,CHAPTER 50 - Traps,6850,133
+b04:c51,4,The Shadow Rising,51,50,CHAPTER 51 - Revelations in Tanchico,6646,129
+b04:c52,4,The Shadow Rising,52,51,CHAPTER 52 - Need,8599,142
+b04:c53,4,The Shadow Rising,53,52,CHAPTER 53 - The Price of a Departure,7948,143
+b04:c54,4,The Shadow Rising,54,53,CHAPTER 54 - Into the Palace,8964,131
+b04:c55,4,The Shadow Rising,55,54,CHAPTER 55 - Into the Deep,3229,52
+b04:c56,4,The Shadow Rising,56,55,CHAPTER 56 - Goldeneyes,8761,133
+b04:c57,4,The Shadow Rising,57,56,CHAPTER 57 - A Breaking in the Three-fold Land,8237,142
+b04:c58,4,The Shadow Rising,58,57,CHAPTER 58 - The Traps of Rhuidean,6665,98
+b05:cPrologue,5,The Fires of Heaven,Prologue,0,PROLOGUE: The First Sparks Fall,9104,135
+b05:c1,5,The Fires of Heaven,1,1,1 Fanning the Sparks,13936,206
+b05:c2,5,The Fires of Heaven,2,2,2 Rhuidean,9100,128
+b05:c3,5,The Fires of Heaven,3,3,3 Pale Shadows,7107,107
+b05:c4,5,The Fires of Heaven,4,4,4 Twilight,5218,66
+b05:c5,5,The Fires of Heaven,5,5,5 Among the Wise Ones,8226,155
+b05:c6,5,The Fires of Heaven,6,6,6 Gateways,8390,139
+b05:c7,5,The Fires of Heaven,7,7,7 A Departure,4465,58
+b05:c8,5,The Fires of Heaven,8,8,8 Over the Border,3388,56
+b05:c9,5,The Fires of Heaven,9,9,9 A Signal,6131,103
+b05:c10,5,The Fires of Heaven,10,10,10 Figs and Mice,5449,97
+b05:c11,5,The Fires of Heaven,11,11,11 The Nine Horse Hitch,4559,61
+b05:c12,5,The Fires of Heaven,12,12,12 An Old Pipe,2620,35
+b05:c13,5,The Fires of Heaven,13,13,13 A Small Room in Sienda,5284,79
+b05:c14,5,The Fires of Heaven,14,14,14 Meetings,5009,81
+b05:c15,5,The Fires of Heaven,15,15,15 What Can Be Learned in Dreams,7872,129
+b05:c16,5,The Fires of Heaven,16,16,16 An Unexpected Offer,5980,103
+b05:c17,5,The Fires of Heaven,17,17,17 Heading West,4583,73
+b05:c18,5,The Fires of Heaven,18,18,18 A Hound of Darkness,3709,50
+b05:c19,5,The Fires of Heaven,19,19,19 Memories,9131,136
+b05:c20,5,The Fires of Heaven,20,20,20 Jangai Pass,3756,56
+b05:c21,5,The Fires of Heaven,21,21,21 The Gift of a Blade,4428,64
+b05:c22,5,The Fires of Heaven,22,22,22 Birdcalls by Night,5095,101
+b05:c23,5,The Fires of Heaven,23,23,"23 “The Fifth, I Give You”",3559,50
+b05:c24,5,The Fires of Heaven,24,24,24 A Message Sent,4005,54
+b05:c25,5,The Fires of Heaven,25,25,25 Dreams of Galad,3822,67
+b05:c26,5,The Fires of Heaven,26,26,26 Sallie Daera,5155,66
+b05:c27,5,The Fires of Heaven,27,27,27 The Practice of Diffidence,6503,106
+b05:c28,5,The Fires of Heaven,28,28,28 Trapped,5360,80
+b05:c29,5,The Fires of Heaven,29,29,29 Memories of Saldaea,2265,29
+b05:c30,5,The Fires of Heaven,30,30,30 A Wager,3818,59
+b05:c31,5,The Fires of Heaven,31,31,31 The Far Snows,4564,52
+b05:c32,5,The Fires of Heaven,32,32,32 A Short Spear,5135,82
+b05:c33,5,The Fires of Heaven,33,33,33 A Question of Crimson,4783,57
+b05:c34,5,The Fires of Heaven,34,34,34 A Silver Arrow,6116,95
+b05:c35,5,The Fires of Heaven,35,35,35 Ripped Away,3177,40
+b05:c36,5,The Fires of Heaven,36,36,36 A New Name,6199,94
+b05:c37,5,The Fires of Heaven,37,37,37 Performances in Samara,4245,58
+b05:c38,5,The Fires of Heaven,38,38,38 An Old Acquaintance,2792,36
+b05:c39,5,The Fires of Heaven,39,39,39 Encounters in Samara,7284,96
+b05:c40,5,The Fires of Heaven,40,40,40 The Wheel Weaves,7736,116
+b05:c41,5,The Fires of Heaven,41,41,41 The Craft of Kin Tovere,4175,61
+b05:c42,5,The Fires of Heaven,42,42,42 Before the Arrow,6094,84
+b05:c43,5,The Fires of Heaven,43,43,"43 This Place, This Day",7097,115
+b05:c44,5,The Fires of Heaven,44,44,44 The Lesser Sadness,8585,131
+b05:c45,5,The Fires of Heaven,45,45,45 After the Storm,6221,99
+b05:c46,5,The Fires of Heaven,46,46,"46 Other Battles, Other Weapons",7882,106
+b05:c47,5,The Fires of Heaven,47,47,47 The Price of a Ship,8641,146
+b05:c48,5,The Fires of Heaven,48,48,48 Leavetakings,4989,60
+b05:c49,5,The Fires of Heaven,49,49,49 To Boannda,11647,146
+b05:c50,5,The Fires of Heaven,50,50,"50 To Teach, and Learn",9493,150
+b05:c51,5,The Fires of Heaven,51,51,51 News Comes to Cairhien,9580,171
+b05:c52,5,The Fires of Heaven,52,52,52 Choices,7216,118
+b05:c53,5,The Fires of Heaven,53,53,53 Fading Words,4264,89
+b05:c54,5,The Fires of Heaven,54,54,54 To Caemlyn,9182,135
+b05:c55,5,The Fires of Heaven,55,55,55 The Threads Burn,8602,145
+b05:c56,5,The Fires of Heaven,56,56,56 Glowing Embers,3065,39
+b06:cPrologue,6,Lord of Chaos,Prologue,0,Prologue: The First Message,30055,408
+b06:c1,6,Lord of Chaos,1,1,1 Lion on the Hill,6491,78
+b06:c2,6,Lord of Chaos,2,2,2 A New Arrival,5590,82
+b06:c3,6,Lord of Chaos,3,3,3 A Woman’s Eyes,6592,86
+b06:c4,6,Lord of Chaos,4,4,4 A Sense of Humor,7705,103
+b06:c5,6,Lord of Chaos,5,5,5 A Different Dance,12582,155
+b06:c6,6,Lord of Chaos,6,6,6 Threads Woven of Shadow,9180,112
+b06:c7,6,Lord of Chaos,7,7,7 A Matter of Thought,11868,166
+b06:c8,6,Lord of Chaos,8,8,8 The Storm Gathers,9990,127
+b06:c9,6,Lord of Chaos,9,9,9 Plans,7737,97
+b06:c10,6,Lord of Chaos,10,10,10 A Saying in the Borderlands,8250,122
+b06:c11,6,Lord of Chaos,11,11,11 Lessons and Teachers,5728,74
+b06:c12,6,Lord of Chaos,12,12,12 Questions and Answers,8602,147
+b06:c13,6,Lord of Chaos,13,13,13 Under the Dust,7829,146
+b06:c14,6,Lord of Chaos,14,14,14 Dreams and Nightmares,6620,92
+b06:c15,6,Lord of Chaos,15,15,15 A Pile of Sand,8486,139
+b06:c16,6,Lord of Chaos,16,16,16 Tellings of the Wheel,5811,95
+b06:c17,6,Lord of Chaos,17,17,17 The Wheel of a Life,5572,89
+b06:c18,6,Lord of Chaos,18,18,18 A Taste of Solitude,7882,116
+b06:c19,6,Lord of Chaos,19,19,19 Matters of Toh,5019,64
+b06:c20,6,Lord of Chaos,20,20,20 From the Stedding,5043,76
+b06:c21,6,Lord of Chaos,21,21,21 To Shadar Logoth,5347,122
+b06:c22,6,Lord of Chaos,22,22,22 Heading South,6193,98
+b06:c23,6,Lord of Chaos,23,23,23 To Understand a Message,1955,39
+b06:c24,6,Lord of Chaos,24,24,24 An Embassy,4754,65
+b06:c25,6,Lord of Chaos,25,25,25 Like Lightning and Rain,7292,114
+b06:c26,6,Lord of Chaos,26,26,26 Connecting Lines,5070,78
+b06:c27,6,Lord of Chaos,27,27,27 Gifts,9388,144
+b06:c28,6,Lord of Chaos,28,28,28 Letters,7531,123
+b06:c29,6,Lord of Chaos,29,29,29 Fire and Spirit,4999,77
+b06:c30,6,Lord of Chaos,30,30,30 To Heal Again,8950,185
+b06:c31,6,Lord of Chaos,31,31,31 Red Wax,5582,83
+b06:c32,6,Lord of Chaos,32,32,32 Summoned in Haste,5471,65
+b06:c33,6,Lord of Chaos,33,33,33 Courage to Strengthen,6053,86
+b06:c34,6,Lord of Chaos,34,34,34 Journey to Salidar,3062,51
+b06:c35,6,Lord of Chaos,35,35,35 In the Hall of the Sitters,3789,70
+b06:c36,6,Lord of Chaos,36,36,36 The Amyrlin Is Raised,5520,86
+b06:c37,6,Lord of Chaos,37,37,37 When Battle Begins,5287,89
+b06:c38,6,Lord of Chaos,38,38,38 A Sudden Chill,4800,79
+b06:c39,6,Lord of Chaos,39,39,39 Possibilities,5713,83
+b06:c40,6,Lord of Chaos,40,40,40 Unexpected Laughter,4808,75
+b06:c41,6,Lord of Chaos,41,41,41 A Threat,7567,98
+b06:c42,6,Lord of Chaos,42,42,42 The Black Tower,4879,69
+b06:c43,6,Lord of Chaos,43,43,43 The Crown of Roses,3105,46
+b06:c44,6,Lord of Chaos,44,44,44 The Color of Trust,5936,79
+b06:c45,6,Lord of Chaos,45,45,45 A Bitter Thought,5430,70
+b06:c46,6,Lord of Chaos,46,46,46 Beyond the Gate,8575,127
+b06:c47,6,Lord of Chaos,47,47,47 The Wandering Woman,5999,63
+b06:c48,6,Lord of Chaos,48,48,48 Leaning on the Knife,5087,73
+b06:c49,6,Lord of Chaos,49,49,49 The Mirror of Mists,9806,161
+b06:c50,6,Lord of Chaos,50,50,50 Thorns,7132,79
+b06:c51,6,Lord of Chaos,51,51,51 The Taking,2741,40
+b06:c52,6,Lord of Chaos,52,52,52 Weaves of the Power,7592,112
+b06:c53,6,Lord of Chaos,53,53,53 The Feast of Lights,7616,98
+b06:c54,6,Lord of Chaos,54,54,54 The Sending,8865,108
+b06:c55,6,Lord of Chaos,55,55,55 Dumai’s Wells,9102,125
+b06:cEpilogue,6,Lord of Chaos,Epilogue,56,Epilogue: The Answer,1419,28
+b07:cPrologue,7,A Crown of Swords,Prologue,0,Prologue: Lightnings,19468,240
+b07:c1,7,A Crown of Swords,1,1,Chapter 1: High Chasaline,5983,70
+b07:c2,7,A Crown of Swords,2,2,Chapter 2: The Butcher’s Yard,9709,139
+b07:c3,7,A Crown of Swords,3,3,Chapter 3: Hill of the Golden Dawn,6410,88
+b07:c4,7,A Crown of Swords,4,4,Chapter 4: Into Cairhien,5034,60
+b07:c5,7,A Crown of Swords,5,5,Chapter 5: A Broken Crown,5034,62
+b07:c6,7,A Crown of Swords,6,6,"Chapter 6: Old Fear, and New Fear",4403,72
+b07:c7,7,A Crown of Swords,7,7,Chapter 7: Pitfalls and Tripwires,7930,111
+b07:c8,7,A Crown of Swords,8,8,Chapter 8: The Figurehead,4886,64
+b07:c9,7,A Crown of Swords,9,9,Chapter 9: A Pair of Silverpike,8176,100
+b07:c10,7,A Crown of Swords,10,10,Chapter 10: Unseen Eyes,8529,97
+b07:c11,7,A Crown of Swords,11,11,Chapter 11: An Oath,7968,109
+b07:c12,7,A Crown of Swords,12,12,Chapter 12: A Morning of Victory,13402,171
+b07:c13,7,A Crown of Swords,13,13,Chapter 13: The Bowl of the Winds,7648,98
+b07:c14,7,A Crown of Swords,14,14,Chapter 14: White Plumes,6558,67
+b07:c15,7,A Crown of Swords,15,15,Chapter 15: Insects,3379,43
+b07:c16,7,A Crown of Swords,16,16,Chapter 16: A Touch on the Cheek,5638,77
+b07:c17,7,A Crown of Swords,17,17,Chapter 17: The Triumph of Logic,7130,92
+b07:c18,7,A Crown of Swords,18,18,Chapter 18: As the Plow Breaks the Earth,6011,88
+b07:c19,7,A Crown of Swords,19,19,Chapter 19: Diamonds and Stars,5952,70
+b07:c20,7,A Crown of Swords,20,20,Chapter 20: Patterns Within Patterns,4597,96
+b07:c21,7,A Crown of Swords,21,21,Chapter 21: Swovan Night,5578,80
+b07:c22,7,A Crown of Swords,22,22,Chapter 22: Small Sacrifices,6258,104
+b07:c23,7,A Crown of Swords,23,23,Chapter 23: Next Door to a Weaver,7280,114
+b07:c24,7,A Crown of Swords,24,24,Chapter 24: The Kin,3488,58
+b07:c25,7,A Crown of Swords,25,25,Chapter 25: Mindtrap,3717,54
+b07:c26,7,A Crown of Swords,26,26,Chapter 26: The Irrevocable Words,8489,120
+b07:c27,7,A Crown of Swords,27,27,Chapter 27: To Be Alone,3712,52
+b07:c28,7,A Crown of Swords,28,28,Chapter 28: Bread and Cheese,6691,92
+b07:c29,7,A Crown of Swords,29,29,Chapter 29: The Festival of Birds,4980,72
+b07:c30,7,A Crown of Swords,30,30,Chapter 30: The First Cup,4407,65
+b07:c31,7,A Crown of Swords,31,31,Chapter 31: Mashiara,7366,125
+b07:c32,7,A Crown of Swords,32,32,Chapter 32: Sealed to the Flame,6653,101
+b07:c33,7,A Crown of Swords,33,33,Chapter 33: A Bath,4832,63
+b07:c34,7,A Crown of Swords,34,34,Chapter 34: Ta’veren,5653,80
+b07:c35,7,A Crown of Swords,35,35,Chapter 35: Into the Woods,6579,99
+b07:c36,7,A Crown of Swords,36,36,Chapter 36: Blades,8115,130
+b07:c37,7,A Crown of Swords,37,37,Chapter 37: A Note from the Palace,3791,54
+b07:c38,7,A Crown of Swords,38,38,Chapter 38: Six Stories,9083,117
+b07:c39,7,A Crown of Swords,39,39,Chapter 39: Promises to Keep,8552,106
+b07:c40,7,A Crown of Swords,40,40,Chapter 40: Spears,6379,93
+b07:c41,7,A Crown of Swords,41,41,41 A Crown of Swords,12147,170
+b08:cPrologue,8,The Path of Daggers,Prologue,0,Prologue Deceptive Appearances,12088,125
+b08:c1,8,The Path of Daggers,1,1,1 To Keep the Bargain,8461,89
+b08:c2,8,The Path of Daggers,2,2,2 Unweaving,7312,82
+b08:c3,8,The Path of Daggers,3,3,3 A Pleasant Ride,5030,48
+b08:c4,8,The Path of Daggers,4,4,4 A Quiet Place,5478,52
+b08:c5,8,The Path of Daggers,5,5,5 The Breaking Storm,7757,91
+b08:c6,8,The Path of Daggers,6,6,6 Threads,9687,109
+b08:c7,8,The Path of Daggers,7,7,7 A Goatpen,6471,82
+b08:c8,8,The Path of Daggers,8,8,8 A Simple Country Woman,10579,118
+b08:c9,8,The Path of Daggers,9,9,9 Tangles,7784,102
+b08:c10,8,The Path of Daggers,10,10,10 Changes,9069,121
+b08:c11,8,The Path of Daggers,11,11,11 Questions and an Oath,6699,93
+b08:c12,8,The Path of Daggers,12,12,12 New Alliances,8302,101
+b08:c13,8,The Path of Daggers,13,13,13 Floating Like Snow,4532,50
+b08:c14,8,The Path of Daggers,14,14,14 Message from the M’Hael,5470,71
+b08:c15,8,The Path of Daggers,15,15,15 Stronger Than Written Law,6755,79
+b08:c16,8,The Path of Daggers,16,16,16 Unexpected Absences,8178,107
+b08:c17,8,The Path of Daggers,17,17,17 Out on the Ice,5848,64
+b08:c18,8,The Path of Daggers,18,18,18 A Peculiar Calling,3991,54
+b08:c19,8,The Path of Daggers,19,19,19 The Law,6783,101
+b08:c20,8,The Path of Daggers,20,20,20 Into Andor,6199,68
+b08:c21,8,The Path of Daggers,21,21,21 Answering the Summons,5857,65
+b08:c22,8,The Path of Daggers,22,22,22 Gathering Clouds,5131,76
+b08:c23,8,The Path of Daggers,23,23,"23 Fog of War, Storm of Battle",8024,124
+b08:c24,8,The Path of Daggers,24,24,24 A Time for Iron,12289,155
+b08:c25,8,The Path of Daggers,25,25,25 An Unwelcome Return,4139,49
+b08:c26,8,The Path of Daggers,26,26,26 The Extra Bit,7221,118
+b08:c27,8,The Path of Daggers,27,27,27 The Bargain,9156,151
+b08:c28,8,The Path of Daggers,28,28,28 Crimsonthorn,5510,73
+b08:c29,8,The Path of Daggers,29,29,29 A Cup of Sleep,6687,116
+b08:c30,8,The Path of Daggers,30,30,30 Beginnings,6029,78
+b08:c31,8,The Path of Daggers,31,31,31 After,328,5
+b09:cPrologue,9,Winter's Heart,Prologue,0,Prologue: Snow,27161,367
+b09:c1,9,Winter's Heart,1,1,1 Leaving the Prophet,4063,46
+b09:c2,9,Winter's Heart,2,2,2 Taken,5323,69
+b09:c3,9,Winter's Heart,3,3,3 Customs,4693,43
+b09:c4,9,Winter's Heart,4,4,4 Offers,6829,88
+b09:c5,9,Winter's Heart,5,5,5 Flags,4042,52
+b09:c6,9,Winter's Heart,6,6,6 The Scent of Madness,6850,91
+b09:c7,9,Winter's Heart,7,7,7 The Streets of Caemlyn,6384,59
+b09:c8,9,Winter's Heart,8,8,8 Sea Folk and Kin,7312,76
+b09:c9,9,Winter's Heart,9,9,9 A Cup of Tea,4763,56
+b09:c10,9,Winter's Heart,10,10,10 A Plan Succeeds,10302,145
+b09:c11,9,Winter's Heart,11,11,11 Ideas of Importance,10245,135
+b09:c12,9,Winter's Heart,12,12,12 A Lily in Winter,8777,131
+b09:c13,9,Winter's Heart,13,13,13 Wonderful News,6829,89
+b09:c14,9,Winter's Heart,14,14,14 What a Veil Hides,3630,37
+b09:c15,9,Winter's Heart,15,15,15 In Need of a Bellfounder,4409,49
+b09:c16,9,Winter's Heart,16,16,16 An Unexpected Encounter,5995,52
+b09:c17,9,Winter's Heart,17,17,17 Pink Ribbons,6312,93
+b09:c18,9,Winter's Heart,18,18,18 An Offer,5967,51
+b09:c19,9,Winter's Heart,19,19,19 Three Women,6075,80
+b09:c20,9,Winter's Heart,20,20,20 Questions of Treason,4950,47
+b09:c21,9,Winter's Heart,21,21,21 A Matter of Property,4622,52
+b09:c22,9,Winter's Heart,22,22,22 Out of Thin Air,6697,83
+b09:c23,9,Winter's Heart,23,23,23 To Lose the Sun,6617,66
+b09:c24,9,Winter's Heart,24,24,24 Among the Counsels,4733,54
+b09:c25,9,Winter's Heart,25,25,25 Bonds,5734,74
+b09:c26,9,Winter's Heart,26,26,26 Expectation,6313,75
+b09:c27,9,Winter's Heart,27,27,27 To Surprise Queens and Kings,7222,104
+b09:c28,9,Winter's Heart,28,28,28 News in a Cloth Sack,6734,78
+b09:c29,9,Winter's Heart,29,29,29 Another Plan,6135,90
+b09:c30,9,Winter's Heart,30,30,"30 Cold, Fat Raindrops",3725,42
+b09:c31,9,Winter's Heart,31,31,31 What the Aelfinn Said,5104,71
+b09:c32,9,Winter's Heart,32,32,32 A Portion of Wisdom,5310,68
+b09:c33,9,Winter's Heart,33,33,33 Blue Carp Street,4770,70
+b09:c34,9,Winter's Heart,34,34,34 The Hummingbird’s Secret,3494,49
+b09:c35,9,Winter's Heart,35,35,35 With the Choedan Kal,10670,140
+b10:cPrologue,10,Crossroads of Twilight,Prologue,0,Prologue: Glimmers of the Pattern,32627,348
+b10:c1,10,Crossroads of Twilight,1,1,1 Time to Be Gone,7867,69
+b10:c2,10,Crossroads of Twilight,2,2,2 Two Captains,5998,64
+b10:c3,10,Crossroads of Twilight,3,3,3 A Fan of Colors,9838,127
+b10:c4,10,Crossroads of Twilight,4,4,4 The Tale of a Doll,5726,61
+b10:c5,10,Crossroads of Twilight,5,5,5 The Forging of a Hammer,8851,81
+b10:c6,10,Crossroads of Twilight,6,6,6 The Scent of a Dream,5629,52
+b10:c7,10,Crossroads of Twilight,7,7,7 Blacksmith’s Puzzle,5959,54
+b10:c8,10,Crossroads of Twilight,8,8,8 Whirlpools of Color,7693,76
+b10:c9,10,Crossroads of Twilight,9,9,9 Traps,11639,124
+b10:c10,10,Crossroads of Twilight,10,10,10 A Blazing Beacon,7022,56
+b10:c11,10,Crossroads of Twilight,11,11,11 Talk of Debts,6881,62
+b10:c12,10,Crossroads of Twilight,12,12,12 A Bargain,6646,56
+b10:c13,10,Crossroads of Twilight,13,13,13 High Seats,6785,77
+b10:c14,10,Crossroads of Twilight,14,14,14 What Wise Ones Know,8862,118
+b10:c15,10,Crossroads of Twilight,15,15,15 Gathering Darkness,12931,121
+b10:c16,10,Crossroads of Twilight,16,16,16 The Subject of Negotiations,7361,65
+b10:c17,10,Crossroads of Twilight,17,17,17 Secrets,10613,88
+b10:c18,10,Crossroads of Twilight,18,18,18 A Chat with Siuan,7449,68
+b10:c19,10,Crossroads of Twilight,19,19,19 Surprises,9804,99
+b10:c20,10,Crossroads of Twilight,20,20,20 In the Night,8030,85
+b10:c21,10,Crossroads of Twilight,21,21,21 A Mark,8134,75
+b10:c22,10,Crossroads of Twilight,22,22,22 One Answer,2394,32
+b10:c23,10,Crossroads of Twilight,23,23,23 Ornaments,6553,72
+b10:c24,10,Crossroads of Twilight,24,24,24 A Strengthening Storm,6804,74
+b10:c25,10,Crossroads of Twilight,25,25,25 When to Wear Jewels,4364,41
+b10:c26,10,Crossroads of Twilight,26,26,26 In So Habor,5466,68
+b10:c27,10,Crossroads of Twilight,27,27,27 What Must Be Done,6562,105
+b10:c28,10,Crossroads of Twilight,28,28,28 A Cluster of Rosebuds,10360,131
+b10:c29,10,Crossroads of Twilight,29,29,29 Something Flickers,8632,106
+b10:c30,10,Crossroads of Twilight,30,30,30 What the Oath Rod Can Do,10885,156
+b10:cEpilogue,10,Crossroads of Twilight,Epilogue,31,Epilogue: An Answer,327,12
+b11:cPrologue,11,Knife of Dreams,Prologue,0,Prologue: Embers Falling on Dry Grass,36637,494
+b11:c1,11,Knife of Dreams,1,1,1 When Last Sounds,7785,83
+b11:c2,11,Knife of Dreams,2,2,2 The Dark One’s Touch,9133,115
+b11:c3,11,Knife of Dreams,3,3,3 At the Gardens,3424,48
+b11:c4,11,Knife of Dreams,4,4,4 A Deal,5702,83
+b11:c5,11,Knife of Dreams,5,5,5 Something . . . Strange,6857,83
+b11:c6,11,Knife of Dreams,6,6,6 A Stave and a Razor,6706,68
+b11:c7,11,Knife of Dreams,7,7,7 A Cold Medallion,4959,64
+b11:c8,11,Knife of Dreams,8,8,8 Dragons’ Eggs,10979,104
+b11:c9,11,Knife of Dreams,9,9,9 A Short Path,6054,79
+b11:c10,11,Knife of Dreams,10,10,10 A Village in Shiota,8188,117
+b11:c11,11,Knife of Dreams,11,11,11 A Hell in Maderin,10577,199
+b11:c12,11,Knife of Dreams,12,12,12 A Manufactory,8010,114
+b11:c13,11,Knife of Dreams,13,13,13 Siege,5287,66
+b11:c14,11,Knife of Dreams,14,14,14 Wet Things,5512,67
+b11:c15,11,Knife of Dreams,15,15,15 A Different Skill,6253,90
+b11:c16,11,Knife of Dreams,16,16,16 The New Follower,5914,79
+b11:c17,11,Knife of Dreams,17,17,17 A Bronze Bear,8240,116
+b11:c18,11,Knife of Dreams,18,18,18 News for the Dragon,5953,80
+b11:c19,11,Knife of Dreams,19,19,19 Vows,7126,105
+b11:c20,11,Knife of Dreams,20,20,20 The Golden Crane,9757,162
+b11:c21,11,Knife of Dreams,21,21,21 Within the Stone,10537,132
+b11:c22,11,Knife of Dreams,22,22,22 To Make an Anchor Weep,6118,78
+b11:c23,11,Knife of Dreams,23,23,23 Call to a Sitting,9285,125
+b11:c24,11,Knife of Dreams,24,24,24 Honey in the Tea,15099,207
+b11:c25,11,Knife of Dreams,25,25,25 Attending Elaida,7026,89
+b11:c26,11,Knife of Dreams,26,26,26 As If the World Were Fog,11956,195
+b11:c27,11,Knife of Dreams,27,27,27 A Plain Wooden Box,10146,145
+b11:c28,11,Knife of Dreams,28,28,28 In Malden,6669,105
+b11:c29,11,Knife of Dreams,29,29,29 The Last Knot,9212,135
+b11:c30,11,Knife of Dreams,30,30,30 Outside the Gates,6753,112
+b11:c31,11,Knife of Dreams,31,31,31 The House on Full Moon Street,7286,116
+b11:c32,11,Knife of Dreams,32,32,32 To Keep the Bargain,6491,81
+b11:c33,11,Knife of Dreams,33,33,33 Nine Out of Ten,4960,74
+b11:c34,11,Knife of Dreams,34,34,34 A Cup of Kaf,2815,34
+b11:c35,11,Knife of Dreams,35,35,35 The Importance of Dyelin,6344,80
+b11:c36,11,Knife of Dreams,36,36,36 Under an Oak,4901,79
+b11:c37,11,Knife of Dreams,37,37,37 Prince of the Ravens,5219,71
+b11:cEpilogue,11,Knife of Dreams,Epilogue,38,Epilogue: Remember the Old Saying,4256,67
+b12:cPrologue,12,The Gathering Storm,Prologue,0,Prologue: What the Storm Means,12987,304
+b12:c1,12,The Gathering Storm,1,1,1 Tears from Steel,6469,123
+b12:c2,12,The Gathering Storm,2,2,2 The Nature of Pain,7031,157
+b12:c3,12,The Gathering Storm,3,3,3 The Ways of Honor,4437,98
+b12:c4,12,The Gathering Storm,4,4,4 Nightfall,1923,41
+b12:c5,12,The Gathering Storm,5,5,5 A Tale of Blood,6035,148
+b12:c6,12,The Gathering Storm,6,6,6 When Iron Melts,3145,83
+b12:c7,12,The Gathering Storm,7,7,7 The Plan for Arad Doman,6099,153
+b12:c8,12,The Gathering Storm,8,8,8 Clean Shirts,7611,192
+b12:c9,12,The Gathering Storm,9,9,9 Leaving Malden,5240,131
+b12:c10,12,The Gathering Storm,10,10,10 The Last of the Tabac,4500,117
+b12:c11,12,The Gathering Storm,11,11,11 The Death of Adrin,4492,101
+b12:c12,12,The Gathering Storm,12,12,12 Unexpected Encounters,8387,221
+b12:c13,12,The Gathering Storm,13,13,13 An Offer and a Departure,5895,140
+b12:c14,12,The Gathering Storm,14,14,14 A Box Opens,2574,56
+b12:c15,12,The Gathering Storm,15,15,15 A Place to Begin,5828,161
+b12:c16,12,The Gathering Storm,16,16,16 In the White Tower,10552,264
+b12:c17,12,The Gathering Storm,17,17,17 Questions of Control,3688,86
+b12:c18,12,The Gathering Storm,18,18,18 A Message in Haste,3310,88
+b12:c19,12,The Gathering Storm,19,19,19 Gambits,6900,162
+b12:c20,12,The Gathering Storm,20,20,20 On a Broken Road,5573,159
+b12:c21,12,The Gathering Storm,21,21,21 Embers and Ash,5383,138
+b12:c22,12,The Gathering Storm,22,22,22 The Last That Could Be Done,7435,211
+b12:c23,12,The Gathering Storm,23,23,23 A Warp in the Air,1788,58
+b12:c24,12,The Gathering Storm,24,24,24 A New Commitment,6319,182
+b12:c25,12,The Gathering Storm,25,25,25 In Darkness,2288,60
+b12:c26,12,The Gathering Storm,26,26,26 A Crack in the Stone,5633,160
+b12:c27,12,The Gathering Storm,27,27,27 The Tipsy Gelding,8422,220
+b12:c28,12,The Gathering Storm,28,28,28 Night in Hinderstap,8769,250
+b12:c29,12,The Gathering Storm,29,29,29 Into Bandar Eban,5573,144
+b12:c30,12,The Gathering Storm,30,30,30 Old Advice,4407,124
+b12:c31,12,The Gathering Storm,31,31,31 A Promise to Lews Therin,8240,232
+b12:c32,12,The Gathering Storm,32,32,32 Rivers of Shadow,9474,238
+b12:c33,12,The Gathering Storm,33,33,33 A Conversation with the Dragon,3701,111
+b12:c34,12,The Gathering Storm,34,34,34 Legends,5553,151
+b12:c35,12,The Gathering Storm,35,35,35 A Halo of Blackness,5367,139
+b12:c36,12,The Gathering Storm,36,36,36 The Death of Tuon,4540,148
+b12:c37,12,The Gathering Storm,37,37,37 A Force of Light,7645,222
+b12:c38,12,The Gathering Storm,38,38,38 News in Tel’aran’rhiod,6864,178
+b12:c39,12,The Gathering Storm,39,39,39 A Visit from Verin Sedai,7979,202
+b12:c40,12,The Gathering Storm,40,40,40 The Tower Shakes,6053,189
+b12:c41,12,The Gathering Storm,41,41,41 A Fount of Power,8029,213
+b12:c42,12,The Gathering Storm,42,42,42 Before the Stone of Tear,3856,101
+b12:c43,12,The Gathering Storm,43,43,43 Sealed to the Flame,8009,239
+b12:c44,12,The Gathering Storm,44,44,44 Scents Unknown,6917,197
+b12:c45,12,The Gathering Storm,45,45,45 The Tower Stands,4587,117
+b12:c46,12,The Gathering Storm,46,46,46 To Be Forged Again,5687,134
+b12:c47,12,The Gathering Storm,47,47,47 The One He Lost,5193,162
+b12:c48,12,The Gathering Storm,48,48,48 Reading the Commentary,2667,88
+b12:c49,12,The Gathering Storm,49,49,49 Just Another Man,2368,51
+b12:c50,12,The Gathering Storm,50,50,50 Veins of Gold,1970,62
+b12:cEpilogue,12,The Gathering Storm,Epilogue,51,Epilogue: Bathed in Light,2084,57
+b13:cPrologue,13,Towers of Midnight,Prologue,0,PROLOGUE: Distinctions,15845,495
+b13:c1,13,Towers of Midnight,1,1,1 Apples First,2931,79
+b13:c2,13,Towers of Midnight,2,2,2 Questions of Leadership,5068,135
+b13:c3,13,Towers of Midnight,3,3,3 The Amyrlin’s Anger,5585,170
+b13:c4,13,Towers of Midnight,4,4,4 The Pattern Groans,6337,205
+b13:c5,13,Towers of Midnight,5,5,5 Writings,6972,243
+b13:c6,13,Towers of Midnight,6,6,6 Questioning Intentions,5016,142
+b13:c7,13,Towers of Midnight,7,7,7 Lighter than a Feather,3412,127
+b13:c8,13,Towers of Midnight,8,8,8 The Seven-Striped Lass,6789,171
+b13:c9,13,Towers of Midnight,9,9,9 Blood in the Air,2943,88
+b13:c10,13,Towers of Midnight,10,10,10 After the Taint,3702,110
+b13:c11,13,Towers of Midnight,11,11,11 An Unexpected Letter,4294,147
+b13:c12,13,Towers of Midnight,12,12,12 An Empty Ink Bottle,1776,66
+b13:c13,13,Towers of Midnight,13,13,13 For What Has Been Wrought,3055,111
+b13:c14,13,Towers of Midnight,14,14,14 A Vow,5750,220
+b13:c15,13,Towers of Midnight,15,15,15 Use a Pebble,5905,172
+b13:c16,13,Towers of Midnight,16,16,16 Shanna’har,5889,169
+b13:c17,13,Towers of Midnight,17,17,"17 Partings, and a Meeting",6754,198
+b13:c18,13,Towers of Midnight,18,18,18 The Strength of This Place,7214,223
+b13:c19,13,Towers of Midnight,19,19,19 Talk of Dragons,7215,267
+b13:c20,13,Towers of Midnight,20,20,20 A Choice,8029,257
+b13:c21,13,Towers of Midnight,21,21,21 An Open Gate,7127,233
+b13:c22,13,Towers of Midnight,22,22,22 The End of a Legend,11609,383
+b13:c23,13,Towers of Midnight,23,23,23 Foxheads,7913,241
+b13:c24,13,Towers of Midnight,24,24,24 To Make a Stand,7527,279
+b13:c25,13,Towers of Midnight,25,25,25 Return to Bandar Eban,3676,127
+b13:c26,13,Towers of Midnight,26,26,26 Parley,5689,202
+b13:c27,13,Towers of Midnight,27,27,27 A Call to Stand,4278,131
+b13:c28,13,Towers of Midnight,28,28,28 Oddities,5885,216
+b13:c29,13,Towers of Midnight,29,29,29 A Terrible Feeling,6970,215
+b13:c30,13,Towers of Midnight,30,30,30 Men Dream Here,5387,189
+b13:c31,13,Towers of Midnight,31,31,31 Into the Void,4367,109
+b13:c32,13,Towers of Midnight,32,32,32 A Storm of Light,5824,177
+b13:c33,13,Towers of Midnight,33,33,33 A Good Soup,7262,284
+b13:c34,13,Towers of Midnight,34,34,34 Judgment,6818,233
+b13:c35,13,Towers of Midnight,35,35,35 The Right Thing,4275,165
+b13:c36,13,Towers of Midnight,36,36,36 An Invitation,5094,151
+b13:c37,13,Towers of Midnight,37,37,37 Darkness in the Tower,6619,258
+b13:c38,13,Towers of Midnight,38,38,38 Wounds,5508,195
+b13:c39,13,Towers of Midnight,39,39,39 In the Three-fold Land,2323,72
+b13:c40,13,Towers of Midnight,40,40,40 A Making,6897,230
+b13:c41,13,Towers of Midnight,41,41,41 An Unexpected Ally,4756,137
+b13:c42,13,Towers of Midnight,42,42,42 Stronger than Blood,2622,95
+b13:c43,13,Towers of Midnight,43,43,43 Some Tea,2926,102
+b13:c44,13,Towers of Midnight,44,44,44 A Backhanded Request,4334,159
+b13:c45,13,Towers of Midnight,45,45,45 A Reunion,4938,150
+b13:c46,13,Towers of Midnight,46,46,46 Working Leather,6009,163
+b13:c47,13,Towers of Midnight,47,47,47 A Teaching Chamber,7949,258
+b13:c48,13,Towers of Midnight,48,48,48 Near Avendesora,4567,119
+b13:c49,13,Towers of Midnight,49,49,49 Court of the Sun,4939,166
+b13:c50,13,Towers of Midnight,50,50,50 Choosing Enemies,3370,92
+b13:c51,13,Towers of Midnight,51,51,51 A Testing,4163,150
+b13:c52,13,Towers of Midnight,52,52,52 Boots,5774,171
+b13:c53,13,Towers of Midnight,53,53,53 Gateways,8430,260
+b13:c54,13,Towers of Midnight,54,54,54 The Light of the World,5406,202
+b13:c55,13,Towers of Midnight,55,55,55 The One Left Behind,3332,124
+b13:c56,13,Towers of Midnight,56,56,56 Something Wrong,2656,88
+b13:c57,13,Towers of Midnight,57,57,57 A Rabbit for Supper,2999,112
+b13:cEpilogue,13,Towers of Midnight,Epilogue,58,EPILOGUE: And After,5775,199
+b14:cPrologue,14,A Memory of Light,Prologue,0,Prologue: By Grace and Banner Fallen,24782,784
+b14:c1,14,A Memory of Light,1,1,1. Eastward the Wind Blew,8084,279
+b14:c2,14,A Memory of Light,2,2,2. The Choice of an Ajah,6831,267
+b14:c3,14,A Memory of Light,3,3,3. A Dangerous Place,6206,227
+b14:c4,14,A Memory of Light,4,4,4. Advantages to a Bond,6135,213
+b14:c5,14,A Memory of Light,5,5,5. To Require a Boon,9813,318
+b14:c6,14,A Memory of Light,6,6,6. A Knack,7209,303
+b14:c7,14,A Memory of Light,7,7,7. Into the Thick of It,5900,194
+b14:c8,14,A Memory of Light,8,8,8. That Smoldering City,3357,116
+b14:c9,14,A Memory of Light,9,9,9. To Die Well,7349,238
+b14:c10,14,A Memory of Light,10,10,10. The Use of Dragons,4789,162
+b14:c11,14,A Memory of Light,11,11,11. Just Another Sell-sword,7380,222
+b14:c12,14,A Memory of Light,12,12,12. A Shard of a Moment,3999,123
+b14:c13,14,A Memory of Light,13,13,13. What Must Be Done,4889,152
+b14:c14,14,A Memory of Light,14,14,14. Doses of Forkroot,6528,245
+b14:c15,14,A Memory of Light,15,15,15. Your Neck in a Cord,7956,261
+b14:c16,14,A Memory of Light,16,16,16. A Silence Like Screaming,5849,178
+b14:c17,14,A Memory of Light,17,17,"17. Older, More Weathered",3588,144
+b14:c18,14,A Memory of Light,18,18,18. To Feel Wasted,7328,239
+b14:c19,14,A Memory of Light,19,19,19. The Choice of a Patch,4902,169
+b14:c20,14,A Memory of Light,20,20,20. Into Thakan’dar,6103,172
+b14:c21,14,A Memory of Light,21,21,21. Not a Mistake to Ignore,4182,143
+b14:c22,14,A Memory of Light,22,22,22. The Wyld,5780,186
+b14:c23,14,A Memory of Light,23,23,23. At the Edge of Time,6528,185
+b14:c24,14,A Memory of Light,24,24,24. To Ignore the Omens,7630,214
+b14:c25,14,A Memory of Light,25,25,25. Quick Fragments,6669,206
+b14:c26,14,A Memory of Light,26,26,26. Considerations,5781,208
+b14:c27,14,A Memory of Light,27,27,27. Friendly Fire,4795,172
+b14:c28,14,A Memory of Light,28,28,28. Too Many Men,3912,107
+b14:c29,14,A Memory of Light,29,29,29. The Loss of a Hill,6542,167
+b14:c30,14,A Memory of Light,30,30,30. The Way of the Predator,4476,137
+b14:c31,14,A Memory of Light,31,31,31. A Tempest of Water,5980,195
+b14:c32,14,A Memory of Light,32,32,32. A Yellow Flower-Spider,5598,175
+b14:c33,14,A Memory of Light,33,33,33. The Prince’s Tabac,9322,270
+b14:c34,14,A Memory of Light,34,34,34. Drifting,3870,123
+b14:c35,14,A Memory of Light,35,35,35. A Practiced Grin,4028,117
+b14:c36,14,A Memory of Light,36,36,36. Unchangeable Things,4645,152
+b14:c37,14,A Memory of Light,37,37,37. The Last Battle,78393,2630
+b14:c38,14,A Memory of Light,38,38,38. The Place That Was Not,1193,58
+b14:c39,14,A Memory of Light,39,39,39. Those Who Fight,3052,114
+b14:c40,14,A Memory of Light,40,40,40. Wolfbrother,3799,112
+b14:c41,14,A Memory of Light,41,41,41. A Smile,1951,70
+b14:c42,14,A Memory of Light,42,42,42. Impossibilities,3396,113
+b14:c43,14,A Memory of Light,43,43,43. A Field of Glass,2921,107
+b14:c44,14,A Memory of Light,44,44,44. Two Craftsmen,3950,130
+b14:c45,14,A Memory of Light,45,45,45. Tendrils of Mist,3002,115
+b14:c46,14,A Memory of Light,46,46,46. To Awaken,2810,106
+b14:c47,14,A Memory of Light,47,47,47. Watching the Flow Writhe,1601,76
+b14:c48,14,A Memory of Light,48,48,48. A Brilliant Lance,796,42
+b14:c49,14,A Memory of Light,49,49,49. Light and Shadow,1640,71
+b14:cEpilogue,14,A Memory of Light,Epilogue,50,Epilogue: To See the Answer,6511,283
