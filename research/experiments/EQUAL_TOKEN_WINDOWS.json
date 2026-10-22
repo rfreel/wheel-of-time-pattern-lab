@@ -1,0 +1,16 @@
+{
+  "main_series_books": 14,
+  "total_pov_tokens": 4239677,
+  "complete_windows": 42,
+  "remainder_tokens": 39677,
+  "excluded_non_character_segments": 24,
+  "excluded_prequel_segments": 31,
+  "terminal_100k_anchored_to_series_end": {
+    "tokens": 100000,
+    "distinct_pov": "40",
+    "effective_voices": "25.864610",
+    "top_pov": "Matrim Cauthon",
+    "top_share": "0.125740"
+  },
+  "terminal_window_overlaps_last_complete_window": true
+}
