@@ -1,0 +1,49 @@
+{
+  "phase": "chronology_and_equal_window_predeclared",
+  "status": "SOURCE_DEFINED_COMPUTATION_VERIFIED_CI",
+  "inputs": [
+    {
+      "path": "data/aggregate/chapters.csv",
+      "git_blob_sha": "6d4dbfa99a9be009a27dddf6e026e8a369130c8a",
+      "rows": 704
+    },
+    {
+      "path": "data/aggregate/pov_segments.csv",
+      "git_blob_sha": "fe7d3c3b553ac87473f9bd349c9e0555b7cdad92",
+      "rows": 1379
+    }
+  ],
+  "completed": [
+    "I02 POV return gap three-order analysis",
+    "I10 book-order sensitivity (not in-world chronology)",
+    "I03 equal-token descriptive window control"
+  ],
+  "unmet": [
+    {
+      "id": "I01",
+      "predicate": "independently verified first-appearance identity alignment",
+      "required": "appearance index and alias concordance"
+    },
+    {
+      "id": "I05",
+      "predicate": "independently annotated thread convergence",
+      "required": "thread/location annotations and inter-rater agreement"
+    },
+    {
+      "id": "I09",
+      "predicate": "fan usability validated",
+      "required": "interactive prototype and observed user tests"
+    },
+    {
+      "id": "I10_story_time",
+      "predicate": "verified in-world ordering",
+      "required": "event concordance with partial-order handling"
+    },
+    {
+      "id": "I03_inference",
+      "predicate": "statistically validated phase transition",
+      "required": "change-point baselines and external matched controls"
+    }
+  ],
+  "historical_repair_run_unchanged": true
+}
