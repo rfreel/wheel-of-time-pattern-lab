@@ -1,0 +1,705 @@
+chapter_id,book,label,epub_words,pov_segments,distinct_pov,new_pov_characters,new_pov_names,pov_words,effective_pov_voices,switches
+b00:c1,0,1 The Hook,5676,1,1,1,Lan Mandragoran,5677,1.000000,0
+b00:c2,0,2 A Wish Fulfilled,4951,1,1,1,Moiraine Damodred,4949,1.000000,0
+b00:c3,0,3 Practice,8710,1,1,0,,8708,1.000000,0
+b00:c4,0,4 Leaving the Tower,6073,1,1,0,,6071,1.000000,0
+b00:c5,0,5 The Human Heart,7960,1,1,0,,7958,1.000000,0
+b00:c6,0,6 Surprises,5466,1,1,0,,5466,1.000000,0
+b00:c7,0,7 The Itch,3307,1,1,0,,3302,1.000000,0
+b00:c8,0,8 Shreds of Serenity,4264,1,1,0,,4266,1.000000,0
+b00:c9,0,9 It Begins,4875,1,1,0,,4876,1.000000,0
+b00:c10,0,10 It Finishes,2570,1,1,0,,2570,1.000000,0
+b00:c11,0,11 Just Before Dawn,3299,1,1,0,,3299,1.000000,0
+b00:c12,0,12 Entering Home,5446,3,3,1,Siuan Sanche,5446,2.415007,2
+b00:c13,0,13 Business in the City,3734,1,1,0,,3733,1.000000,0
+b00:c14,0,14 Changes,6547,1,1,0,,6544,1.000000,0
+b00:c15,0,15 Into Canluum,2803,1,1,0,,2804,1.000000,0
+b00:c16,0,16 The Deeps,4302,1,1,0,,4304,1.000000,0
+b00:c17,0,17 An Arrival,5127,1,1,0,,5127,1.000000,0
+b00:c18,0,18 A Narrow Passage,3741,1,1,0,,3743,1.000000,0
+b00:c19,0,19 Pond Water,3728,1,1,0,,3726,1.000000,0
+b00:c20,0,20 Breakfast in Manala,2895,1,1,0,,2895,1.000000,0
+b00:c21,0,21 Some Tricks of the Power,4314,2,2,0,,4313,1.974089,1
+b00:c22,0,22 Keeping Custom,5117,1,1,0,,5116,1.000000,0
+b00:c23,0,23 The Evening Star,3514,1,1,0,,3514,1.000000,0
+b00:c24,0,24 Making Use of Invisibility,2902,1,1,0,,2902,1.000000,0
+b00:c25,0,25 An Answer,4505,1,1,0,,4507,1.000000,0
+b00:c26,0,26 When to Surrender,4001,2,2,0,,4001,1.808777,1
+b00:cEpilogue,0,Epilogue,2035,1,1,0,,2035,1.000000,0
+b01:cPrologue,1,Prologue Dragonmount,2616,2,2,2,Lews Therin Telamon;Quote,2616,1.375273,1
+b01:c1,1,1 An Empty Road,7162,1,1,1,Rand al'Thor,7164,1.000000,0
+b01:c2,1,2 Strangers,4962,1,1,0,,4956,1.000000,0
+b01:c3,1,3 The Peddler,5255,1,1,0,,5260,1.000000,0
+b01:c4,1,4 The Gleeman,5962,1,1,0,,5965,1.000000,0
+b01:c5,1,5 Winternight,7122,1,1,0,,7123,1.000000,0
+b01:c6,1,6 The Westwood,3411,1,1,0,,3411,1.000000,0
+b01:c7,1,7 Out of the Woods,5682,1,1,0,,5682,1.000000,0
+b01:c8,1,8 A Place of Safety,5933,1,1,0,,5934,1.000000,0
+b01:c9,1,9 Tellings of the Wheel,6929,1,1,0,,6933,1.000000,0
+b01:c10,1,10 Leavetaking,4048,1,1,0,,4048,1.000000,0
+b01:c11,1,11 The Road to Taren Ferry,3568,1,1,0,,3567,1.000000,0
+b01:c12,1,12 Across the Taren,5262,1,1,0,,5255,1.000000,0
+b01:c13,1,13 Choices,7307,1,1,0,,7308,1.000000,0
+b01:c14,1,14 The Stag and Lion,5890,1,1,0,,5890,1.000000,0
+b01:c15,1,15 Strangers and Friends,9062,1,1,0,,9061,1.000000,0
+b01:c16,1,16 The Wisdom,4247,1,1,0,,4246,1.000000,0
+b01:c17,1,17 Watchers and Hunters,6563,1,1,0,,6565,1.000000,0
+b01:c18,1,18 The Caemlyn Road,5531,1,1,0,,5529,1.000000,0
+b01:c19,1,19 Shadow’s Waiting,7093,1,1,0,,7094,1.000000,0
+b01:c20,1,20 Dust on the Wind,7628,3,2,1,Perrin Aybara,7623,1.632518,2
+b01:c21,1,21 Listen to the Wind,5127,1,1,1,Nynaeve al'Meara,5127,1.000000,0
+b01:c22,1,22 A Path Chosen,2184,1,1,0,,2184,1.000000,0
+b01:c23,1,23 Wolfbrother,5822,1,1,0,,5822,1.000000,0
+b01:c24,1,24 Flight Down the Arinelle,5335,1,1,0,,5334,1.000000,0
+b01:c25,1,25 The Traveling People,6142,1,1,0,,6144,1.000000,0
+b01:c26,1,26 Whitebridge,8979,1,1,0,,8979,1.000000,0
+b01:c27,1,27 Shelter From the Storm,4919,1,1,0,,4918,1.000000,0
+b01:c28,1,28 Footprints in Air,3163,1,1,0,,3163,1.000000,0
+b01:c29,1,29 Eyes Without Pity,6184,1,1,0,,6184,1.000000,0
+b01:c30,1,30 Children of Shadow,6406,1,1,0,,6407,1.000000,0
+b01:c31,1,31 Play for Your Supper,4544,1,1,0,,4545,1.000000,0
+b01:c32,1,32 Four Kings in Shadow,7977,1,1,0,,7977,1.000000,0
+b01:c33,1,33 The Dark Waits,10414,1,1,0,,10410,1.000000,0
+b01:c34,1,34 The Last Village,5931,1,1,0,,5931,1.000000,0
+b01:c35,1,35 Caemlyn,5353,1,1,0,,5354,1.000000,0
+b01:c36,1,36 Web of the Pattern,5725,1,1,0,,5726,1.000000,0
+b01:c37,1,37 The Long Chase,3238,1,1,0,,3239,1.000000,0
+b01:c38,1,38 Rescue,5934,1,1,0,,5934,1.000000,0
+b01:c39,1,39 Weaving of the Web,4472,1,1,0,,4472,1.000000,0
+b01:c40,1,40 The Web Tightens,9548,1,1,0,,9523,1.000000,0
+b01:c41,1,41 Old Friends and New Threats,5812,1,1,0,,5812,1.000000,0
+b01:c42,1,42 Remembrance of Dreams,4720,1,1,0,,4720,1.000000,0
+b01:c43,1,43 Decisions and Apparitions,4901,1,1,0,,4900,1.000000,0
+b01:c44,1,44 The Dark Along the Ways,5314,1,1,0,,5305,1.000000,0
+b01:c45,1,45 What Follows in Shadow,5564,1,1,0,,5563,1.000000,0
+b01:c46,1,46 Fal Dara,6749,1,1,0,,6748,1.000000,0
+b01:c47,1,47 More Tales of the Wheel,5169,1,1,0,,5169,1.000000,0
+b01:c48,1,48 The Blight,4587,1,1,0,,4586,1.000000,0
+b01:c49,1,49 The Dark One Stirs,3481,1,1,0,,3478,1.000000,0
+b01:c50,1,50 Meetings at the Eye,4544,1,1,0,,4544,1.000000,0
+b01:c51,1,51 Against the Shadow,3512,1,1,0,,3513,1.000000,0
+b01:c52,1,52 There Is Neither Beginning Nor End,3877,1,1,0,,3878,1.000000,0
+b01:c53,1,53 The Wheel Turns,3340,2,2,0,,3328,1.172496,1
+b02:cPrologue,2,Prologue: In the Shadow,5313,2,2,1,Jaichim Carridin,5520,1.173412,1
+b02:c1,2,1 The Flame of Tar Valon,4201,1,1,0,,4202,1.000000,0
+b02:c2,2,2 The Welcome,4551,1,1,0,,4551,1.000000,0
+b02:c3,2,3 Friends and Enemies,8431,1,1,0,,8430,1.000000,0
+b02:c4,2,4 Summoned,6434,1,1,0,,6437,1.000000,0
+b02:c5,2,5 The Shadow in Shienar,7707,4,4,3,Geofram Bornhald;Liandrin;Padan Fain,7708,3.013082,3
+b02:c6,2,6 Dark Prophecy,7265,1,1,0,,7265,1.000000,0
+b02:c7,2,7 Blood Calls Blood,6921,3,3,0,,6923,2.741829,2
+b02:c8,2,8 The Dragon Reborn,9569,4,4,1,Egwene al'Vere,9569,3.045587,3
+b02:c9,2,9 Leavetakings,8153,2,2,1,Bayle Domon,8154,1.999962,1
+b02:c10,2,10 The Hunt Begins,8586,1,1,0,,8585,1.000000,0
+b02:c11,2,11 Glimmers of the Pattern,4533,2,2,0,,4534,1.751994,1
+b02:c12,2,12 Woven in the Pattern,5897,1,1,0,,5898,1.000000,0
+b02:c13,2,13 From Stone to Stone,3282,1,1,0,,3284,1.000000,0
+b02:c14,2,14 Wolfbrother,3467,1,1,0,,3467,1.000000,0
+b02:c15,2,15 Kinslayer,4728,1,1,0,,4728,1.000000,0
+b02:c16,2,16 In the Mirror of Darkness,6406,1,1,0,,6407,1.000000,0
+b02:c17,2,17 Choices,3109,1,1,0,,3111,1.000000,0
+b02:c18,2,18 To the White Tower,4665,1,1,0,,4665,1.000000,0
+b02:c19,2,19 Beneath the Dagger,5496,2,2,0,,5496,1.208542,1
+b02:c20,2,20 Saidin,2676,1,1,0,,2677,1.000000,0
+b02:c21,2,21 The Nine Rings,4394,1,1,0,,4394,1.000000,0
+b02:c22,2,22 Watchers,5354,1,1,0,,5353,1.000000,0
+b02:c23,2,23 The Testing,7749,1,1,0,,7750,1.000000,0
+b02:c24,2,24 New Friends and Old Enemies,4413,2,2,1,Min Farshaw,4413,1.195945,1
+b02:c25,2,25 Cairhien,4583,1,1,0,,4584,1.000000,0
+b02:c26,2,26 Discord,4926,2,2,1,Thomdril Merrilin,4920,1.465609,1
+b02:c27,2,27 The Shadow in the Night.,5071,1,1,0,,5070,1.000000,0
+b02:c28,2,28 A New Thread in the Pattern.,2690,1,1,0,,2690,1.000000,0
+b02:c29,2,29 Seanchan,7182,2,2,0,,7182,1.694272,1
+b02:c30,2,30 Daes Dae’mar,4507,1,1,0,,4507,1.000000,0
+b02:c31,2,31 On the Scent,4816,2,2,0,,4815,1.951274,1
+b02:c32,2,32 Dangerous Words,4079,1,1,0,,4079,1.000000,0
+b02:c33,2,33 A Message from the Dark,5830,1,1,0,,5831,1.000000,0
+b02:c34,2,34 The Wheel Weaves,6037,2,2,0,,6037,1.912226,1
+b02:c35,2,35 Stedding Tsofu,4872,1,1,0,,4872,1.000000,0
+b02:c36,2,36 Among the Elders,3493,1,1,0,,3494,1.000000,0
+b02:c37,2,37 What Might Be,4942,1,1,0,,4942,1.000000,0
+b02:c38,2,38 Practice,4833,1,1,0,,4832,1.000000,0
+b02:c39,2,39 Flight from the White Tower,5284,1,1,0,,5278,1.000000,0
+b02:c40,2,40 Damane,6676,2,2,0,,6676,1.775135,1
+b02:c41,2,41 Disagreements,3428,1,1,0,,3428,1.000000,0
+b02:c42,2,42 Falme,4658,2,2,0,,4658,1.922602,1
+b02:c43,2,43 A Plan,3355,1,1,0,,3355,1.000000,0
+b02:c44,2,44 Five Will Ride Forth,3737,3,3,0,,3737,2.953967,2
+b02:c45,2,45 Blademaster,8043,3,3,0,,8040,2.061809,2
+b02:c46,2,46 To Come Out of the Shadow,5091,4,4,0,,5090,2.380373,3
+b02:c47,2,47 The Grave Is No Bar to My Call,4098,3,2,0,,4097,1.230175,2
+b02:c48,2,48 First Claiming,1952,2,2,1,Jaret Byar,1952,1.263381,1
+b02:c49,2,49 What Was Meant to Be,2382,1,1,0,,2381,1.000000,0
+b02:c50,2,50 After,296,2,2,1,Narrator,285,1.951332,1
+b03:cPrologue,3,Prologue: Fortress of the Light,6751,3,3,1,Pedron Niall,6850,1.719122,2
+b03:c1,3,1 Waiting,4111,1,1,0,,4112,1.000000,0
+b03:c2,3,2 Saidin,4741,1,1,0,,4741,1.000000,0
+b03:c3,3,3 News from the Plain,3529,1,1,0,,3529,1.000000,0
+b03:c4,3,4 Shadows Sleeping,2978,1,1,0,,2978,1.000000,0
+b03:c5,3,5 Nightmares Walking,4872,1,1,0,,4870,1.000000,0
+b03:c6,3,6 The Hunt Begins,5398,1,1,0,,5399,1.000000,0
+b03:c7,3,7 The Way Out of the Mountains,2123,1,1,0,,2124,1.000000,0
+b03:c8,3,8 Jarra,5512,1,1,0,,5512,1.000000,0
+b03:c9,3,9 Wolf Dreams,2778,2,2,0,,2778,1.622061,1
+b03:c10,3,10 Secrets,5442,1,1,0,,5441,1.000000,0
+b03:c11,3,11 Tar Valon,3964,1,1,0,,3965,1.000000,0
+b03:c12,3,12 The Amyrlin Seat,2088,1,1,0,,2088,1.000000,0
+b03:c13,3,13 Punishments,4486,1,1,0,,4489,1.000000,0
+b03:c14,3,14 The Bite of the Thorns,2755,1,1,0,,2759,1.000000,0
+b03:c15,3,15 The Gray Man,3175,1,1,0,,3175,1.000000,0
+b03:c16,3,16 Hunters Three,3233,1,1,0,,3234,1.000000,0
+b03:c17,3,17 The Red Sister,2294,1,1,0,,2294,1.000000,0
+b03:c18,3,18 Healing,2341,1,1,0,,2341,1.000000,0
+b03:c19,3,19 Awakening,2760,1,1,1,Matrim Cauthon,2761,1.000000,0
+b03:c20,3,20 Visitations,4743,1,1,0,,4737,1.000000,0
+b03:c21,3,21 A World of Dreams,2778,2,2,1,Verin Mathwin,2778,1.320061,1
+b03:c22,3,22 The Price of the Ring,8342,1,1,0,,8342,1.000000,0
+b03:c23,3,23 Sealed,3096,1,1,0,,3096,1.000000,0
+b03:c24,3,24 Scouting and Discoveries,5320,1,1,0,,5320,1.000000,0
+b03:c25,3,25 Questions,4017,1,1,0,,4015,1.000000,0
+b03:c26,3,26 Behind a Lock,2709,1,1,0,,2708,1.000000,0
+b03:c27,3,27 Tel’aran’rhiod,5580,1,1,0,,5580,1.000000,0
+b03:c28,3,28 A Way Out,2689,1,1,0,,2692,1.000000,0
+b03:c29,3,29 A Trap to Spring,3400,1,1,0,,3401,1.000000,0
+b03:c30,3,30 The First Toss,4191,1,1,0,,4191,1.000000,0
+b03:c31,3,31 The Woman of Tanchico,2683,1,1,0,,2683,1.000000,0
+b03:c32,3,32 The First Ship,6063,2,2,0,,6062,1.380024,1
+b03:c33,3,33 Within the Weave,4452,1,1,0,,4454,1.000000,0
+b03:c34,3,34 A Different Dance,4157,1,1,0,,4158,1.000000,0
+b03:c35,3,35 The Falcon,3225,1,1,0,,3225,1.000000,0
+b03:c36,3,36 Daughter of the Night,4860,2,2,0,,4860,1.557686,1
+b03:c37,3,37 Fires in Cairhien,4026,1,1,0,,4024,1.000000,0
+b03:c38,3,38 Maidens of the Spear,3672,1,1,0,,3672,1.000000,0
+b03:c39,3,39 Threads in the Pattern,7595,1,1,0,,7593,1.000000,0
+b03:c40,3,40 A Hero in the Night,5948,1,1,0,,5947,1.000000,0
+b03:c41,3,41 A Hunter’s Oath,3028,1,1,0,,3027,1.000000,0
+b03:c42,3,42 Easing the Badger,5637,1,1,0,,5636,1.000000,0
+b03:c43,3,43 Shadowbrothers,2878,1,1,0,,2878,1.000000,0
+b03:c44,3,44 Hunted,4937,2,2,0,,4937,1.927315,1
+b03:c45,3,45 Caemlyn,3989,1,1,0,,3990,1.000000,0
+b03:c46,3,46 A Message Out of the Shadow,4161,1,1,0,,4159,1.000000,0
+b03:c47,3,47 To Race the Shadow,2954,1,1,0,,2955,1.000000,0
+b03:c48,3,48 Following the Craft,6193,1,1,0,,6193,1.000000,0
+b03:c49,3,49 A Storm in Tear,7766,2,2,0,,7768,1.844146,1
+b03:c50,3,50 The Hammer,6178,1,1,0,,6179,1.000000,0
+b03:c51,3,51 Bait for the Net,3499,1,1,0,,3499,1.000000,0
+b03:c52,3,52 In Search of a Remedy,2662,1,1,0,,2662,1.000000,0
+b03:c53,3,53 A Flow of the Spirit,2981,1,1,0,,2981,1.000000,0
+b03:c54,3,54 Into the Stone,7334,5,4,0,,7333,2.416233,4
+b03:c55,3,55 What Is Written in Prophecy,7410,5,4,0,,7410,3.293664,4
+b03:c56,3,56 People of the Dragon,2999,3,3,0,,2989,1.339221,2
+b04:c1,4,CHAPTER 1 - Seeds of Shadow,15764,5,5,3,Dain Bornhald;Elaida do Avriny a'Roihan;Suroth Sabelle Meldarath,15872,2.992008,4
+b04:c2,4,CHAPTER 2 - Whirlpools in the Pattern,15079,3,3,0,,15081,2.984239,2
+b04:c3,4,CHAPTER 3 - Reflection,7297,1,1,0,,7299,1.000000,0
+b04:c4,4,CHAPTER 4 - Strings,2678,1,1,0,,2677,1.000000,0
+b04:c5,4,CHAPTER 5 - Questioners,3926,1,1,0,,3927,1.000000,0
+b04:c6,4,CHAPTER 6 - Doorways,7492,1,1,1,Elayne Trakand,7490,1.000000,0
+b04:c7,4,CHAPTER 7 - Playing with Fire,6416,1,1,0,,6418,1.000000,0
+b04:c8,4,CHAPTER 8 - Hard Heads,5921,3,3,0,,5921,2.876764,2
+b04:c9,4,CHAPTER 9 - Decisions,6240,5,5,0,,6240,3.229253,4
+b04:c10,4,CHAPTER 10 - The Stone Stands,5464,1,1,0,,5458,1.000000,0
+b04:c11,4,CHAPTER 11 - What Lies Hidden,7993,1,1,0,,8021,1.000000,0
+b04:c12,4,CHAPTER 12 - Tanchico or the Tower,3463,1,1,0,,3463,1.000000,0
+b04:c13,4,CHAPTER 13 - Rumors,3392,1,1,0,,3392,1.000000,0
+b04:c14,4,CHAPTER 14 - Customs of Mayene,3348,2,2,1,Faile Bashere,3348,1.966678,1
+b04:c15,4,CHAPTER 15 - Into the Doorway,4673,1,1,0,,4673,1.000000,0
+b04:c16,4,CHAPTER 16 - Leavetakings,5351,2,2,0,,5350,1.934017,1
+b04:c17,4,CHAPTER 17 - Deceptions,8696,3,3,1,Sahra Covenry,8697,2.359749,2
+b04:c18,4,CHAPTER 18 - Into the Ways,4349,1,1,0,,4350,1.000000,0
+b04:c19,4,CHAPTER 19 - The Wavedancer,5719,1,1,0,,5719,1.000000,0
+b04:c20,4,CHAPTER 20 - Winds Rising,6674,1,1,0,,6691,1.000000,0
+b04:c21,4,CHAPTER 21 - Into the Heart,5626,1,1,0,,5648,1.000000,0
+b04:c22,4,CHAPTER 22 - Out of the Stone,6276,1,1,0,,6286,1.000000,0
+b04:c23,4,CHAPTER 23 - Beyond the Stone,9364,1,1,0,,9380,1.000000,0
+b04:c24,4,CHAPTER 24 - Rhuidean,5495,1,1,0,,5508,1.000000,0
+b04:c25,4,CHAPTER 25 - The Road to the Spear,6755,1,1,0,,6764,1.000000,0
+b04:c26,4,CHAPTER 26 - The Dedicated,8357,1,1,0,,8363,1.000000,0
+b04:c27,4,CHAPTER 27 - Within the Ways,4779,1,1,0,,4787,1.000000,0
+b04:c28,4,CHAPTER 28 - To the Tower of Ghenjei,4279,1,1,0,,4285,1.000000,0
+b04:c29,4,CHAPTER 29 - Homecoming,5806,1,1,0,,5812,1.000000,0
+b04:c30,4,CHAPTER 30 - Beyond the Oak,4589,1,1,0,,4593,1.000000,0
+b04:c31,4,CHAPTER 31 - Assurances,7831,3,3,0,,7830,2.302944,2
+b04:c32,4,CHAPTER 32 - Questions to Be Asked,5833,1,1,0,,5832,1.000000,0
+b04:c33,4,CHAPTER 33 - A New Weave in the Pattern,8928,1,1,0,,8929,1.000000,0
+b04:c34,4,CHAPTER 34 - He Who Comes with the Dawn,7968,1,1,0,,7967,1.000000,0
+b04:c35,4,CHAPTER 35 - Sharp Lessons,5259,1,1,0,,5260,1.000000,0
+b04:c36,4,CHAPTER 36 - Misdirections,5113,2,2,0,,5112,1.907811,1
+b04:c37,4,CHAPTER 37 - Imre Stand,8144,3,2,0,,8146,1.999688,2
+b04:c38,4,CHAPTER 38 - Hidden Faces,9461,4,3,1,Egeanin Tamarath,9461,2.853430,3
+b04:c39,4,CHAPTER 39 - A Cup of Wine,7435,3,2,0,,7435,1.495985,2
+b04:c40,4,CHAPTER 40 - Hunter of Trollocs,5323,1,1,0,,5323,1.000000,0
+b04:c41,4,CHAPTER 41 - Among the Tuatha’an,3649,1,1,0,,3649,1.000000,0
+b04:c42,4,CHAPTER 42 - A Missing Leaf,6112,1,1,0,,6113,1.000000,0
+b04:c43,4,CHAPTER 43 - Care for the Living,3698,1,1,0,,3698,1.000000,0
+b04:c44,4,CHAPTER 44 - The Breaking Storm,5391,1,1,0,,5391,1.000000,0
+b04:c45,4,CHAPTER 45 - The Tinker’s Sword,7577,1,1,0,,7577,1.000000,0
+b04:c46,4,CHAPTER 46 - Veils,8179,4,3,1,Almurat Mor,8144,1.677869,3
+b04:c47,4,CHAPTER 47 - The Truth of a Viewing,10514,4,2,0,,10513,1.788377,3
+b04:c48,4,CHAPTER 48 - An Offer Refused,5520,1,1,0,,5521,1.000000,0
+b04:c49,4,CHAPTER 49 - Cold Rocks Hold,6021,1,1,0,,6025,1.000000,0
+b04:c50,4,CHAPTER 50 - Traps,6850,2,2,0,,6853,1.757781,1
+b04:c51,4,CHAPTER 51 - Revelations in Tanchico,6646,1,1,0,,6646,1.000000,0
+b04:c52,4,CHAPTER 52 - Need,8599,2,2,0,,8600,1.722663,1
+b04:c53,4,CHAPTER 53 - The Price of a Departure,7948,1,1,0,,7948,1.000000,0
+b04:c54,4,CHAPTER 54 - Into the Palace,8964,2,2,0,,8964,1.965226,1
+b04:c55,4,CHAPTER 55 - Into the Deep,3229,1,1,0,,3229,1.000000,0
+b04:c56,4,CHAPTER 56 - Goldeneyes,8761,2,2,0,,8762,1.250159,1
+b04:c57,4,CHAPTER 57 - A Breaking in the Three-fold Land,8237,1,1,0,,8239,1.000000,0
+b04:c58,4,CHAPTER 58 - The Traps of Rhuidean,6665,2,2,0,,6733,1.058082,1
+b05:cPrologue,5,PROLOGUE: The First Sparks Fall,9104,4,4,1,Rahvin,9189,2.652548,3
+b05:c1,5,1 Fanning the Sparks,13936,4,4,3,Alteima;Gareth Bryne;Morgase Trakand,13936,2.746129,3
+b05:c2,5,2 Rhuidean,9100,1,1,0,,9104,1.000000,0
+b05:c3,5,3 Pale Shadows,7107,2,2,0,,7109,1.996494,1
+b05:c4,5,4 Twilight,5218,1,1,0,,5220,1.000000,0
+b05:c5,5,5 Among the Wise Ones,8226,1,1,0,,8230,1.000000,0
+b05:c6,5,6 Gateways,8390,1,1,0,,8388,1.000000,0
+b05:c7,5,7 A Departure,4465,2,2,0,,4466,1.902510,1
+b05:c8,5,8 Over the Border,3388,1,1,0,,3390,1.000000,0
+b05:c9,5,9 A Signal,6131,1,1,0,,6131,1.000000,0
+b05:c10,5,10 Figs and Mice,5449,2,2,0,,5449,1.537510,1
+b05:c11,5,11 The Nine Horse Hitch,4559,2,2,0,,4558,1.586926,1
+b05:c12,5,12 An Old Pipe,2620,1,1,0,,2619,1.000000,0
+b05:c13,5,13 A Small Room in Sienda,5284,1,1,0,,5285,1.000000,0
+b05:c14,5,14 Meetings,5009,1,1,0,,5010,1.000000,0
+b05:c15,5,15 What Can Be Learned in Dreams,7872,2,2,0,,7871,1.959990,1
+b05:c16,5,16 An Unexpected Offer,5980,1,1,0,,5979,1.000000,0
+b05:c17,5,17 Heading West,4583,1,1,0,,4582,1.000000,0
+b05:c18,5,18 A Hound of Darkness,3709,1,1,0,,3710,1.000000,0
+b05:c19,5,19 Memories,9131,2,2,0,,9131,1.611859,1
+b05:c20,5,20 Jangai Pass,3756,1,1,0,,3755,1.000000,0
+b05:c21,5,21 The Gift of a Blade,4428,1,1,0,,4428,1.000000,0
+b05:c22,5,22 Birdcalls by Night,5095,2,2,0,,5095,1.997873,1
+b05:c23,5,"23 “The Fifth, I Give You”",3559,1,1,0,,3556,1.000000,0
+b05:c24,5,24 A Message Sent,4005,1,1,0,,4004,1.000000,0
+b05:c25,5,25 Dreams of Galad,3822,2,2,1,Moghedien,3822,1.289979,1
+b05:c26,5,26 Sallie Daera,5155,1,1,0,,5155,1.000000,0
+b05:c27,5,27 The Practice of Diffidence,6503,1,1,0,,6503,1.000000,0
+b05:c28,5,28 Trapped,5360,2,2,0,,5359,1.845585,1
+b05:c29,5,29 Memories of Saldaea,2265,1,1,1,Hadnan Kadere,2262,1.000000,0
+b05:c30,5,30 A Wager,3818,1,1,0,,3816,1.000000,0
+b05:c31,5,31 The Far Snows,4564,1,1,0,,4564,1.000000,0
+b05:c32,5,32 A Short Spear,5135,1,1,0,,5135,1.000000,0
+b05:c33,5,33 A Question of Crimson,4783,1,1,0,,4784,1.000000,0
+b05:c34,5,34 A Silver Arrow,6116,2,2,0,,6117,1.710035,1
+b05:c35,5,35 Ripped Away,3177,1,1,0,,3178,1.000000,0
+b05:c36,5,36 A New Name,6199,1,1,0,,6198,1.000000,0
+b05:c37,5,37 Performances in Samara,4245,1,1,0,,4246,1.000000,0
+b05:c38,5,38 An Old Acquaintance,2792,1,1,0,,2791,1.000000,0
+b05:c39,5,39 Encounters in Samara,7284,1,1,0,,7284,1.000000,0
+b05:c40,5,40 The Wheel Weaves,7736,1,1,0,,7737,1.000000,0
+b05:c41,5,41 The Craft of Kin Tovere,4175,1,1,0,,4173,1.000000,0
+b05:c42,5,42 Before the Arrow,6094,2,2,0,,6095,1.689134,1
+b05:c43,5,"43 This Place, This Day",7097,2,2,0,,7098,1.987998,1
+b05:c44,5,44 The Lesser Sadness,8585,3,2,0,,8583,1.879105,2
+b05:c45,5,45 After the Storm,6221,2,2,0,,6223,1.987896,1
+b05:c46,5,"46 Other Battles, Other Weapons",7882,1,1,0,,7882,1.000000,0
+b05:c47,5,47 The Price of a Ship,8641,2,2,0,,8640,1.630897,1
+b05:c48,5,48 Leavetakings,4989,1,1,0,,4989,1.000000,0
+b05:c49,5,49 To Boannda,11647,1,1,0,,11647,1.000000,0
+b05:c50,5,"50 To Teach, and Learn",9493,2,2,0,,9494,1.544288,1
+b05:c51,5,51 News Comes to Cairhien,9580,3,3,0,,9583,1.980025,2
+b05:c52,5,52 Choices,7216,4,3,0,,7214,1.989711,3
+b05:c53,5,53 Fading Words,4264,1,1,0,,4263,1.000000,0
+b05:c54,5,54 To Caemlyn,9182,2,2,0,,9183,1.970506,1
+b05:c55,5,55 The Threads Burn,8602,7,2,0,,8600,1.997454,6
+b05:c56,5,56 Glowing Embers,3065,4,4,1,Asmodean,3141,2.672348,3
+b06:cPrologue,6,Prologue: The First Message,30055,12,12,6,Demandred;Gawyn Trakand;Katerine Alruddin;Mesaana;Osan'gar;Sevanna,30098,9.041767,11
+b06:c1,6,1 Lion on the Hill,6491,1,1,0,,6490,1.000000,0
+b06:c2,6,2 A New Arrival,5590,1,1,0,,5591,1.000000,0
+b06:c3,6,3 A Woman’s Eyes,6592,1,1,0,,6592,1.000000,0
+b06:c4,6,4 A Sense of Humor,7705,1,1,0,,7704,1.000000,0
+b06:c5,6,5 A Different Dance,12582,1,1,0,,12582,1.000000,0
+b06:c6,6,6 Threads Woven of Shadow,9180,3,3,3,Graendal;Sammael;Semirhage,9179,2.541134,2
+b06:c7,6,7 A Matter of Thought,11868,2,2,0,,11869,1.066594,1
+b06:c8,6,8 The Storm Gathers,9990,1,1,0,,9990,1.000000,0
+b06:c9,6,9 Plans,7737,2,2,0,,7737,1.881258,1
+b06:c10,6,10 A Saying in the Borderlands,8250,1,1,0,,8249,1.000000,0
+b06:c11,6,11 Lessons and Teachers,5728,2,2,0,,5728,1.986496,1
+b06:c12,6,12 Questions and Answers,8602,2,2,0,,8600,1.009060,1
+b06:c13,6,13 Under the Dust,7829,1,1,0,,7829,1.000000,0
+b06:c14,6,14 Dreams and Nightmares,6620,2,2,0,,6610,1.989050,1
+b06:c15,6,15 A Pile of Sand,8486,3,3,1,Sheriam Bayanar,8487,2.139779,2
+b06:c16,6,16 Tellings of the Wheel,5811,1,1,0,,5811,1.000000,0
+b06:c17,6,17 The Wheel of a Life,5572,1,1,0,,5573,1.000000,0
+b06:c18,6,18 A Taste of Solitude,7882,4,3,1,Sulin,7882,2.151142,3
+b06:c19,6,19 Matters of Toh,5019,2,2,1,Aviendha,5019,1.472506,1
+b06:c20,6,20 From the Stedding,5043,1,1,0,,5045,1.000000,0
+b06:c21,6,21 To Shadar Logoth,5347,1,1,0,,5347,1.000000,0
+b06:c22,6,22 Heading South,6193,1,1,0,,6192,1.000000,0
+b06:c23,6,23 To Understand a Message,1955,2,2,0,,1955,1.300824,1
+b06:c24,6,24 An Embassy,4754,1,1,0,,4754,1.000000,0
+b06:c25,6,25 Like Lightning and Rain,7292,4,4,2,Nesune Bihara;Sarene Nemdahl,7369,1.721198,3
+b06:c26,6,26 Connecting Lines,5070,1,1,0,,5069,1.000000,0
+b06:c27,6,27 Gifts,9388,2,2,0,,9387,1.338229,1
+b06:c28,6,28 Letters,7531,2,2,0,,7532,1.558284,1
+b06:c29,6,29 Fire and Spirit,4999,1,1,0,,4999,1.000000,0
+b06:c30,6,30 To Heal Again,8950,4,4,1,Delana Mosalaine,8951,3.675019,3
+b06:c31,6,31 Red Wax,5582,4,4,2,Eamon Valda;Rhadam Asunawa,5581,3.249768,3
+b06:c32,6,32 Summoned in Haste,5471,2,2,0,,5471,1.176771,1
+b06:c33,6,33 Courage to Strengthen,6053,3,2,0,,6056,1.978826,2
+b06:c34,6,34 Journey to Salidar,3062,1,1,0,,3062,1.000000,0
+b06:c35,6,35 In the Hall of the Sitters,3789,1,1,0,,3774,1.000000,0
+b06:c36,6,36 The Amyrlin Is Raised,5520,1,1,0,,5520,1.000000,0
+b06:c37,6,37 When Battle Begins,5287,8,7,2,Lelaine Akashi;Romanda Cassin,5287,3.162074,7
+b06:c38,6,38 A Sudden Chill,4800,1,1,0,,4800,1.000000,0
+b06:c39,6,39 Possibilities,5713,1,1,0,,5713,1.000000,0
+b06:c40,6,40 Unexpected Laughter,4808,2,2,0,,4809,1.991443,1
+b06:c41,6,41 A Threat,7567,2,2,0,,7569,1.699837,1
+b06:c42,6,42 The Black Tower,4879,1,1,0,,4879,1.000000,0
+b06:c43,6,43 The Crown of Roses,3105,4,4,4,Dyelin Taravin;Ellorien Traemane;Luan Norwelyn;Merana Ambrey,3104,1.517046,3
+b06:c44,6,44 The Color of Trust,5936,2,2,0,,5933,1.206998,1
+b06:c45,6,45 A Bitter Thought,5430,2,2,1,Vilnar Barada,5429,1.557093,1
+b06:c46,6,46 Beyond the Gate,8575,5,3,1,Demira Eriff,8579,2.720689,4
+b06:c47,6,47 The Wandering Woman,5999,1,1,0,,5999,1.000000,0
+b06:c48,6,48 Leaning on the Knife,5087,1,1,0,,5087,1.000000,0
+b06:c49,6,49 The Mirror of Mists,9806,4,3,0,,9807,2.547907,3
+b06:c50,6,50 Thorns,7132,3,2,0,,7132,1.914398,2
+b06:c51,6,51 The Taking,2741,5,4,2,Bain;Sorilea,2741,2.392476,4
+b06:c52,6,52 Weaves of the Power,7592,4,4,1,Myrelle Berengari,7591,3.529669,3
+b06:c53,6,53 The Feast of Lights,7616,5,4,1,Galina Casban,7617,2.937734,4
+b06:c54,6,54 The Sending,8865,1,1,0,,8863,1.000000,0
+b06:c55,6,55 Dumai’s Wells,9102,4,3,0,,9102,2.286815,3
+b06:cEpilogue,6,Epilogue: The Answer,1419,7,7,2,Falion Bhoda;Seanchan Rider,1410,5.051654,6
+b07:cPrologue,7,Prologue: Lightnings,19468,7,7,1,Alviarin Freidhen,19567,5.172774,6
+b07:c1,7,Chapter 1: High Chasaline,5983,1,1,0,,5983,1.000000,0
+b07:c2,7,Chapter 2: The Butcher’s Yard,9709,1,1,0,,9708,1.000000,0
+b07:c3,7,Chapter 3: Hill of the Golden Dawn,6410,1,1,0,,6409,1.000000,0
+b07:c4,7,Chapter 4: Into Cairhien,5034,1,1,0,,5032,1.000000,0
+b07:c5,7,Chapter 5: A Broken Crown,5034,1,1,0,,5034,1.000000,0
+b07:c6,7,"Chapter 6: Old Fear, and New Fear",4403,1,1,0,,4401,1.000000,0
+b07:c7,7,Chapter 7: Pitfalls and Tripwires,7930,1,1,0,,7930,1.000000,0
+b07:c8,7,Chapter 8: The Figurehead,4886,1,1,0,,4886,1.000000,0
+b07:c9,7,Chapter 9: A Pair of Silverpike,8176,1,1,0,,8177,1.000000,0
+b07:c10,7,Chapter 10: Unseen Eyes,8529,1,1,0,,8530,1.000000,0
+b07:c11,7,Chapter 11: An Oath,7968,1,1,0,,7968,1.000000,0
+b07:c12,7,Chapter 12: A Morning of Victory,13402,1,1,0,,13402,1.000000,0
+b07:c13,7,Chapter 13: The Bowl of the Winds,7648,1,1,0,,7648,1.000000,0
+b07:c14,7,Chapter 14: White Plumes,6558,1,1,0,,6557,1.000000,0
+b07:c15,7,Chapter 15: Insects,3379,1,1,0,,3379,1.000000,0
+b07:c16,7,Chapter 16: A Touch on the Cheek,5638,1,1,0,,5637,1.000000,0
+b07:c17,7,Chapter 17: The Triumph of Logic,7130,4,4,2,Joline Maza;Noal Charin,7129,3.091874,3
+b07:c18,7,Chapter 18: As the Plow Breaks the Earth,6011,1,1,0,,6010,1.000000,0
+b07:c19,7,Chapter 19: Diamonds and Stars,5952,3,3,1,Cadsuane Melaidhrin,5952,2.238634,2
+b07:c20,7,Chapter 20: Patterns Within Patterns,4597,2,2,1,Moridin,4597,1.740201,1
+b07:c21,7,Chapter 21: Swovan Night,5578,2,2,0,,5578,1.968073,1
+b07:c22,7,Chapter 22: Small Sacrifices,6258,1,1,0,,6259,1.000000,0
+b07:c23,7,Chapter 23: Next Door to a Weaver,7280,1,1,0,,7280,1.000000,0
+b07:c24,7,Chapter 24: The Kin,3488,2,2,1,Reanne Corly,3487,1.917819,1
+b07:c25,7,Chapter 25: Mindtrap,3717,1,1,0,,3717,1.000000,0
+b07:c26,7,Chapter 26: The Irrevocable Words,8489,1,1,0,,8489,1.000000,0
+b07:c27,7,Chapter 27: To Be Alone,3712,1,1,0,,3712,1.000000,0
+b07:c28,7,Chapter 28: Bread and Cheese,6691,1,1,0,,6692,1.000000,0
+b07:c29,7,Chapter 29: The Festival of Birds,4980,2,2,0,,4980,1.237433,1
+b07:c30,7,Chapter 30: The First Cup,4407,2,2,0,,4407,1.793930,1
+b07:c31,7,Chapter 31: Mashiara,7366,2,2,0,,7367,1.932243,1
+b07:c32,7,Chapter 32: Sealed to the Flame,6653,3,3,1,Seaine Herimon,6652,2.257530,2
+b07:c33,7,Chapter 33: A Bath,4832,1,1,0,,4831,1.000000,0
+b07:c34,7,Chapter 34: Ta’veren,5653,1,1,0,,5652,1.000000,0
+b07:c35,7,Chapter 35: Into the Woods,6579,1,1,0,,6579,1.000000,0
+b07:c36,7,Chapter 36: Blades,8115,1,1,0,,8114,1.000000,0
+b07:c37,7,Chapter 37: A Note from the Palace,3791,1,1,0,,3791,1.000000,0
+b07:c38,7,Chapter 38: Six Stories,9083,1,1,0,,9085,1.000000,0
+b07:c39,7,Chapter 39: Promises to Keep,8552,1,1,0,,8554,1.000000,0
+b07:c40,7,Chapter 40: Spears,6379,5,5,2,Maeric;Shaidar Haran,6370,3.888577,4
+b07:c41,7,41 A Crown of Swords,12147,3,3,0,,12187,1.135501,2
+b08:cPrologue,8,Prologue Deceptive Appearances,12088,4,4,1,Ethenielle Kirukon Materasu,12141,2.415179,3
+b08:c1,8,1 To Keep the Bargain,8461,1,1,0,,8460,1.000000,0
+b08:c2,8,2 Unweaving,7312,3,3,1,Gholam,7310,1.835579,2
+b08:c3,8,3 A Pleasant Ride,5030,1,1,0,,5029,1.000000,0
+b08:c4,8,4 A Quiet Place,5478,1,1,0,,5477,1.000000,0
+b08:c5,8,5 The Breaking Storm,7757,1,1,0,,7722,1.000000,0
+b08:c6,8,6 Threads,9687,2,2,1,Chulein,9687,1.463445,1
+b08:c7,8,7 A Goatpen,6471,1,1,0,,6470,1.000000,0
+b08:c8,8,8 A Simple Country Woman,10579,3,3,0,,10578,2.402878,2
+b08:c9,8,9 Tangles,7784,1,1,0,,7786,1.000000,0
+b08:c10,8,10 Changes,9069,3,2,0,,9069,1.640813,2
+b08:c11,8,11 Questions and an Oath,6699,2,2,0,,6699,1.998574,1
+b08:c12,8,12 New Alliances,8302,2,2,0,,8302,1.930683,1
+b08:c13,8,13 Floating Like Snow,4532,1,1,0,,4531,1.000000,0
+b08:c14,8,14 Message from the M’Hael,5470,1,1,0,,5471,1.000000,0
+b08:c15,8,15 Stronger Than Written Law,6755,1,1,0,,6755,1.000000,0
+b08:c16,8,16 Unexpected Absences,8178,4,3,1,Aran'gar,8179,1.269076,3
+b08:c17,8,17 Out on the Ice,5848,1,1,0,,5848,1.000000,0
+b08:c18,8,18 A Peculiar Calling,3991,1,1,0,,3991,1.000000,0
+b08:c19,8,19 The Law,6783,1,1,0,,6784,1.000000,0
+b08:c20,8,20 Into Andor,6199,1,1,0,,6200,1.000000,0
+b08:c21,8,21 Answering the Summons,5857,1,1,0,,5857,1.000000,0
+b08:c22,8,22 Gathering Clouds,5131,2,2,1,Assid Bakuun,5130,1.798042,1
+b08:c23,8,"23 Fog of War, Storm of Battle",8024,3,2,1,Furyk Karede,8024,1.648872,2
+b08:c24,8,24 A Time for Iron,12289,8,6,5,Abaldar Yulan;Bertome Saighan;Davram Bashere;Kennar Miraj;Varek,12288,3.987601,7
+b08:c25,8,25 An Unwelcome Return,4139,2,2,0,,4138,1.531385,1
+b08:c26,8,26 The Extra Bit,7221,2,2,1,Toveine Gazal,7218,1.780651,1
+b08:c27,8,27 The Bargain,9156,2,2,0,,9155,1.830842,1
+b08:c28,8,28 Crimsonthorn,5510,2,2,1,Daved Hanlon,5510,1.728039,1
+b08:c29,8,29 A Cup of Sleep,6687,3,2,0,,6687,1.838007,2
+b08:c30,8,30 Beginnings,6029,3,3,0,,6029,2.773118,2
+b08:c31,8,31 After,328,1,1,0,,319,1.000000,0
+b09:cPrologue,9,Prologue: Snow,27161,5,5,0,,27196,3.617105,4
+b09:c1,9,1 Leaving the Prophet,4063,1,1,0,,4065,1.000000,0
+b09:c2,9,2 Taken,5323,1,1,0,,5321,1.000000,0
+b09:c3,9,3 Customs,4693,1,1,0,,4694,1.000000,0
+b09:c4,9,4 Offers,6829,1,1,0,,6829,1.000000,0
+b09:c5,9,5 Flags,4042,1,1,0,,4042,1.000000,0
+b09:c6,9,6 The Scent of Madness,6850,1,1,0,,6850,1.000000,0
+b09:c7,9,7 The Streets of Caemlyn,6384,1,1,0,,6384,1.000000,0
+b09:c8,9,8 Sea Folk and Kin,7312,1,1,0,,7313,1.000000,0
+b09:c9,9,9 A Cup of Tea,4763,1,1,0,,4764,1.000000,0
+b09:c10,9,10 A Plan Succeeds,10302,3,3,2,Asne Zeramene;Mili Skane,10300,2.136692,2
+b09:c11,9,11 Ideas of Importance,10245,2,2,0,,10246,1.775676,1
+b09:c12,9,12 A Lily in Winter,8777,3,2,0,,8780,1.854571,2
+b09:c13,9,13 Wonderful News,6829,2,2,0,,6827,1.882539,1
+b09:c14,9,14 What a Veil Hides,3630,1,1,1,Tuon Athaem Kore Paendrag,3630,1.000000,0
+b09:c15,9,15 In Need of a Bellfounder,4409,1,1,0,,4409,1.000000,0
+b09:c16,9,16 An Unexpected Encounter,5995,1,1,0,,5996,1.000000,0
+b09:c17,9,17 Pink Ribbons,6312,1,1,0,,6313,1.000000,0
+b09:c18,9,18 An Offer,5967,1,1,0,,5968,1.000000,0
+b09:c19,9,19 Three Women,6075,1,1,0,,6074,1.000000,0
+b09:c20,9,20 Questions of Treason,4950,1,1,1,Bethamin Zeami,4950,1.000000,0
+b09:c21,9,21 A Matter of Property,4622,1,1,0,,4622,1.000000,0
+b09:c22,9,22 Out of Thin Air,6697,4,3,2,Raefar Kisman;Slayer,6698,1.973667,3
+b09:c23,9,23 To Lose the Sun,6617,1,1,1,Shalon din Togara Morning Tide,6617,1.000000,0
+b09:c24,9,24 Among the Counsels,4733,1,1,0,,4734,1.000000,0
+b09:c25,9,25 Bonds,5734,2,2,0,,5734,1.637000,1
+b09:c26,9,26 Expectation,6313,1,1,0,,6314,1.000000,0
+b09:c27,9,27 To Surprise Queens and Kings,7222,1,1,0,,7222,1.000000,0
+b09:c28,9,28 News in a Cloth Sack,6734,1,1,0,,6734,1.000000,0
+b09:c29,9,29 Another Plan,6135,1,1,0,,6136,1.000000,0
+b09:c30,9,"30 Cold, Fat Raindrops",3725,1,1,0,,3726,1.000000,0
+b09:c31,9,31 What the Aelfinn Said,5104,1,1,0,,5102,1.000000,0
+b09:c32,9,32 A Portion of Wisdom,5310,1,1,0,,5309,1.000000,0
+b09:c33,9,33 Blue Carp Street,4770,2,2,0,,4770,1.835413,1
+b09:c34,9,34 The Hummingbird’s Secret,3494,3,3,0,,3495,2.788602,2
+b09:c35,9,35 With the Choedan Kal,10670,21,12,5,Barmellin;Cyndane;Eben Hopwil;Elza Penfell;Timna,10661,7.234063,20
+b10:cPrologue,10,Prologue: Glimmers of the Pattern,32627,8,8,4,Gabrelle;Rodel Ituralde;Samitsu;Yukiri,32701,6.210483,7
+b10:c1,10,1 Time to Be Gone,7867,1,1,0,,7864,1.000000,0
+b10:c2,10,2 Two Captains,5998,1,1,0,,5996,1.000000,0
+b10:c3,10,3 A Fan of Colors,9838,1,1,0,,9834,1.000000,0
+b10:c4,10,4 The Tale of a Doll,5726,1,1,0,,5721,1.000000,0
+b10:c5,10,5 The Forging of a Hammer,8851,1,1,0,,8846,1.000000,0
+b10:c6,10,6 The Scent of a Dream,5629,1,1,0,,5625,1.000000,0
+b10:c7,10,7 Blacksmith’s Puzzle,5959,1,1,0,,5957,1.000000,0
+b10:c8,10,8 Whirlpools of Color,7693,1,1,0,,7690,1.000000,0
+b10:c9,10,9 Traps,11639,1,1,0,,11636,1.000000,0
+b10:c10,10,10 A Blazing Beacon,7022,1,1,0,,7019,1.000000,0
+b10:c11,10,11 Talk of Debts,6881,1,1,0,,6885,1.000000,0
+b10:c12,10,12 A Bargain,6646,1,1,0,,6643,1.000000,0
+b10:c13,10,13 High Seats,6785,1,1,0,,6782,1.000000,0
+b10:c14,10,14 What Wise Ones Know,8862,1,1,0,,8858,1.000000,0
+b10:c15,10,15 Gathering Darkness,12931,2,2,1,Elenia Sarand,12929,1.999246,1
+b10:c16,10,16 The Subject of Negotiations,7361,1,1,0,,7357,1.000000,0
+b10:c17,10,17 Secrets,10613,2,2,0,,10611,1.117269,1
+b10:c18,10,18 A Chat with Siuan,7449,1,1,0,,7445,1.000000,0
+b10:c19,10,19 Surprises,9804,1,1,0,,9803,1.000000,0
+b10:c20,10,20 In the Night,8030,1,1,0,,8034,1.000000,0
+b10:c21,10,21 A Mark,8134,1,1,0,,8132,1.000000,0
+b10:c22,10,22 One Answer,2394,1,1,1,Pevara Tazanovni,2392,1.000000,0
+b10:c23,10,23 Ornaments,6553,1,1,0,,6551,1.000000,0
+b10:c24,10,24 A Strengthening Storm,6804,4,3,0,,6800,1.779318,3
+b10:c25,10,25 When to Wear Jewels,4364,1,1,0,,4360,1.000000,0
+b10:c26,10,26 In So Habor,5466,1,1,0,,5462,1.000000,0
+b10:c27,10,27 What Must Be Done,6562,1,1,0,,6558,1.000000,0
+b10:c28,10,28 A Cluster of Rosebuds,10360,1,1,0,,10355,1.000000,0
+b10:c29,10,29 Something Flickers,8632,1,1,0,,8628,1.000000,0
+b10:c30,10,30 What the Oath Rod Can Do,10885,1,1,0,,10877,1.000000,0
+b10:cEpilogue,10,Epilogue: An Answer,327,2,2,0,,318,1.584934,1
+b11:cPrologue,11,Prologue: Embers Falling on Dry Grass,36637,8,8,1,Galadedrid Damodred,36656,6.637743,7
+b11:c1,11,1 When Last Sounds,7785,1,1,0,,7785,1.000000,0
+b11:c2,11,2 The Dark One’s Touch,9133,2,2,1,Beonin Marinye,9132,1.994458,1
+b11:c3,11,3 At the Gardens,3424,1,1,0,,3423,1.000000,0
+b11:c4,11,4 A Deal,5702,1,1,0,,5705,1.000000,0
+b11:c5,11,5 Something . . . Strange,6857,1,1,0,,6856,1.000000,0
+b11:c6,11,6 A Stave and a Razor,6706,1,1,0,,6706,1.000000,0
+b11:c7,11,7 A Cold Medallion,4959,1,1,0,,4959,1.000000,0
+b11:c8,11,8 Dragons’ Eggs,10979,1,1,0,,10979,1.000000,0
+b11:c9,11,9 A Short Path,6054,1,1,0,,6055,1.000000,0
+b11:c10,11,10 A Village in Shiota,8188,1,1,0,,8187,1.000000,0
+b11:c11,11,11 A Hell in Maderin,10577,1,1,0,,10577,1.000000,0
+b11:c12,11,12 A Manufactory,8010,1,1,0,,8013,1.000000,0
+b11:c13,11,13 Siege,5287,1,1,0,,5287,1.000000,0
+b11:c14,11,14 Wet Things,5512,1,1,0,,5494,1.000000,0
+b11:c15,11,15 A Different Skill,6253,1,1,0,,6253,1.000000,0
+b11:c16,11,16 The New Follower,5914,1,1,0,,5916,1.000000,0
+b11:c17,11,17 A Bronze Bear,8240,2,2,1,Arymilla Marne,8239,1.664272,1
+b11:c18,11,18 News for the Dragon,5953,1,1,0,,5952,1.000000,0
+b11:c19,11,19 Vows,7126,2,2,1,Loial,7124,1.950390,1
+b11:c20,11,20 The Golden Crane,9757,3,3,1,Weilin Aldragoran,9754,2.396559,2
+b11:c21,11,21 Within the Stone,10537,1,1,0,,10535,1.000000,0
+b11:c22,11,22 To Make an Anchor Weep,6118,1,1,1,Harine din Togara Two Winds,6117,1.000000,0
+b11:c23,11,23 Call to a Sitting,9285,1,1,0,,9283,1.000000,0
+b11:c24,11,24 Honey in the Tea,15099,1,1,0,,15098,1.000000,0
+b11:c25,11,25 Attending Elaida,7026,2,2,1,Tarna Feir,7024,1.857587,1
+b11:c26,11,26 As If the World Were Fog,11956,3,3,0,,11955,2.564517,2
+b11:c27,11,27 A Plain Wooden Box,10146,2,2,0,,10145,1.929526,1
+b11:c28,11,28 In Malden,6669,2,2,0,,6667,1.288861,1
+b11:c29,11,29 The Last Knot,9212,3,2,0,,9213,1.373763,2
+b11:c30,11,30 Outside the Gates,6753,3,3,0,,6754,2.443412,2
+b11:c31,11,31 The House on Full Moon Street,7286,1,1,0,,7286,1.000000,0
+b11:c32,11,32 To Keep the Bargain,6491,1,1,1,Birgitte Silverbow,6495,1.000000,0
+b11:c33,11,33 Nine Out of Ten,4960,1,1,0,,4959,1.000000,0
+b11:c34,11,34 A Cup of Kaf,2815,1,1,0,,2816,1.000000,0
+b11:c35,11,35 The Importance of Dyelin,6344,1,1,0,,6344,1.000000,0
+b11:c36,11,36 Under an Oak,4901,3,3,0,,4898,2.257078,2
+b11:c37,11,37 Prince of the Ravens,5219,1,1,0,,5220,1.000000,0
+b11:cEpilogue,11,Epilogue: Remember the Old Saying,4256,2,2,0,,4245,1.864192,1
+b12:cPrologue,12,Prologue: What the Storm Means,12987,7,7,4,Falendre;Masema Dagar;Renald Fanwar;Tylee Khirgan,13099,5.519229,6
+b12:c1,12,1 Tears from Steel,6469,1,1,0,,6500,1.000000,0
+b12:c2,12,2 The Nature of Pain,7031,1,1,0,,7040,1.000000,0
+b12:c3,12,3 The Ways of Honor,4437,1,1,0,,4458,1.000000,0
+b12:c4,12,4 Nightfall,1923,1,1,0,,1926,1.000000,0
+b12:c5,12,5 A Tale of Blood,6035,2,2,0,,6050,1.920815,1
+b12:c6,12,6 When Iron Melts,3145,3,3,1,Leane Sharif,3157,2.856653,2
+b12:c7,12,7 The Plan for Arad Doman,6099,1,1,0,,6114,1.000000,0
+b12:c8,12,8 Clean Shirts,7611,1,1,0,,7627,1.000000,0
+b12:c9,12,9 Leaving Malden,5240,1,1,0,,5245,1.000000,0
+b12:c10,12,10 The Last of the Tabac,4500,1,1,0,,4506,1.000000,0
+b12:c11,12,11 The Death of Adrin,4492,1,1,0,,4507,1.000000,0
+b12:c12,12,12 Unexpected Encounters,8387,1,1,0,,8403,1.000000,0
+b12:c13,12,13 An Offer and a Departure,5895,1,1,0,,5917,1.000000,0
+b12:c14,12,14 A Box Opens,2574,1,1,0,,2582,1.000000,0
+b12:c15,12,15 A Place to Begin,5828,3,3,0,,5841,2.878990,2
+b12:c16,12,16 In the White Tower,10552,1,1,0,,10574,1.000000,0
+b12:c17,12,17 Questions of Control,3688,2,2,0,,3695,1.995239,1
+b12:c18,12,18 A Message in Haste,3310,1,1,0,,3325,1.000000,0
+b12:c19,12,19 Gambits,6900,1,1,0,,6922,1.000000,0
+b12:c20,12,20 On a Broken Road,5573,1,1,0,,5587,1.000000,0
+b12:c21,12,21 Embers and Ash,5383,3,2,0,,5398,1.823789,2
+b12:c22,12,22 The Last That Could Be Done,7435,2,2,0,,7449,1.514165,1
+b12:c23,12,23 A Warp in the Air,1788,1,1,0,,1790,1.000000,0
+b12:c24,12,24 A New Commitment,6319,1,1,0,,6335,1.000000,0
+b12:c25,12,25 In Darkness,2288,2,2,0,,2300,1.977672,1
+b12:c26,12,26 A Crack in the Stone,5633,2,2,0,,5654,1.879538,1
+b12:c27,12,27 The Tipsy Gelding,8422,1,1,0,,8440,1.000000,0
+b12:c28,12,28 Night in Hinderstap,8769,1,1,0,,8779,1.000000,0
+b12:c29,12,29 Into Bandar Eban,5573,1,1,0,,5581,1.000000,0
+b12:c30,12,30 Old Advice,4407,1,1,0,,4418,1.000000,0
+b12:c31,12,31 A Promise to Lews Therin,8240,2,2,0,,8263,1.996117,1
+b12:c32,12,32 Rivers of Shadow,9474,1,1,0,,9489,1.000000,0
+b12:c33,12,33 A Conversation with the Dragon,3701,1,1,0,,3717,1.000000,0
+b12:c34,12,34 Legends,5553,1,1,0,,5571,1.000000,0
+b12:c35,12,35 A Halo of Blackness,5367,2,2,0,,5375,1.939352,1
+b12:c36,12,36 The Death of Tuon,4540,2,2,0,,4553,1.736565,1
+b12:c37,12,37 A Force of Light,7645,1,1,0,,7667,1.000000,0
+b12:c38,12,38 News in Tel’aran’rhiod,6864,1,1,0,,6875,1.000000,0
+b12:c39,12,39 A Visit from Verin Sedai,7979,1,1,0,,7996,1.000000,0
+b12:c40,12,40 The Tower Shakes,6053,4,3,1,Adelorna Bastine,6066,2.963532,3
+b12:c41,12,41 A Fount of Power,8029,7,5,1,Saerin Asnobar,8050,4.297005,6
+b12:c42,12,42 Before the Stone of Tear,3856,1,1,0,,3863,1.000000,0
+b12:c43,12,43 Sealed to the Flame,8009,4,3,1,Jesse Bilal,8029,2.584162,3
+b12:c44,12,44 Scents Unknown,6917,1,1,0,,6935,1.000000,0
+b12:c45,12,45 The Tower Stands,4587,1,1,0,,4589,1.000000,0
+b12:c46,12,46 To Be Forged Again,5687,1,1,0,,5696,1.000000,0
+b12:c47,12,47 The One He Lost,5193,1,1,0,,5202,1.000000,0
+b12:c48,12,48 Reading the Commentary,2667,1,1,0,,2672,1.000000,0
+b12:c49,12,49 Just Another Man,2368,1,1,0,,2374,1.000000,0
+b12:c50,12,50 Veins of Gold,1970,1,1,0,,1971,1.000000,0
+b12:cEpilogue,12,Epilogue: Bathed in Light,2084,2,2,0,,2054,1.125316,1
+b13:cPrologue,13,PROLOGUE: Distinctions,15845,7,7,1,Malenarin Rai,15912,5.604180,6
+b13:c1,13,1 Apples First,2931,1,1,1,Almen Bunt,2931,1.000000,0
+b13:c2,13,2 Questions of Leadership,5068,2,2,0,,5067,1.823313,1
+b13:c3,13,3 The Amyrlin’s Anger,5585,3,2,0,,5557,1.996280,2
+b13:c4,13,4 The Pattern Groans,6337,2,2,0,,6335,1.956411,1
+b13:c5,13,5 Writings,6972,3,3,0,,6920,2.258497,2
+b13:c6,13,6 Questioning Intentions,5016,1,1,0,,4972,1.000000,0
+b13:c7,13,7 Lighter than a Feather,3412,9,3,0,,3412,2.985184,8
+b13:c8,13,8 The Seven-Striped Lass,6789,1,1,0,,6788,1.000000,0
+b13:c9,13,9 Blood in the Air,2943,1,1,0,,2908,1.000000,0
+b13:c10,13,10 After the Taint,3702,2,2,0,,3715,1.297595,1
+b13:c11,13,11 An Unexpected Letter,4294,1,1,0,,4289,1.000000,0
+b13:c12,13,12 An Empty Ink Bottle,1776,2,2,0,,1776,1.999873,1
+b13:c13,13,13 For What Has Been Wrought,3055,1,1,0,,3029,1.000000,0
+b13:c14,13,14 A Vow,5750,1,1,0,,5749,1.000000,0
+b13:c15,13,15 Use a Pebble,5905,2,2,0,,5904,1.894058,1
+b13:c16,13,16 Shanna’har,5889,2,2,0,,5889,1.890770,1
+b13:c17,13,"17 Partings, and a Meeting",6754,2,2,0,,6752,1.982883,1
+b13:c18,13,18 The Strength of This Place,7214,3,3,0,,7201,2.997012,2
+b13:c19,13,19 Talk of Dragons,7215,1,1,0,,7209,1.000000,0
+b13:c20,13,20 A Choice,8029,1,1,0,,8030,1.000000,0
+b13:c21,13,21 An Open Gate,7127,3,3,0,,7072,2.808715,2
+b13:c22,13,22 The End of a Legend,11609,3,3,0,,11569,2.985004,2
+b13:c23,13,23 Foxheads,7913,3,3,0,,7913,2.065334,2
+b13:c24,13,24 To Make a Stand,7527,3,3,0,,7515,2.541218,2
+b13:c25,13,25 Return to Bandar Eban,3676,1,1,0,,3676,1.000000,0
+b13:c26,13,26 Parley,5689,2,2,0,,5692,1.944666,1
+b13:c27,13,27 A Call to Stand,4278,1,1,0,,4279,1.000000,0
+b13:c28,13,28 Oddities,5885,3,3,0,,5884,2.401942,2
+b13:c29,13,29 A Terrible Feeling,6970,4,4,0,,6969,3.702239,3
+b13:c30,13,30 Men Dream Here,5387,2,2,0,,5387,1.545519,1
+b13:c31,13,31 Into the Void,4367,1,1,0,,4366,1.000000,0
+b13:c32,13,32 A Storm of Light,5824,2,2,0,,5819,1.805986,1
+b13:c33,13,33 A Good Soup,7262,3,3,0,,7264,2.266661,2
+b13:c34,13,34 Judgment,6818,3,2,0,,6816,1.736638,2
+b13:c35,13,35 The Right Thing,4275,4,3,0,,4275,1.929926,3
+b13:c36,13,36 An Invitation,5094,2,2,0,,5044,1.319889,1
+b13:c37,13,37 Darkness in the Tower,6619,10,4,0,,6595,3.425582,9
+b13:c38,13,38 Wounds,5508,5,3,0,,5480,2.285805,4
+b13:c39,13,39 In the Three-fold Land,2323,1,1,0,,2329,1.000000,0
+b13:c40,13,40 A Making,6897,5,3,0,,6898,2.075990,4
+b13:c41,13,41 An Unexpected Ally,4756,5,2,0,,4752,1.954459,4
+b13:c42,13,42 Stronger than Blood,2622,2,2,0,,2622,1.996728,1
+b13:c43,13,43 Some Tea,2926,2,2,1,Alliandre Maritha Kigarin,2927,1.999873,1
+b13:c44,13,44 A Backhanded Request,4334,2,2,0,,4289,1.952460,1
+b13:c45,13,45 A Reunion,4938,2,2,0,,4944,1.639233,1
+b13:c46,13,46 Working Leather,6009,1,1,1,Androl Genhald,6010,1.000000,0
+b13:c47,13,47 A Teaching Chamber,7949,3,3,0,,7949,2.785717,2
+b13:c48,13,48 Near Avendesora,4567,1,1,0,,4566,1.000000,0
+b13:c49,13,49 Court of the Sun,4939,1,1,0,,4938,1.000000,0
+b13:c50,13,50 Choosing Enemies,3370,1,1,0,,3311,1.000000,0
+b13:c51,13,51 A Testing,4163,2,2,0,,4163,1.754418,1
+b13:c52,13,52 Boots,5774,2,2,0,,5774,1.999493,1
+b13:c53,13,53 Gateways,8430,3,3,0,,8427,2.774533,2
+b13:c54,13,54 The Light of the World,5406,1,1,0,,5406,1.000000,0
+b13:c55,13,55 The One Left Behind,3332,1,1,0,,3330,1.000000,0
+b13:c56,13,56 Something Wrong,2656,2,2,0,,2656,1.994885,1
+b13:c57,13,57 A Rabbit for Supper,2999,1,1,0,,2986,1.000000,0
+b13:cEpilogue,13,EPILOGUE: And After,5775,7,7,2,Barriga;Olver,5761,5.851714,6
+b14:cPrologue,14,Prologue: By Grace and Banner Fallen,24782,13,8,4,Bayrd;Isam;Leilwin Shipless;Talmanes,25126,6.291705,12
+b14:c1,14,1. Eastward the Wind Blew,8084,3,2,0,,8167,1.891586,2
+b14:c2,14,2. The Choice of an Ajah,6831,2,2,1,Pevara,6938,1.979755,1
+b14:c3,14,3. A Dangerous Place,6206,3,3,0,,6284,2.929164,2
+b14:c4,14,4. Advantages to a Bond,6135,3,3,0,,6271,2.924838,2
+b14:c5,14,5. To Require a Boon,9813,2,2,0,,9862,1.507853,1
+b14:c6,14,6. A Knack,7209,2,2,0,,7312,1.836296,1
+b14:c7,14,7. Into the Thick of It,5900,2,2,0,,5884,1.991269,1
+b14:c8,14,8. That Smoldering City,3357,2,2,0,,4284,2.000000,1
+b14:c9,14,9. To Die Well,7349,3,3,0,,6776,2.962681,2
+b14:c10,14,10. The Use of Dragons,4789,5,4,0,,4832,2.312579,4
+b14:c11,14,11. Just Another Sell-sword,7380,3,3,0,,7423,2.809564,2
+b14:c12,14,12. A Shard of a Moment,3999,3,3,1,Birgitte,4025,2.648928,2
+b14:c13,14,13. What Must Be Done,4889,3,3,0,,4940,2.840489,2
+b14:c14,14,14. Doses of Forkroot,6528,4,2,0,,6560,1.951872,3
+b14:c15,14,15. Your Neck in a Cord,7956,3,2,0,,7983,1.940563,2
+b14:c16,14,16. A Silence Like Screaming,5849,5,5,1,Galad Damodred,6029,3.609434,4
+b14:c17,14,"17. Older, More Weathered",3588,1,1,0,,3614,1.000000,0
+b14:c18,14,18. To Feel Wasted,7328,3,3,0,,7410,2.879414,2
+b14:c19,14,19. The Choice of a Patch,4902,3,3,0,,5241,2.981823,2
+b14:c20,14,20. Into Thakan’dar,6103,2,2,0,,6130,1.974079,1
+b14:c21,14,21. Not a Mistake to Ignore,4182,3,3,1,Lyrelle,4227,2.673971,2
+b14:c22,14,22. The Wyld,5780,2,2,0,,4846,1.995476,1
+b14:c23,14,23. At the Edge of Time,6528,4,4,0,,6573,3.550282,3
+b14:c24,14,24. To Ignore the Omens,7630,4,4,1,Fortuona,7640,3.694954,3
+b14:c25,14,25. Quick Fragments,6669,4,4,0,,6704,2.913475,3
+b14:c26,14,26. Considerations,5781,2,2,0,,5813,1.936643,1
+b14:c27,14,27. Friendly Fire,4795,2,2,0,,5842,1.993531,1
+b14:c28,14,28. Too Many Men,3912,3,3,0,,3930,2.670167,2
+b14:c29,14,29. The Loss of a Hill,6542,3,3,0,,6576,2.490953,2
+b14:c30,14,30. The Way of the Predator,4476,3,3,0,,5906,2.955382,2
+b14:c31,14,31. A Tempest of Water,5980,3,2,0,,5115,1.839726,2
+b14:c32,14,32. A Yellow Flower-Spider,5598,2,2,0,,5639,1.730009,1
+b14:c33,14,33. The Prince’s Tabac,9322,3,3,1,Faile,9377,2.876337,2
+b14:c34,14,34. Drifting,3870,4,4,0,,3929,3.342082,3
+b14:c35,14,35. A Practiced Grin,4028,3,3,0,,4059,2.824604,2
+b14:c36,14,36. Unchangeable Things,4645,3,3,0,,4701,2.026697,2
+b14:c37,14,37. The Last Battle,78393,72,30,11,Berelain;Gerard Arganda;Hurin;Ila;Juilin Sandar;Logain Ablar;Mazrim Taim;Rhuarc;Silviana Brehon;Tam al'Thor;Uno Nomesta,81205,22.511231,71
+b14:c38,14,38. The Place That Was Not,1193,4,3,1,Shendla,1198,1.772934,3
+b14:c39,14,39. Those Who Fight,3052,10,4,0,,3064,3.109523,9
+b14:c40,14,40. Wolfbrother,3799,5,4,1,Jur Grady,3853,3.900203,4
+b14:c41,14,41. A Smile,1951,3,3,0,,1976,2.696280,2
+b14:c42,14,42. Impossibilities,3396,4,3,1,Atal Mishraile,3437,2.602524,3
+b14:c43,14,43. A Field of Glass,2921,4,4,0,,2977,3.558670,3
+b14:c44,14,44. Two Craftsmen,3950,2,2,1,Thom Merrilin,4266,1.945081,1
+b14:c45,14,45. Tendrils of Mist,3002,4,3,2,Gaul;Shaisam,3054,2.781384,3
+b14:c46,14,46. To Awaken,2810,4,4,0,,2832,2.526001,3
+b14:c47,14,47. Watching the Flow Writhe,1601,4,4,0,,1532,3.756347,3
+b14:c48,14,48. A Brilliant Lance,796,5,5,0,,807,4.149350,4
+b14:c49,14,49. Light and Shadow,1640,3,3,0,,1657,2.354888,2
+b14:cEpilogue,14,Epilogue: To See the Answer,6511,16,11,0,,7332,8.349341,15

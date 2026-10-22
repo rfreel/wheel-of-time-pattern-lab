@@ -1,0 +1,29 @@
+{
+  "schema": "1.0",
+  "source": "data/aggregate/pov_segments.csv",
+  "chapter_source": "data/aggregate/chapters.csv",
+  "epub_chapters": 704,
+  "source_pov_segments": 1379,
+  "aligned_segments": 1378,
+  "unaligned_segments": 1,
+  "max_pov_segments": 72,
+  "second_largest_pov_segments": 21,
+  "last_battle": {
+    "chapter_id": "b14:c37",
+    "book": "14",
+    "label": "37. The Last Battle",
+    "epub_words": "78393",
+    "pov_segments": 72,
+    "distinct_pov": 30,
+    "new_pov_characters": 11,
+    "new_pov_names": "Berelain;Gerard Arganda;Hurin;Ila;Juilin Sandar;Logain Ablar;Mazrim Taim;Rhuarc;Silviana Brehon;Tam al'Thor;Uno Nomesta",
+    "pov_words": 81205,
+    "effective_pov_voices": "22.511231",
+    "switches": 71
+  },
+  "limitations": [
+    "POV word counts differ from EPUB token counts",
+    "First-time POV is relative to supplied ordered POV index",
+    "POV handoff is not character interaction"
+  ]
+}
