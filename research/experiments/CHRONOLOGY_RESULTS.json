@@ -1,0 +1,117 @@
+{
+  "status": "DESCRIPTIVE_COMPUTATION_VALIDATION_PENDING_CI",
+  "source_anchors": [
+    "data/aggregate/chapters.csv",
+    "data/aggregate/pov_segments.csv"
+  ],
+  "modes": {
+    "prequel_first": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "publication": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      0,
+      11,
+      12,
+      13,
+      14
+    ],
+    "main_series": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "coverage": {
+    "prequel_first": {
+      "chapters": 704,
+      "epub_tokens": 4355388,
+      "character_pov_labels": 155
+    },
+    "publication": {
+      "chapters": 704,
+      "epub_tokens": 4355388,
+      "character_pov_labels": 155
+    },
+    "main_series": {
+      "chapters": 677,
+      "epub_tokens": 4233526,
+      "character_pov_labels": 155
+    }
+  },
+  "intervals": 3143,
+  "summary_rows": 465,
+  "lan": [
+    {
+      "order": "prequel_first",
+      "gap": "568",
+      "tokens": "3555357"
+    },
+    {
+      "order": "publication",
+      "gap": "92",
+      "tokens": "611637"
+    },
+    {
+      "order": "main_series",
+      "gap": "18",
+      "tokens": "99155"
+    }
+  ],
+  "moiraine": [
+    {
+      "order": "prequel_first",
+      "gap": "369"
+    },
+    {
+      "order": "publication",
+      "gap": "204"
+    },
+    {
+      "order": "main_series",
+      "gap": "369"
+    }
+  ],
+  "definition": "Between successive distinct chapters with a named POV, count intervening included chapters and their EPUB word-like tokens; exclude non-character Quote segments; never impute zero for no observed return.",
+  "external_order_evidence": "https://www.encyclopaedia-wot.org/Wiki.jsp?page=New+Spring",
+  "limitations": [
+    "Prequel-first is book order, not a validated in-world event chronology.",
+    "POV silence does not mean a character is absent.",
+    "EPUB tokenizer counts and POV segment word counts are not interchangeable.",
+    "Story chronology remains uncomputed because cross-book event alignment is not independently established."
+  ]
+}

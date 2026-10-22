@@ -1,0 +1,466 @@
+order,character,pov_chapters,observed_return_intervals,max_intervening_chapters,max_intervening_epub_tokens,gap_start_chapter_id,gap_start_book,gap_end_chapter_id,gap_end_book,censored_no_observed_return
+prequel_first,Abaldar Yulan,1,0,,,,,,,true
+prequel_first,Adelorna Bastine,1,0,,,,,,,true
+prequel_first,Alliandre Maritha Kigarin,1,0,,,,,,,true
+prequel_first,Almen Bunt,1,0,,,,,,,true
+prequel_first,Almurat Mor,1,0,,,,,,,true
+prequel_first,Alteima,1,0,,,,,,,true
+prequel_first,Alviarin Freidhen,5,4,63,467933,b08:c25,The Path of Daggers,b10:c21,Crossroads of Twilight,false
+prequel_first,Androl Genhald,9,8,22,125464,b14:c14,A Memory of Light,b14:c37,A Memory of Light,false
+prequel_first,Aran'gar,2,1,86,650230,b08:c16,The Path of Daggers,b11:c3,Knife of Dreams,false
+prequel_first,Arymilla Marne,1,0,,,,,,,true
+prequel_first,Asmodean,1,0,,,,,,,true
+prequel_first,Asne Zeramene,1,0,,,,,,,true
+prequel_first,Assid Bakuun,1,0,,,,,,,true
+prequel_first,Atal Mishraile,1,0,,,,,,,true
+prequel_first,Aviendha,22,21,140,1046391,b08:c1,The Path of Daggers,b12:c3,The Gathering Storm,false
+prequel_first,Bain,1,0,,,,,,,true
+prequel_first,Barmellin,1,0,,,,,,,true
+prequel_first,Barriga,1,0,,,,,,,true
+prequel_first,Bayle Domon,4,3,19,92025,b02:c9,The Great Hunt,b02:c29,The Great Hunt,false
+prequel_first,Bayrd,1,0,,,,,,,true
+prequel_first,Beonin Marinye,1,0,,,,,,,true
+prequel_first,Berelain,1,0,,,,,,,true
+prequel_first,Bertome Saighan,1,0,,,,,,,true
+prequel_first,Bethamin Zeami,1,0,,,,,,,true
+prequel_first,Birgitte,2,1,37,245385,b14:c12,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+prequel_first,Birgitte Silverbow,2,1,80,451579,b11:c32,Knife of Dreams,b13:c22,Towers of Midnight,false
+prequel_first,Cadsuane Melaidhrin,16,15,51,393569,b10:c24,Crossroads of Twilight,b12:c5,The Gathering Storm,false
+prequel_first,Chulein,1,0,,,,,,,true
+prequel_first,Cyndane,1,0,,,,,,,true
+prequel_first,Dain Bornhald,2,1,29,175497,b04:c1,The Shadow Rising,b04:c31,The Shadow Rising,false
+prequel_first,Daved Hanlon,2,1,54,389858,b08:c28,The Path of Daggers,b10:c15,Crossroads of Twilight,false
+prequel_first,Davram Bashere,2,1,43,277861,b08:c24,The Path of Daggers,b10:cPrologue,Crossroads of Twilight,false
+prequel_first,Delana Mosalaine,3,2,146,1023717,b06:c37,Lord of Chaos,b10:c17,Crossroads of Twilight,false
+prequel_first,Demandred,6,5,219,1439483,b09:c35,Winter's Heart,b14:c37,A Memory of Light,false
+prequel_first,Demira Eriff,1,0,,,,,,,true
+prequel_first,Dyelin Taravin,1,0,,,,,,,true
+prequel_first,Eamon Valda,3,2,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+prequel_first,Eben Hopwil,1,0,,,,,,,true
+prequel_first,Egeanin Tamarath,3,2,221,1490142,b04:c46,The Shadow Rising,b09:c21,Winter's Heart,false
+prequel_first,Egwene al'Vere,114,113,53,390073,b08:c30,The Path of Daggers,b10:c16,Crossroads of Twilight,false
+prequel_first,Elaida do Avriny a'Roihan,7,6,113,731734,b05:cPrologue,The Fires of Heaven,b07:cPrologue,A Crown of Swords,false
+prequel_first,Elayne Trakand,76,75,66,374452,b11:c35,Knife of Dreams,b13:c11,Towers of Midnight,false
+prequel_first,Elenia Sarand,1,0,,,,,,,true
+prequel_first,Ellorien Traemane,1,0,,,,,,,true
+prequel_first,Elza Penfell,2,1,24,211292,b09:c35,Winter's Heart,b10:c24,Crossroads of Twilight,false
+prequel_first,Ethenielle Kirukon Materasu,1,0,,,,,,,true
+prequel_first,Faile,4,3,1,4645,b14:c35,A Memory of Light,b14:c37,A Memory of Light,false
+prequel_first,Faile Bashere,22,21,106,714871,b06:cPrologue,Lord of Chaos,b08:c8,The Path of Daggers,false
+prequel_first,Falendre,1,0,,,,,,,true
+prequel_first,Falion Bhoda,2,1,17,130155,b06:cEpilogue,Lord of Chaos,b07:c17,A Crown of Swords,false
+prequel_first,Fortuona,2,1,12,65618,b14:c24,A Memory of Light,b14:c37,A Memory of Light,false
+prequel_first,Furyk Karede,4,3,61,493227,b10:c4,Crossroads of Twilight,b11:c34,Knife of Dreams,false
+prequel_first,Gabrelle,1,0,,,,,,,true
+prequel_first,Galad Damodred,3,2,15,84196,b14:c16,A Memory of Light,b14:c32,A Memory of Light,false
+prequel_first,Galadedrid Damodred,11,10,90,572965,b11:cPrologue,Knife of Dreams,b13:cPrologue,Towers of Midnight,false
+prequel_first,Galina Casban,6,5,88,629912,b08:c11,The Path of Daggers,b11:cPrologue,Knife of Dreams,false
+prequel_first,Gareth Bryne,5,4,307,2142051,b05:c28,The Fires of Heaven,b12:c41,The Gathering Storm,false
+prequel_first,Gaul,1,0,,,,,,,true
+prequel_first,Gawyn Trakand,18,17,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+prequel_first,Geofram Bornhald,5,4,23,123933,b02:c5,The Great Hunt,b02:c29,The Great Hunt,false
+prequel_first,Gerard Arganda,1,0,,,,,,,true
+prequel_first,Gholam,1,0,,,,,,,true
+prequel_first,Graendal,9,8,126,935736,b08:c12,The Path of Daggers,b12:cPrologue,The Gathering Storm,false
+prequel_first,Hadnan Kadere,2,1,22,140253,b05:c29,The Fires of Heaven,b05:c52,The Fires of Heaven,false
+prequel_first,Harine din Togara Two Winds,1,0,,,,,,,true
+prequel_first,Hurin,1,0,,,,,,,true
+prequel_first,Ila,1,0,,,,,,,true
+prequel_first,Isam,1,0,,,,,,,true
+prequel_first,Jaichim Carridin,4,3,149,997294,b04:c38,The Shadow Rising,b07:c15,A Crown of Swords,false
+prequel_first,Jaret Byar,1,0,,,,,,,true
+prequel_first,Jesse Bilal,1,0,,,,,,,true
+prequel_first,Joline Maza,1,0,,,,,,,true
+prequel_first,Juilin Sandar,1,0,,,,,,,true
+prequel_first,Jur Grady,1,0,,,,,,,true
+prequel_first,Katerine Alruddin,2,1,24,170826,b06:cPrologue,Lord of Chaos,b06:c25,Lord of Chaos,false
+prequel_first,Kennar Miraj,1,0,,,,,,,true
+prequel_first,Lan Mandragoran,24,23,568,3555357,b00:c26,New Spring,b13:cPrologue,Towers of Midnight,false
+prequel_first,Leane Sharif,2,1,141,818638,b12:c6,The Gathering Storm,b14:c37,A Memory of Light,false
+prequel_first,Leilwin Shipless,1,0,,,,,,,true
+prequel_first,Lelaine Akashi,1,0,,,,,,,true
+prequel_first,Lews Therin Telamon,1,0,,,,,,,true
+prequel_first,Liandrin,4,3,139,707344,b02:c5,The Great Hunt,b04:c38,The Shadow Rising,false
+prequel_first,Logain Ablar,3,2,5,13391,b14:c37,A Memory of Light,b14:c43,A Memory of Light,false
+prequel_first,Loial,6,5,146,887987,b11:c19,Knife of Dreams,b14:c16,A Memory of Light,false
+prequel_first,Luan Norwelyn,1,0,,,,,,,true
+prequel_first,Lyrelle,1,0,,,,,,,true
+prequel_first,Maeric,1,0,,,,,,,true
+prequel_first,Malenarin Rai,1,0,,,,,,,true
+prequel_first,Masema Dagar,1,0,,,,,,,true
+prequel_first,Matrim Cauthon,104,103,49,358573,b07:c39,A Crown of Swords,b09:c15,Winter's Heart,false
+prequel_first,Mazrim Taim,1,0,,,,,,,true
+prequel_first,Merana Ambrey,3,2,26,187763,b06:c49,Lord of Chaos,b07:c19,A Crown of Swords,false
+prequel_first,Mesaana,2,1,326,2208698,b06:cPrologue,Lord of Chaos,b13:c37,Towers of Midnight,false
+prequel_first,Mili Skane,1,0,,,,,,,true
+prequel_first,Min Farshaw,31,30,88,679807,b09:c33,Winter's Heart,b12:c15,The Gathering Storm,false
+prequel_first,Moghedien,8,7,182,1200768,b09:c35,Winter's Heart,b14:cPrologue,A Memory of Light,false
+prequel_first,Moiraine Damodred,33,32,369,2491365,b05:c52,The Fires of Heaven,b14:c16,A Memory of Light,false
+prequel_first,Morgase Trakand,12,11,188,1305804,b08:c8,The Path of Daggers,b13:c6,Towers of Midnight,false
+prequel_first,Moridin,3,2,21,133750,b07:c20,A Crown of Swords,b08:cPrologue,The Path of Daggers,false
+prequel_first,Myrelle Berengari,1,0,,,,,,,true
+prequel_first,Narrator,8,7,68,460181,b03:c56,The Dragon Reborn,b05:c10,The Fires of Heaven,false
+prequel_first,Nesune Bihara,2,1,1,5070,b06:c25,Lord of Chaos,b06:c27,Lord of Chaos,false
+prequel_first,Noal Charin,1,0,,,,,,,true
+prequel_first,Nynaeve al'Meara,59,58,74,440063,b13:c20,Towers of Midnight,b14:c36,A Memory of Light,false
+prequel_first,Olver,4,3,35,230042,b13:cEpilogue,Towers of Midnight,b14:c35,A Memory of Light,false
+prequel_first,Osan'gar,2,1,165,1103552,b06:cPrologue,Lord of Chaos,b09:c35,Winter's Heart,false
+prequel_first,Padan Fain,10,9,261,1788409,b06:c28,Lord of Chaos,b13:cPrologue,Towers of Midnight,false
+prequel_first,Pedron Niall,5,4,171,967639,b03:cPrologue,The Dragon Reborn,b06:cPrologue,Lord of Chaos,false
+prequel_first,Perrin Aybara,135,134,104,676376,b04:c56,The Shadow Rising,b06:c45,Lord of Chaos,false
+prequel_first,Pevara,7,6,16,96939,b14:c4,A Memory of Light,b14:c21,A Memory of Light,false
+prequel_first,Pevara Tazanovni,4,3,105,593352,b11:cEpilogue,Knife of Dreams,b13:c53,Towers of Midnight,false
+prequel_first,Raefar Kisman,1,0,,,,,,,true
+prequel_first,Rahvin,1,0,,,,,,,true
+prequel_first,Rand al'Thor,202,201,59,322783,b12:c50,The Gathering Storm,b13:cEpilogue,Towers of Midnight,false
+prequel_first,Reanne Corly,2,1,4,22609,b07:c24,A Crown of Swords,b07:c29,A Crown of Swords,false
+prequel_first,Renald Fanwar,1,0,,,,,,,true
+prequel_first,Rhadam Asunawa,1,0,,,,,,,true
+prequel_first,Rhuarc,1,0,,,,,,,true
+prequel_first,Rodel Ituralde,12,11,59,328022,b12:c10,The Gathering Storm,b13:c18,Towers of Midnight,false
+prequel_first,Romanda Cassin,3,2,184,1325802,b06:c37,Lord of Chaos,b11:c23,Knife of Dreams,false
+prequel_first,Saerin Asnobar,1,0,,,,,,,true
+prequel_first,Sahra Covenry,1,0,,,,,,,true
+prequel_first,Samitsu,1,0,,,,,,,true
+prequel_first,Sammael,2,1,16,115977,b06:c6,Lord of Chaos,b06:c23,Lord of Chaos,false
+prequel_first,Sarene Nemdahl,1,0,,,,,,,true
+prequel_first,Seaine Herimon,3,2,35,253044,b07:c32,A Crown of Swords,b08:c26,The Path of Daggers,false
+prequel_first,Seanchan Rider,1,0,,,,,,,true
+prequel_first,Semirhage,2,1,253,1772959,b06:c6,Lord of Chaos,b12:c22,The Gathering Storm,false
+prequel_first,Sevanna,6,5,52,337990,b06:cPrologue,Lord of Chaos,b06:c53,Lord of Chaos,false
+prequel_first,Shaidar Haran,1,0,,,,,,,true
+prequel_first,Shaisam,2,1,1,2810,b14:c45,A Memory of Light,b14:c47,A Memory of Light,false
+prequel_first,Shalon din Togara Morning Tide,2,1,0,0,b09:c23,Winter's Heart,b09:c24,Winter's Heart,false
+prequel_first,Shendla,1,0,,,,,,,true
+prequel_first,Sheriam Bayanar,3,2,147,1054402,b08:c16,The Path of Daggers,b12:c25,The Gathering Storm,false
+prequel_first,Silviana Brehon,1,0,,,,,,,true
+prequel_first,Siuan Sanche,16,15,162,1166731,b06:c37,Lord of Chaos,b11:c1,Knife of Dreams,false
+prequel_first,Slayer,1,0,,,,,,,true
+prequel_first,Sorilea,1,0,,,,,,,true
+prequel_first,Sulin,1,0,,,,,,,true
+prequel_first,Suroth Sabelle Meldarath,3,2,313,2124112,b04:c1,The Shadow Rising,b11:cPrologue,Knife of Dreams,false
+prequel_first,Talmanes,3,2,36,213933,b14:cPrologue,A Memory of Light,b14:c37,A Memory of Light,false
+prequel_first,Tam al'Thor,2,1,12,30111,b14:c37,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+prequel_first,Tarna Feir,1,0,,,,,,,true
+prequel_first,Thom Merrilin,2,1,3,7413,b14:c44,A Memory of Light,b14:c48,A Memory of Light,false
+prequel_first,Thomdril Merrilin,4,3,76,348763,b02:c34,The Great Hunt,b04:c4,The Shadow Rising,false
+prequel_first,Timna,1,0,,,,,,,true
+prequel_first,Toveine Gazal,2,1,5,27710,b08:c26,The Path of Daggers,b09:cPrologue,Winter's Heart,false
+prequel_first,Tuon Athaem Kore Paendrag,7,6,79,613398,b09:c14,Winter's Heart,b11:c26,Knife of Dreams,false
+prequel_first,Tylee Khirgan,1,0,,,,,,,true
+prequel_first,Uno Nomesta,1,0,,,,,,,true
+prequel_first,Varek,1,0,,,,,,,true
+prequel_first,Verin Mathwin,5,4,161,1007578,b03:c21,The Dragon Reborn,b06:c11,Lord of Chaos,false
+prequel_first,Vilnar Barada,1,0,,,,,,,true
+prequel_first,Weilin Aldragoran,1,0,,,,,,,true
+prequel_first,Yukiri,1,0,,,,,,,true
+publication,Abaldar Yulan,1,0,,,,,,,true
+publication,Adelorna Bastine,1,0,,,,,,,true
+publication,Alliandre Maritha Kigarin,1,0,,,,,,,true
+publication,Almen Bunt,1,0,,,,,,,true
+publication,Almurat Mor,1,0,,,,,,,true
+publication,Alteima,1,0,,,,,,,true
+publication,Alviarin Freidhen,5,4,63,467933,b08:c25,The Path of Daggers,b10:c21,Crossroads of Twilight,false
+publication,Androl Genhald,9,8,22,125464,b14:c14,A Memory of Light,b14:c37,A Memory of Light,false
+publication,Aran'gar,2,1,113,772092,b08:c16,The Path of Daggers,b11:c3,Knife of Dreams,false
+publication,Arymilla Marne,1,0,,,,,,,true
+publication,Asmodean,1,0,,,,,,,true
+publication,Asne Zeramene,1,0,,,,,,,true
+publication,Assid Bakuun,1,0,,,,,,,true
+publication,Atal Mishraile,1,0,,,,,,,true
+publication,Aviendha,22,21,167,1168253,b08:c1,The Path of Daggers,b12:c3,The Gathering Storm,false
+publication,Bain,1,0,,,,,,,true
+publication,Barmellin,1,0,,,,,,,true
+publication,Barriga,1,0,,,,,,,true
+publication,Bayle Domon,4,3,19,92025,b02:c9,The Great Hunt,b02:c29,The Great Hunt,false
+publication,Bayrd,1,0,,,,,,,true
+publication,Beonin Marinye,1,0,,,,,,,true
+publication,Berelain,1,0,,,,,,,true
+publication,Bertome Saighan,1,0,,,,,,,true
+publication,Bethamin Zeami,1,0,,,,,,,true
+publication,Birgitte,2,1,37,245385,b14:c12,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+publication,Birgitte Silverbow,2,1,80,451579,b11:c32,Knife of Dreams,b13:c22,Towers of Midnight,false
+publication,Cadsuane Melaidhrin,16,15,78,515431,b10:c24,Crossroads of Twilight,b12:c5,The Gathering Storm,false
+publication,Chulein,1,0,,,,,,,true
+publication,Cyndane,1,0,,,,,,,true
+publication,Dain Bornhald,2,1,29,175497,b04:c1,The Shadow Rising,b04:c31,The Shadow Rising,false
+publication,Daved Hanlon,2,1,54,389858,b08:c28,The Path of Daggers,b10:c15,Crossroads of Twilight,false
+publication,Davram Bashere,2,1,43,277861,b08:c24,The Path of Daggers,b10:cPrologue,Crossroads of Twilight,false
+publication,Delana Mosalaine,3,2,146,1023717,b06:c37,Lord of Chaos,b10:c17,Crossroads of Twilight,false
+publication,Demandred,6,5,246,1561345,b09:c35,Winter's Heart,b14:c37,A Memory of Light,false
+publication,Demira Eriff,1,0,,,,,,,true
+publication,Dyelin Taravin,1,0,,,,,,,true
+publication,Eamon Valda,3,2,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+publication,Eben Hopwil,1,0,,,,,,,true
+publication,Egeanin Tamarath,3,2,221,1490142,b04:c46,The Shadow Rising,b09:c21,Winter's Heart,false
+publication,Egwene al'Vere,114,113,53,390073,b08:c30,The Path of Daggers,b10:c16,Crossroads of Twilight,false
+publication,Elaida do Avriny a'Roihan,7,6,113,731734,b05:cPrologue,The Fires of Heaven,b07:cPrologue,A Crown of Swords,false
+publication,Elayne Trakand,76,75,66,374452,b11:c35,Knife of Dreams,b13:c11,Towers of Midnight,false
+publication,Elenia Sarand,1,0,,,,,,,true
+publication,Ellorien Traemane,1,0,,,,,,,true
+publication,Elza Penfell,2,1,24,211292,b09:c35,Winter's Heart,b10:c24,Crossroads of Twilight,false
+publication,Ethenielle Kirukon Materasu,1,0,,,,,,,true
+publication,Faile,4,3,1,4645,b14:c35,A Memory of Light,b14:c37,A Memory of Light,false
+publication,Faile Bashere,22,21,106,714871,b06:cPrologue,Lord of Chaos,b08:c8,The Path of Daggers,false
+publication,Falendre,1,0,,,,,,,true
+publication,Falion Bhoda,2,1,17,130155,b06:cEpilogue,Lord of Chaos,b07:c17,A Crown of Swords,false
+publication,Fortuona,2,1,12,65618,b14:c24,A Memory of Light,b14:c37,A Memory of Light,false
+publication,Furyk Karede,4,3,88,615089,b10:c4,Crossroads of Twilight,b11:c34,Knife of Dreams,false
+publication,Gabrelle,1,0,,,,,,,true
+publication,Galad Damodred,3,2,15,84196,b14:c16,A Memory of Light,b14:c32,A Memory of Light,false
+publication,Galadedrid Damodred,11,10,90,572965,b11:cPrologue,Knife of Dreams,b13:cPrologue,Towers of Midnight,false
+publication,Galina Casban,6,5,115,751774,b08:c11,The Path of Daggers,b11:cPrologue,Knife of Dreams,false
+publication,Gareth Bryne,5,4,334,2263913,b05:c28,The Fires of Heaven,b12:c41,The Gathering Storm,false
+publication,Gaul,1,0,,,,,,,true
+publication,Gawyn Trakand,18,17,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+publication,Geofram Bornhald,5,4,23,123933,b02:c5,The Great Hunt,b02:c29,The Great Hunt,false
+publication,Gerard Arganda,1,0,,,,,,,true
+publication,Gholam,1,0,,,,,,,true
+publication,Graendal,9,8,153,1057598,b08:c12,The Path of Daggers,b12:cPrologue,The Gathering Storm,false
+publication,Hadnan Kadere,2,1,22,140253,b05:c29,The Fires of Heaven,b05:c52,The Fires of Heaven,false
+publication,Harine din Togara Two Winds,1,0,,,,,,,true
+publication,Hurin,1,0,,,,,,,true
+publication,Ila,1,0,,,,,,,true
+publication,Isam,1,0,,,,,,,true
+publication,Jaichim Carridin,4,3,149,997294,b04:c38,The Shadow Rising,b07:c15,A Crown of Swords,false
+publication,Jaret Byar,1,0,,,,,,,true
+publication,Jesse Bilal,1,0,,,,,,,true
+publication,Joline Maza,1,0,,,,,,,true
+publication,Juilin Sandar,1,0,,,,,,,true
+publication,Jur Grady,1,0,,,,,,,true
+publication,Katerine Alruddin,2,1,24,170826,b06:cPrologue,Lord of Chaos,b06:c25,Lord of Chaos,false
+publication,Kennar Miraj,1,0,,,,,,,true
+publication,Lan Mandragoran,24,23,92,611637,b00:c26,New Spring,b13:cPrologue,Towers of Midnight,false
+publication,Leane Sharif,2,1,141,818638,b12:c6,The Gathering Storm,b14:c37,A Memory of Light,false
+publication,Leilwin Shipless,1,0,,,,,,,true
+publication,Lelaine Akashi,1,0,,,,,,,true
+publication,Lews Therin Telamon,1,0,,,,,,,true
+publication,Liandrin,4,3,139,707344,b02:c5,The Great Hunt,b04:c38,The Shadow Rising,false
+publication,Logain Ablar,3,2,5,13391,b14:c37,A Memory of Light,b14:c43,A Memory of Light,false
+publication,Loial,6,5,146,887987,b11:c19,Knife of Dreams,b14:c16,A Memory of Light,false
+publication,Luan Norwelyn,1,0,,,,,,,true
+publication,Lyrelle,1,0,,,,,,,true
+publication,Maeric,1,0,,,,,,,true
+publication,Malenarin Rai,1,0,,,,,,,true
+publication,Masema Dagar,1,0,,,,,,,true
+publication,Matrim Cauthon,104,103,49,358573,b07:c39,A Crown of Swords,b09:c15,Winter's Heart,false
+publication,Mazrim Taim,1,0,,,,,,,true
+publication,Merana Ambrey,3,2,26,187763,b06:c49,Lord of Chaos,b07:c19,A Crown of Swords,false
+publication,Mesaana,2,1,353,2330560,b06:cPrologue,Lord of Chaos,b13:c37,Towers of Midnight,false
+publication,Mili Skane,1,0,,,,,,,true
+publication,Min Farshaw,31,30,115,801669,b09:c33,Winter's Heart,b12:c15,The Gathering Storm,false
+publication,Moghedien,8,7,209,1322630,b09:c35,Winter's Heart,b14:cPrologue,A Memory of Light,false
+publication,Moiraine Damodred,33,32,204,1439758,b05:c52,The Fires of Heaven,b00:c2,New Spring,false
+publication,Morgase Trakand,12,11,215,1427666,b08:c8,The Path of Daggers,b13:c6,Towers of Midnight,false
+publication,Moridin,3,2,21,133750,b07:c20,A Crown of Swords,b08:cPrologue,The Path of Daggers,false
+publication,Myrelle Berengari,1,0,,,,,,,true
+publication,Narrator,8,7,68,460181,b03:c56,The Dragon Reborn,b05:c10,The Fires of Heaven,false
+publication,Nesune Bihara,2,1,1,5070,b06:c25,Lord of Chaos,b06:c27,Lord of Chaos,false
+publication,Noal Charin,1,0,,,,,,,true
+publication,Nynaeve al'Meara,59,58,80,566520,b09:c34,Winter's Heart,b11:c20,Knife of Dreams,false
+publication,Olver,4,3,35,230042,b13:cEpilogue,Towers of Midnight,b14:c35,A Memory of Light,false
+publication,Osan'gar,2,1,165,1103552,b06:cPrologue,Lord of Chaos,b09:c35,Winter's Heart,false
+publication,Padan Fain,10,9,288,1910271,b06:c28,Lord of Chaos,b13:cPrologue,Towers of Midnight,false
+publication,Pedron Niall,5,4,171,967639,b03:cPrologue,The Dragon Reborn,b06:cPrologue,Lord of Chaos,false
+publication,Perrin Aybara,135,134,104,676376,b04:c56,The Shadow Rising,b06:c45,Lord of Chaos,false
+publication,Pevara,7,6,16,96939,b14:c4,A Memory of Light,b14:c21,A Memory of Light,false
+publication,Pevara Tazanovni,4,3,105,593352,b11:cEpilogue,Knife of Dreams,b13:c53,Towers of Midnight,false
+publication,Raefar Kisman,1,0,,,,,,,true
+publication,Rahvin,1,0,,,,,,,true
+publication,Rand al'Thor,202,201,59,322783,b12:c50,The Gathering Storm,b13:cEpilogue,Towers of Midnight,false
+publication,Reanne Corly,2,1,4,22609,b07:c24,A Crown of Swords,b07:c29,A Crown of Swords,false
+publication,Renald Fanwar,1,0,,,,,,,true
+publication,Rhadam Asunawa,1,0,,,,,,,true
+publication,Rhuarc,1,0,,,,,,,true
+publication,Rodel Ituralde,12,11,59,328022,b12:c10,The Gathering Storm,b13:c18,Towers of Midnight,false
+publication,Romanda Cassin,3,2,211,1447664,b06:c37,Lord of Chaos,b11:c23,Knife of Dreams,false
+publication,Saerin Asnobar,1,0,,,,,,,true
+publication,Sahra Covenry,1,0,,,,,,,true
+publication,Samitsu,1,0,,,,,,,true
+publication,Sammael,2,1,16,115977,b06:c6,Lord of Chaos,b06:c23,Lord of Chaos,false
+publication,Sarene Nemdahl,1,0,,,,,,,true
+publication,Seaine Herimon,3,2,35,253044,b07:c32,A Crown of Swords,b08:c26,The Path of Daggers,false
+publication,Seanchan Rider,1,0,,,,,,,true
+publication,Semirhage,2,1,280,1894821,b06:c6,Lord of Chaos,b12:c22,The Gathering Storm,false
+publication,Sevanna,6,5,52,337990,b06:cPrologue,Lord of Chaos,b06:c53,Lord of Chaos,false
+publication,Shaidar Haran,1,0,,,,,,,true
+publication,Shaisam,2,1,1,2810,b14:c45,A Memory of Light,b14:c47,A Memory of Light,false
+publication,Shalon din Togara Morning Tide,2,1,0,0,b09:c23,Winter's Heart,b09:c24,Winter's Heart,false
+publication,Shendla,1,0,,,,,,,true
+publication,Sheriam Bayanar,3,2,174,1176264,b08:c16,The Path of Daggers,b12:c25,The Gathering Storm,false
+publication,Silviana Brehon,1,0,,,,,,,true
+publication,Siuan Sanche,16,15,172,1187245,b06:c37,Lord of Chaos,b00:c12,New Spring,false
+publication,Slayer,1,0,,,,,,,true
+publication,Sorilea,1,0,,,,,,,true
+publication,Sulin,1,0,,,,,,,true
+publication,Suroth Sabelle Meldarath,3,2,340,2245974,b04:c1,The Shadow Rising,b11:cPrologue,Knife of Dreams,false
+publication,Talmanes,3,2,36,213933,b14:cPrologue,A Memory of Light,b14:c37,A Memory of Light,false
+publication,Tam al'Thor,2,1,12,30111,b14:c37,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+publication,Tarna Feir,1,0,,,,,,,true
+publication,Thom Merrilin,2,1,3,7413,b14:c44,A Memory of Light,b14:c48,A Memory of Light,false
+publication,Thomdril Merrilin,4,3,76,348763,b02:c34,The Great Hunt,b04:c4,The Shadow Rising,false
+publication,Timna,1,0,,,,,,,true
+publication,Toveine Gazal,2,1,5,27710,b08:c26,The Path of Daggers,b09:cPrologue,Winter's Heart,false
+publication,Tuon Athaem Kore Paendrag,7,6,106,735260,b09:c14,Winter's Heart,b11:c26,Knife of Dreams,false
+publication,Tylee Khirgan,1,0,,,,,,,true
+publication,Uno Nomesta,1,0,,,,,,,true
+publication,Varek,1,0,,,,,,,true
+publication,Verin Mathwin,5,4,161,1007578,b03:c21,The Dragon Reborn,b06:c11,Lord of Chaos,false
+publication,Vilnar Barada,1,0,,,,,,,true
+publication,Weilin Aldragoran,1,0,,,,,,,true
+publication,Yukiri,1,0,,,,,,,true
+main_series,Abaldar Yulan,1,0,,,,,,,true
+main_series,Adelorna Bastine,1,0,,,,,,,true
+main_series,Alliandre Maritha Kigarin,1,0,,,,,,,true
+main_series,Almen Bunt,1,0,,,,,,,true
+main_series,Almurat Mor,1,0,,,,,,,true
+main_series,Alteima,1,0,,,,,,,true
+main_series,Alviarin Freidhen,5,4,63,467933,b08:c25,The Path of Daggers,b10:c21,Crossroads of Twilight,false
+main_series,Androl Genhald,9,8,22,125464,b14:c14,A Memory of Light,b14:c37,A Memory of Light,false
+main_series,Aran'gar,2,1,86,650230,b08:c16,The Path of Daggers,b11:c3,Knife of Dreams,false
+main_series,Arymilla Marne,1,0,,,,,,,true
+main_series,Asmodean,1,0,,,,,,,true
+main_series,Asne Zeramene,1,0,,,,,,,true
+main_series,Assid Bakuun,1,0,,,,,,,true
+main_series,Atal Mishraile,1,0,,,,,,,true
+main_series,Aviendha,22,21,140,1046391,b08:c1,The Path of Daggers,b12:c3,The Gathering Storm,false
+main_series,Bain,1,0,,,,,,,true
+main_series,Barmellin,1,0,,,,,,,true
+main_series,Barriga,1,0,,,,,,,true
+main_series,Bayle Domon,4,3,19,92025,b02:c9,The Great Hunt,b02:c29,The Great Hunt,false
+main_series,Bayrd,1,0,,,,,,,true
+main_series,Beonin Marinye,1,0,,,,,,,true
+main_series,Berelain,1,0,,,,,,,true
+main_series,Bertome Saighan,1,0,,,,,,,true
+main_series,Bethamin Zeami,1,0,,,,,,,true
+main_series,Birgitte,2,1,37,245385,b14:c12,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+main_series,Birgitte Silverbow,2,1,80,451579,b11:c32,Knife of Dreams,b13:c22,Towers of Midnight,false
+main_series,Cadsuane Melaidhrin,16,15,51,393569,b10:c24,Crossroads of Twilight,b12:c5,The Gathering Storm,false
+main_series,Chulein,1,0,,,,,,,true
+main_series,Cyndane,1,0,,,,,,,true
+main_series,Dain Bornhald,2,1,29,175497,b04:c1,The Shadow Rising,b04:c31,The Shadow Rising,false
+main_series,Daved Hanlon,2,1,54,389858,b08:c28,The Path of Daggers,b10:c15,Crossroads of Twilight,false
+main_series,Davram Bashere,2,1,43,277861,b08:c24,The Path of Daggers,b10:cPrologue,Crossroads of Twilight,false
+main_series,Delana Mosalaine,3,2,146,1023717,b06:c37,Lord of Chaos,b10:c17,Crossroads of Twilight,false
+main_series,Demandred,6,5,219,1439483,b09:c35,Winter's Heart,b14:c37,A Memory of Light,false
+main_series,Demira Eriff,1,0,,,,,,,true
+main_series,Dyelin Taravin,1,0,,,,,,,true
+main_series,Eamon Valda,3,2,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+main_series,Eben Hopwil,1,0,,,,,,,true
+main_series,Egeanin Tamarath,3,2,221,1490142,b04:c46,The Shadow Rising,b09:c21,Winter's Heart,false
+main_series,Egwene al'Vere,114,113,53,390073,b08:c30,The Path of Daggers,b10:c16,Crossroads of Twilight,false
+main_series,Elaida do Avriny a'Roihan,7,6,113,731734,b05:cPrologue,The Fires of Heaven,b07:cPrologue,A Crown of Swords,false
+main_series,Elayne Trakand,76,75,66,374452,b11:c35,Knife of Dreams,b13:c11,Towers of Midnight,false
+main_series,Elenia Sarand,1,0,,,,,,,true
+main_series,Ellorien Traemane,1,0,,,,,,,true
+main_series,Elza Penfell,2,1,24,211292,b09:c35,Winter's Heart,b10:c24,Crossroads of Twilight,false
+main_series,Ethenielle Kirukon Materasu,1,0,,,,,,,true
+main_series,Faile,4,3,1,4645,b14:c35,A Memory of Light,b14:c37,A Memory of Light,false
+main_series,Faile Bashere,22,21,106,714871,b06:cPrologue,Lord of Chaos,b08:c8,The Path of Daggers,false
+main_series,Falendre,1,0,,,,,,,true
+main_series,Falion Bhoda,2,1,17,130155,b06:cEpilogue,Lord of Chaos,b07:c17,A Crown of Swords,false
+main_series,Fortuona,2,1,12,65618,b14:c24,A Memory of Light,b14:c37,A Memory of Light,false
+main_series,Furyk Karede,4,3,61,493227,b10:c4,Crossroads of Twilight,b11:c34,Knife of Dreams,false
+main_series,Gabrelle,1,0,,,,,,,true
+main_series,Galad Damodred,3,2,15,84196,b14:c16,A Memory of Light,b14:c32,A Memory of Light,false
+main_series,Galadedrid Damodred,11,10,90,572965,b11:cPrologue,Knife of Dreams,b13:cPrologue,Towers of Midnight,false
+main_series,Galina Casban,6,5,88,629912,b08:c11,The Path of Daggers,b11:cPrologue,Knife of Dreams,false
+main_series,Gareth Bryne,5,4,307,2142051,b05:c28,The Fires of Heaven,b12:c41,The Gathering Storm,false
+main_series,Gaul,1,0,,,,,,,true
+main_series,Gawyn Trakand,18,17,109,729762,b07:cPrologue,A Crown of Swords,b10:cPrologue,Crossroads of Twilight,false
+main_series,Geofram Bornhald,5,4,23,123933,b02:c5,The Great Hunt,b02:c29,The Great Hunt,false
+main_series,Gerard Arganda,1,0,,,,,,,true
+main_series,Gholam,1,0,,,,,,,true
+main_series,Graendal,9,8,126,935736,b08:c12,The Path of Daggers,b12:cPrologue,The Gathering Storm,false
+main_series,Hadnan Kadere,2,1,22,140253,b05:c29,The Fires of Heaven,b05:c52,The Fires of Heaven,false
+main_series,Harine din Togara Two Winds,1,0,,,,,,,true
+main_series,Hurin,1,0,,,,,,,true
+main_series,Ila,1,0,,,,,,,true
+main_series,Isam,1,0,,,,,,,true
+main_series,Jaichim Carridin,4,3,149,997294,b04:c38,The Shadow Rising,b07:c15,A Crown of Swords,false
+main_series,Jaret Byar,1,0,,,,,,,true
+main_series,Jesse Bilal,1,0,,,,,,,true
+main_series,Joline Maza,1,0,,,,,,,true
+main_series,Juilin Sandar,1,0,,,,,,,true
+main_series,Jur Grady,1,0,,,,,,,true
+main_series,Katerine Alruddin,2,1,24,170826,b06:cPrologue,Lord of Chaos,b06:c25,Lord of Chaos,false
+main_series,Kennar Miraj,1,0,,,,,,,true
+main_series,Lan Mandragoran,16,15,18,99155,b13:c23,Towers of Midnight,b13:c42,Towers of Midnight,false
+main_series,Leane Sharif,2,1,141,818638,b12:c6,The Gathering Storm,b14:c37,A Memory of Light,false
+main_series,Leilwin Shipless,1,0,,,,,,,true
+main_series,Lelaine Akashi,1,0,,,,,,,true
+main_series,Lews Therin Telamon,1,0,,,,,,,true
+main_series,Liandrin,4,3,139,707344,b02:c5,The Great Hunt,b04:c38,The Shadow Rising,false
+main_series,Logain Ablar,3,2,5,13391,b14:c37,A Memory of Light,b14:c43,A Memory of Light,false
+main_series,Loial,6,5,146,887987,b11:c19,Knife of Dreams,b14:c16,A Memory of Light,false
+main_series,Luan Norwelyn,1,0,,,,,,,true
+main_series,Lyrelle,1,0,,,,,,,true
+main_series,Maeric,1,0,,,,,,,true
+main_series,Malenarin Rai,1,0,,,,,,,true
+main_series,Masema Dagar,1,0,,,,,,,true
+main_series,Matrim Cauthon,104,103,49,358573,b07:c39,A Crown of Swords,b09:c15,Winter's Heart,false
+main_series,Mazrim Taim,1,0,,,,,,,true
+main_series,Merana Ambrey,3,2,26,187763,b06:c49,Lord of Chaos,b07:c19,A Crown of Swords,false
+main_series,Mesaana,2,1,326,2208698,b06:cPrologue,Lord of Chaos,b13:c37,Towers of Midnight,false
+main_series,Mili Skane,1,0,,,,,,,true
+main_series,Min Farshaw,31,30,88,679807,b09:c33,Winter's Heart,b12:c15,The Gathering Storm,false
+main_series,Moghedien,8,7,182,1200768,b09:c35,Winter's Heart,b14:cPrologue,A Memory of Light,false
+main_series,Moiraine Damodred,11,10,369,2491365,b05:c52,The Fires of Heaven,b14:c16,A Memory of Light,false
+main_series,Morgase Trakand,12,11,188,1305804,b08:c8,The Path of Daggers,b13:c6,Towers of Midnight,false
+main_series,Moridin,3,2,21,133750,b07:c20,A Crown of Swords,b08:cPrologue,The Path of Daggers,false
+main_series,Myrelle Berengari,1,0,,,,,,,true
+main_series,Narrator,8,7,68,460181,b03:c56,The Dragon Reborn,b05:c10,The Fires of Heaven,false
+main_series,Nesune Bihara,2,1,1,5070,b06:c25,Lord of Chaos,b06:c27,Lord of Chaos,false
+main_series,Noal Charin,1,0,,,,,,,true
+main_series,Nynaeve al'Meara,59,58,74,440063,b13:c20,Towers of Midnight,b14:c36,A Memory of Light,false
+main_series,Olver,4,3,35,230042,b13:cEpilogue,Towers of Midnight,b14:c35,A Memory of Light,false
+main_series,Osan'gar,2,1,165,1103552,b06:cPrologue,Lord of Chaos,b09:c35,Winter's Heart,false
+main_series,Padan Fain,10,9,261,1788409,b06:c28,Lord of Chaos,b13:cPrologue,Towers of Midnight,false
+main_series,Pedron Niall,5,4,171,967639,b03:cPrologue,The Dragon Reborn,b06:cPrologue,Lord of Chaos,false
+main_series,Perrin Aybara,135,134,104,676376,b04:c56,The Shadow Rising,b06:c45,Lord of Chaos,false
+main_series,Pevara,7,6,16,96939,b14:c4,A Memory of Light,b14:c21,A Memory of Light,false
+main_series,Pevara Tazanovni,4,3,105,593352,b11:cEpilogue,Knife of Dreams,b13:c53,Towers of Midnight,false
+main_series,Raefar Kisman,1,0,,,,,,,true
+main_series,Rahvin,1,0,,,,,,,true
+main_series,Rand al'Thor,202,201,59,322783,b12:c50,The Gathering Storm,b13:cEpilogue,Towers of Midnight,false
+main_series,Reanne Corly,2,1,4,22609,b07:c24,A Crown of Swords,b07:c29,A Crown of Swords,false
+main_series,Renald Fanwar,1,0,,,,,,,true
+main_series,Rhadam Asunawa,1,0,,,,,,,true
+main_series,Rhuarc,1,0,,,,,,,true
+main_series,Rodel Ituralde,12,11,59,328022,b12:c10,The Gathering Storm,b13:c18,Towers of Midnight,false
+main_series,Romanda Cassin,3,2,184,1325802,b06:c37,Lord of Chaos,b11:c23,Knife of Dreams,false
+main_series,Saerin Asnobar,1,0,,,,,,,true
+main_series,Sahra Covenry,1,0,,,,,,,true
+main_series,Samitsu,1,0,,,,,,,true
+main_series,Sammael,2,1,16,115977,b06:c6,Lord of Chaos,b06:c23,Lord of Chaos,false
+main_series,Sarene Nemdahl,1,0,,,,,,,true
+main_series,Seaine Herimon,3,2,35,253044,b07:c32,A Crown of Swords,b08:c26,The Path of Daggers,false
+main_series,Seanchan Rider,1,0,,,,,,,true
+main_series,Semirhage,2,1,253,1772959,b06:c6,Lord of Chaos,b12:c22,The Gathering Storm,false
+main_series,Sevanna,6,5,52,337990,b06:cPrologue,Lord of Chaos,b06:c53,Lord of Chaos,false
+main_series,Shaidar Haran,1,0,,,,,,,true
+main_series,Shaisam,2,1,1,2810,b14:c45,A Memory of Light,b14:c47,A Memory of Light,false
+main_series,Shalon din Togara Morning Tide,2,1,0,0,b09:c23,Winter's Heart,b09:c24,Winter's Heart,false
+main_series,Shendla,1,0,,,,,,,true
+main_series,Sheriam Bayanar,3,2,147,1054402,b08:c16,The Path of Daggers,b12:c25,The Gathering Storm,false
+main_series,Silviana Brehon,1,0,,,,,,,true
+main_series,Siuan Sanche,15,14,162,1166731,b06:c37,Lord of Chaos,b11:c1,Knife of Dreams,false
+main_series,Slayer,1,0,,,,,,,true
+main_series,Sorilea,1,0,,,,,,,true
+main_series,Sulin,1,0,,,,,,,true
+main_series,Suroth Sabelle Meldarath,3,2,313,2124112,b04:c1,The Shadow Rising,b11:cPrologue,Knife of Dreams,false
+main_series,Talmanes,3,2,36,213933,b14:cPrologue,A Memory of Light,b14:c37,A Memory of Light,false
+main_series,Tam al'Thor,2,1,12,30111,b14:c37,A Memory of Light,b14:cEpilogue,A Memory of Light,false
+main_series,Tarna Feir,1,0,,,,,,,true
+main_series,Thom Merrilin,2,1,3,7413,b14:c44,A Memory of Light,b14:c48,A Memory of Light,false
+main_series,Thomdril Merrilin,4,3,76,348763,b02:c34,The Great Hunt,b04:c4,The Shadow Rising,false
+main_series,Timna,1,0,,,,,,,true
+main_series,Toveine Gazal,2,1,5,27710,b08:c26,The Path of Daggers,b09:cPrologue,Winter's Heart,false
+main_series,Tuon Athaem Kore Paendrag,7,6,79,613398,b09:c14,Winter's Heart,b11:c26,Knife of Dreams,false
+main_series,Tylee Khirgan,1,0,,,,,,,true
+main_series,Uno Nomesta,1,0,,,,,,,true
+main_series,Varek,1,0,,,,,,,true
+main_series,Verin Mathwin,5,4,161,1007578,b03:c21,The Dragon Reborn,b06:c11,Lord of Chaos,false
+main_series,Vilnar Barada,1,0,,,,,,,true
+main_series,Weilin Aldragoran,1,0,,,,,,,true
+main_series,Yukiri,1,0,,,,,,,true
