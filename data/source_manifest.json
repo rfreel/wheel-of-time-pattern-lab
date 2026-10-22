@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0",
-  "status": "REFERENCES_ONLY_NOT_IMPORTED",
+  "schema_version": "1.1",
+  "status": "PARTIAL_CURATED_METADATA_IMPORT",
   "sources": [
     {
       "name": "WOT_Article_Core_v1.zip",
@@ -16,6 +16,22 @@
       "name": "WOT_Completion_Pass5_Atlas_v1.zip",
       "imported": false,
       "historical_status": "INCOMPLETE"
+    }
+  ],
+  "curated_imports": [
+    {
+      "path": "data/aggregate/chapters.csv",
+      "rows": 704,
+      "source": "WOT_Article_Core_v1.zip/data/chapter_metadata.csv",
+      "import_mode": "parsed_text_rows",
+      "full_source_imported": false
+    },
+    {
+      "path": "data/aggregate/pov_segments.csv",
+      "rows": 1379,
+      "source": "WOT_72_Voices_v1.zip/WOT_DEEP_FIND/pov_segments.csv",
+      "import_mode": "parsed_text_rows",
+      "full_source_imported": false
     }
   ]
 }
