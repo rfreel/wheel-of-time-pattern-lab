@@ -4,6 +4,10 @@ Reproducible computational research across fifteen *Wheel of Time* novels. Indep
 
 **Status:** curated chapter/POV metadata imported; full numerical source archives remain external. GitHub Actions verifies the imported records.
 
+## Featured research
+
+**[The Characters Who Waited to Be Heard](features/the-characters-who-waited/ARTICLE.md)** is a complete-series-spoiler feature combining ten long-delayed first-POV appearances with a reproducible comparison of chapter-boundary POV continuity and adjacent lexical divergence. [Interactive editorial edition](features/the-characters-who-waited/index.html) (open offline; GitHub Pages not yet enabled). Claims are descriptive, and the source data, methods, and limitations are linked from the feature. No novel text is published.
+
 ## Research
 
 - [R01](research/questions.yaml): **Recurring architecture**. Do structural motifs recur across books?
