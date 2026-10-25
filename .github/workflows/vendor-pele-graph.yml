@@ -1,0 +1,41 @@
+name: Vendor Pele in graph explorer
+on:
+  push:
+    paths:
+      - .github/workflows/vendor-pele-graph.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  vendor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch Pele release and preserve license
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p pele-pkg explorer/pele-graph/vendor
+          npm pack pele@1.10.0 --pack-destination pele-pkg
+          tar -xzf pele-pkg/pele-1.10.0.tgz -C pele-pkg
+          cp pele-pkg/package/dist/pele.global.js explorer/pele-graph/vendor/pele.global.js
+          cp pele-pkg/package/LICENSE explorer/pele-graph/vendor/PELE-LICENSE.txt
+          echo 'dd70e44152f7d70d62fedc622f588db3f5855859b444f4d8cf274925c12f2651  explorer/pele-graph/vendor/pele.global.js' | sha256sum -c -
+      - name: Commit reproducible runtime
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add explorer/pele-graph/vendor/pele.global.js explorer/pele-graph/vendor/PELE-LICENSE.txt
+          if git diff --cached --quiet; then
+            echo 'Runtime already committed'
+          else
+            git commit -m 'Vendor verified Pele runtime for graph atlas'
+            git push origin HEAD:main
+          fi
