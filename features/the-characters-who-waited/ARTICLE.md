@@ -10,7 +10,7 @@ In the final volume of *The Wheel of Time*, a number of those long-observed char
 
 That number does not mean 592 chapters of absence. It measures something subtler: **the distance between being seen and being permitted to see**.
 
-**Measured intervals:** Tam 661; Ila 635; Logain 623; Hurin and Uno 599; Silviana 585; Rhuarc 518; Juilin 508; Mazrim Taim 383; Gerard Arganda 252 intervening chapters.
+<!-- EXPOSURE_CHART -->
 
 Consider Tam al'Thor. In the main-series chapter index, his first recorded appearance is in the very first chapter of *The Eye of the World*. His first recorded internal viewpoint does not arrive until “The Last Battle”: **661 intervening chapters**. The index places **31 other appearances** before that moment. Hurin and Uno first appear in *The Great Hunt*, then wait **599 intervening chapters** for their first indexed viewpoints. Logain's gap is **623** chapters; Rhuarc's is **518**.
 
@@ -28,7 +28,7 @@ Take two adjacent chapters. Record the final viewpoint character of the first, a
 
 Those percentages use a restricted comparison: consecutive chapters within the same book, both at least 2,000 tokens long, with non-character labels such as “Quote” excluded. That makes the contrast less vulnerable to very short front matter and anomalous segments. It does not make the two groups experimentally equivalent.
 
-| Measure | Books 1–11 | Books 12–14 |\n|---|---:|---:|\n| Same-POV chapter boundary | 206/496 (41.5%) | 9/143 (6.3%) |\n| Mean adjacent lexical divergence | 0.2575 bits | 0.2944 bits |
+<!-- SEAM_CHART -->
 
 The final books also show a second, independent difference. Neighboring chapters are more dissimilar in their vocabulary. Their mean **Jensen–Shannon divergence**—a measure of how differently two chapters distribute words—is **0.2575 bits** for books 1–11 and **0.2944 bits** for books 12–14 across the same eligible boundaries.
 

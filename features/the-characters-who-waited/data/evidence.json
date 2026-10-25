@@ -40,9 +40,8 @@
     }
   },
   "limitations": [
-    "One series; late indicator confounded with series finale and changes of writers.",
-    "Appearance-to-POV exact-name join; appearance data may be incomplete.",
-    "Post-exploratory analysis, not pre-registered confirmatory test.",
-    "POV labels do not establish semantic knowledge, author intent or reader cognition."
+    "Observational exploratory single-series comparison; not authorial causality.",
+    "Appearance crosswalk is exact-name-only; unresolved source disagreement.",
+    "POV is not direct observation of reader knowledge or comprehension."
   ]
 }

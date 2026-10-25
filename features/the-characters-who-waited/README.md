@@ -1,13 +1,9 @@
 # The Characters Who Waited to Be Heard
 
-An original, spoiler-marked, prose-free research feature from [The Pattern Lab](https://github.com/rfreel/wheel-of-time-pattern-lab).
+Original quantitative Wheel of Time essay with two JavaScript-rendered, hand-drawn diagrams. Spoilers across the complete series.
 
-**[Read the article](ARTICLE.md)** or open `index.html` locally for the interactive editorial presentation.
+Open `index.html` locally for interactive drawings, measurement toggles, and PNG export. No remote scripts, image assets or fonts are required. Numerical details are in `data/evidence.json` and `data/exposure.csv`, with source notes in `methods/METHODS.md`.
 
-Included: article, two linked numerical visuals, ten-character table, aggregate chapter-seam values, independently executable calculation, and [methods/limitations](methods/METHODS.md). The visual article has **no external JavaScript, fonts, or image dependencies**.
+Visual method inspired by [Diagrams, drawn with JavaScript](https://pele-art-diagrams.vercel.app/). This adaptation uses deterministic Canvas stroke paths and manual numeric chart geometry rather than Pele's library/layout engine. The measured values were not modified to create the illustration.
 
-The underlying EPUBs, complete novel text and private research source archives are **not published**.
-
-This is independently prepared fan analysis and not an official Wheel of Time publication. POV taxonomy and chapter appearances derive from the community wiki and retain source-specific attribution and license considerations. The essay does not claim original discovery of raw POV counts, psychological findings, author intent, or a causal relationship between its two observations.
-
-The embedded HTML is ready to open locally. **GitHub Pages hosting is not enabled or verified.**
+Independent fan research, not official and not a causal or authorship study. Private EPUBs and original novel prose are intentionally excluded.

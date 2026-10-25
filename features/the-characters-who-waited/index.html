@@ -12,13 +12,29 @@ footer{border-top:1px solid var(--ink);padding:30px clamp(24px,5vw,86px) 80px;di
 @media(max-width:1050px){.body-grid{grid-template-columns:1fr;max-width:930px;margin:auto}.running{position:static;grid-row:1;grid-column:1}.copy{grid-column:1}.copy figure{margin:60px 0}.mast{padding-left:24px;padding-right:24px}}
 @media(max-width:700px){.mast{font-size:9px;letter-spacing:.07em}.hero{padding-top:70px;padding-bottom:50px}.hero h1{font-size:clamp(57px,13.8vw,100px)}.hero-dek{font-size:23px}.giant{grid-template-columns:1fr;padding-bottom:65px;gap:10px}.number{font-size:clamp(145px,36vw,225px)}.giant-txt{font-size:27px}.body-grid{padding-top:40px;padding-bottom:80px}.copy{font-size:19px}.copy h2{margin-top:70px}.copy figure{margin:50px 0}.figure-top{display:block}.figure-actions{margin-top:22px}.exprow{grid-template-columns:100px minmax(0,1fr) 48px;gap:7px}.exprow .name{font-size:12px}.barValue{font-size:15px}.seam-pair{grid-template-columns:1fr}.big-percentage{font-size:64px}.running span{display:none}footer{padding-bottom:45px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.barFill{transition:none}}
+
+/* Drawing grammar: data geometry -> animated hand-stroked Canvas. No third-party assets. */
+.ink-instrument{position:relative;background:#e6e2d4;border:1px solid #bab9ad;box-shadow:inset 0 0 70px #ddd8c9}
+.ink-canvas{display:block;width:100%;height:auto;min-height:290px;touch-action:pan-y;background:transparent}
+.ink-toolbar{border-top:1px solid #bebbae;padding:9px 12px;display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;font:700 9px/1.4 Arial,sans-serif;letter-spacing:.13em;color:#53645d}
+.ink-toolbar button{border:1px solid #7a857d;color:#394740;background:transparent;padding:8px 10px;font:inherit;letter-spacing:.04em;cursor:pointer}
+.ink-toolbar button:hover,.ink-toolbar button:focus-visible{background:#25433d;color:#f2e9d9}
+.underlying{margin-top:10px;background:#e3e4d9;border-top:1px solid #ccc9bb;padding:8px 12px}
+.underlying summary{cursor:pointer;font:700 10px/2 Arial,sans-serif;letter-spacing:.09em;text-transform:uppercase}
+.underlying .exposure-bars{margin:20px 2px}
+.ink-table{width:100%;border-collapse:collapse;font:12px/1.5 Arial,sans-serif;text-align:left}
+.ink-table td,.ink-table th{border-bottom:1px solid #bbbdb4;padding:8px 4px}
+.ink-table caption{text-align:left;font-size:11px;color:#526359}
+.ink-attribution{font:11px/1.5 Arial,sans-serif;color:#616d66;margin-top:9px}
+@media(max-width:600px){.ink-toolbar{font-size:8px}.ink-toolbar button{padding:6px 7px}.copy figure .figure-top{align-items:start}}
+@media(prefers-reduced-motion:reduce){.ink-canvas{animation:none}}
 </style></head><body><a class="skip" href="#article">Skip to article</a><header><div class="mast"><span>THE PATTERN LAB&nbsp; / &nbsp;FIELD NOTE 01</span><span>INDEPENDENT FAN RESEARCH&nbsp; · &nbsp;2026</span></div><section class="hero"><p class="issue">READING THE PATTERN / NARRATIVE ATTENTION</p><h1>The characters<br>who waited<br><em>to be heard.</em></h1><p class="hero-dek">A quantitative look at whose eyes tell <i>The Wheel of Time</i>, and how the final books rearrange the act of looking.</p><div class="hero-meta"><span class="spoiler">COMPLETE SERIES SPOILERS</span><span class="shortmeta">15 NOVELS INDEXED &nbsp;/&nbsp; 14 MAIN NOVELS COMPARED</span></div></section><section class="giant" aria-label="Lead finding"><div class="number">592</div><div><p class="giant-txt">Median chapters between first appearance and first viewpoint, across ten Last Battle POV debuts.</p><p class="giant-micro">A MEASURE OF ACCESS TO NARRATION, NOT CHARACTER ABSENCE.</p></div></section></header><main id="article" class="body-grid"><aside class="running">NOTEBOOK 001<br><span></span>WHO GETS<br>TO LOOK?</aside><article class="copy"><p>There is a peculiar form of intimacy in a long novel: you can spend years with a character without ever being allowed inside their thoughts. They can speak, fight, disappear, return, and change the course of events. But the camera, so to speak, always belongs to someone else.</p>
 <p>In the final volume of <em>The Wheel of Time</em>, a number of those long-observed characters finally acquire a viewpoint of their own. The shift is especially visible in “The Last Battle,” the immense thirty-seventh chapter of <em>A Memory of Light</em>. Our cross-reference between a fan-maintained appearance index and a separate viewpoint index finds <strong>ten exact-name-matched characters who receive a first recorded POV in that chapter</strong>. Collectively, they had already appeared in <strong>270 indexed character–chapter records</strong>. The median distance between each character's first indexed appearance and first POV is <strong>592 intervening chapters</strong>.</p>
 <p>That number does not mean 592 chapters of absence. It measures something subtler: <strong>the distance between being seen and being permitted to see</strong>.</p>
 <p><figure class="exposure-chart" id="wait-chart" aria-labelledby="exp-caption">
 <div class="figure-top"><div><p class="specimen">FIGURE / 01 &nbsp;·&nbsp; SOURCE: FIRST APPEARANCE ↔ FIRST POV</p><h3>How long until the camera turns?</h3></div>
 <div class="figure-actions" role="group" aria-label="Chart measurement"><button type="button" class="axis active" data-metric="intervening_chapters" aria-pressed="true">Chapters waiting</button><button type="button" class="axis" data-metric="prior_appearance_chapters" aria-pressed="false">Earlier appearances</button></div></div>
-<div id="exposure-bars" class="exposure-bars" role="group" aria-label="Ten viewpoint debut intervals"></div>
+<div class="ink-instrument"><canvas id="ink-exposure" class="ink-canvas" role="img" aria-label="Pen-drawn horizontal timeline: ten characters, their appearance-to-first-POV waiting intervals from 252 to 661 chapters, all terminating in The Last Battle."></canvas><div class="ink-toolbar"><span>INSTRUMENT 01 · ORIGINAL MEASUREMENTS</span><button type="button" data-export="ink-exposure">SAVE DRAWING AS PNG</button><button type="button" data-replay="ink-exposure">REDRAW</button></div></div><details class="underlying"><summary>View exact values as text</summary><div id="exposure-bars" class="exposure-bars" role="group" aria-label="Ten viewpoint debut intervals"></div></details>
 <figcaption id="exp-caption">Ten exact-name matched first-time viewpoints in <i>The Last Battle</i>. Length measures intervening chapters, not absence from the story. <a href="data/exposure.csv">Source table ↗</a></figcaption>
 </figure></p>
 <p>Consider Tam al'Thor. In the main-series chapter index, his first recorded appearance is in the very first chapter of <em>The Eye of the World</em>. His first recorded internal viewpoint does not arrive until “The Last Battle”: <strong>661 intervening chapters</strong>. The index places <strong>31 other appearances</strong> before that moment. Hurin and Uno first appear in <em>The Great Hunt</em>, then wait <strong>599 intervening chapters</strong> for their first indexed viewpoints. Logain's gap is <strong>623</strong> chapters; Rhuarc's is <strong>518</strong>.</p>
@@ -31,8 +47,7 @@ footer{border-top:1px solid var(--ink);padding:30px clamp(24px,5vw,86px) 80px;di
 <p>Those percentages use a restricted comparison: consecutive chapters within the same book, both at least 2,000 tokens long, with non-character labels such as “Quote” excluded. That makes the contrast less vulnerable to very short front matter and anomalous segments. It does not make the two groups experimentally equivalent.</p>
 <p><figure class="seam-figure" id="seam-chart" aria-labelledby="seam-caption">
 <div class="figure-top"><div><p class="specimen">FIGURE / 02 &nbsp;·&nbsp; 639 WITHIN-BOOK CHAPTER BOUNDARIES</p><h3>Two ways chapters separate.</h3></div><div class="measurement-note">Books 1–11 compared with books 12–14</div></div>
-<div class="seam-pair"><section class="seam-panel"><p class="seam-label">Same person at the chapter boundary</p><div class="split-metric"><div><div class="big-percentage">41.5<span>%</span></div><small>BOOKS 1–11 · 206 / 496</small></div><div><div class="big-percentage">6.3<span>%</span></div><small>BOOKS 12–14 · 9 / 143</small></div></div><div class="unit-bars"><div class="lane"><span class="lane-name">01–11</span><span class="lane-track"><span class="lane-fill" style="width:41.5323%"></span></span></div><div class="lane"><span class="lane-name">12–14</span><span class="lane-track"><span class="lane-fill late" style="width:6.2937%"></span></span></div></div></section>
-<section class="seam-panel seam-dark"><p class="seam-label">Mean lexical divergence between chapters</p><div class="split-metric"><div><div class="big-percentage">.258</div><small>BOOKS 1–11 · JS BITS</small></div><div><div class="big-percentage">.294</div><small>BOOKS 12–14 · JS BITS</small></div></div><div class="unit-bars"><div class="lane"><span class="lane-name">01–11</span><span class="lane-track"><span class="lane-fill" style="width:85.84%"></span></span></div><div class="lane"><span class="lane-name">12–14</span><span class="lane-track"><span class="lane-fill late" style="width:98.12%"></span></span></div></div><p class="microcaption">Bar width scaled to 0.30 bits, not to 1 bit.</p></section></div>
+<div class="ink-instrument"><canvas id="ink-seams" class="ink-canvas" role="img" aria-label="Two hand-drawn comparisons. Same-POV chapter boundary rates: 41.5 percent in books one to eleven and 6.3 percent in books twelve to fourteen. Lexical Jensen-Shannon divergence: 0.2575 versus 0.2944 bits."></canvas><div class="ink-toolbar"><span>INSTRUMENT 02 · CHAPTER SEAMS</span><button type="button" data-export="ink-seams">SAVE DRAWING AS PNG</button><button type="button" data-replay="ink-seams">REDRAW</button></div></div><details class="underlying"><summary>View exact values as text</summary><table class="ink-table"><caption>639 chapter boundaries after exclusions</caption><thead><tr><th>Measurement</th><th>Main books 1–11</th><th>Books 12–14</th></tr></thead><tbody><tr><th scope="row">Same viewpoint across chapter boundary</th><td>206/496 (41.532%)</td><td>9/143 (6.294%)</td></tr><tr><th scope="row">Mean lexical Jensen–Shannon divergence</th><td>0.25753 bits</td><td>0.29435 bits</td></tr></tbody></table></details>
 <figcaption id="seam-caption">Same eligible boundaries: within-book adjacent chapters, each ≥2,000 source word-like tokens. Lexical divergence compares unordered token distributions. These are descriptive measures, not psychological or authorship effects. <a href="data/evidence.json">Numerical reproduction ↗</a></figcaption></figure></p>
 <p>The final books also show a second, independent difference. Neighboring chapters are more dissimilar in their vocabulary. Their mean <strong>Jensen–Shannon divergence</strong>—a measure of how differently two chapters distribute words—is <strong>0.2575 bits</strong> for books 1–11 and <strong>0.2944 bits</strong> for books 12–14 across the same eligible boundaries.</p>
 <p>This is a vocabulary measurement, not a reader's judgment that one chapter feels more abrupt. A chapter can change topic without changing narrator, and it can keep a narrator while moving across settings or situations. Yet the two measurements point in a consistent descriptive direction: the final volumes <strong>change viewpoint more frequently at chapter seams</strong>, and their adjacent chapters tend to be <strong>lexically less alike</strong>.</p>
@@ -65,4 +80,121 @@ function render(metric){
 function escapeHTML(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 document.querySelectorAll('button.axis').forEach(el=>el.addEventListener('click',()=>render(el.dataset.metric)));
 render('intervening_chapters');
+
+(function(){
+'use strict';
+const paper='#e6e2d4', ink='#253931', muted='#7b8b80', rust='#ba593b', blue='#607e80', line='#aaa89b';
+const data=exposure;
+let activeMetric='intervening_chapters';
+const state={};
+function rand(seed){return function(){seed|=0;seed=(seed+0x6D2B79F5)|0;let t=Math.imul(seed^(seed>>>15),1|seed);t=(t+Math.imul(t^(t>>>7),61|t))^t;return ((t^(t>>>14))>>>0)/4294967296}}
+function inkLine(c,x1,y1,x2,y2,color=ink,width=1.4,seed=1,extent=1,rough=1){
+ const L=Math.hypot(x2-x1,y2-y1),N=Math.max(5,Math.ceil(L/6)),r=rand(seed);
+ const dirx=(y2-y1)/(L||1),diry=-(x2-x1)/(L||1);
+ c.save();c.lineJoin='round';c.lineCap='round';c.strokeStyle=color;c.lineWidth=width;c.beginPath();
+ for(let i=0;i<=Math.floor(N*extent);i++){
+  const t=i/N,delta=((r()-.5)*rough+.45*Math.sin(t*18+seed))*Math.sin(Math.PI*t);
+  const x=x1+(x2-x1)*t+dirx*delta,y=y1+(y2-y1)*t+diry*delta;
+  if(i===0)c.moveTo(x,y);else c.lineTo(x,y);
+ }
+ c.stroke();c.restore();
+}
+function tracedLine(c,x1,y1,x2,y2,color=ink,width=1.8,seed=9,extent=1){
+ inkLine(c,x1,y1,x2,y2,color,width,seed,extent,1.5);
+ c.save();c.globalAlpha=.24;inkLine(c,x1+0.35,y1+0.8,x2+0.35,y2+0.8,color,width/2,seed+37,extent,2);c.restore();
+}
+function circle(c,x,y,r,color=ink,w=1.5,seed=7,progress=1){
+ const R=rand(seed),N=48;c.save();c.beginPath();c.strokeStyle=color;c.lineWidth=w;c.lineCap='round';
+ for(let i=0;i<=Math.floor(N*progress);i++){
+  const t=2*Math.PI*i/N,s=r+(R()-.5)*.8,xp=x+Math.cos(t)*s,yp=y+Math.sin(t)*s;
+  i===0?c.moveTo(xp,yp):c.lineTo(xp,yp);
+ }c.stroke();c.restore();
+}
+function hatch(c,x,y,w,h,col,seed=18,step=9){
+ c.save();c.beginPath();c.rect(x,y,w,h);c.clip();c.globalAlpha=.30;
+ for(let u=-h;u<w+h;u+=step){
+  tracedLine(c,x+u,y+h,x+u+h,y,col,.6,seed+u);
+ }c.restore();
+}
+function lettering(c,t,x,y,size=12,color=ink,align='left'){
+ c.save();c.font=`${size}px 'Comic Neue','Trebuchet MS',sans-serif`;c.textAlign=align;c.textBaseline='middle';c.fillStyle=color;c.fillText(t,x,y);c.restore();
+}
+function specks(c,w,h){const R=rand(9925);c.save();for(let i=0;i<Math.floor(w*h/400);i++){
+ const x=R()*w,y=R()*h;c.globalAlpha=R()*.055;c.fillStyle=i%3===0?'#fff':'#6e7467';c.fillRect(x,y,.8,.65);
+}c.globalAlpha=1;c.restore();}
+function initCanvas(id){const el=document.getElementById(id);if(!el)return null;const w=Math.max(275,Math.floor(el.getBoundingClientRect().width));const mobile=w<600;
+ const h=id==='ink-exposure'?(mobile?667:525):(mobile?522:345);const dpr=Math.min(2,window.devicePixelRatio||1);
+ el.width=Math.floor(w*dpr);el.height=Math.floor(h*dpr);el.style.height=h+'px';
+ const c=el.getContext('2d');c.setTransform(dpr,0,0,dpr,0,0);c.fillStyle=paper;c.fillRect(0,0,w,h);specks(c,w,h);
+ return {c,w,h,mobile};}
+function plotExposure(progress=1){const item=initCanvas('ink-exposure');if(!item)return;const {c,w,h,mobile}=item;
+ const max=activeMetric==='intervening_chapters'?670:50;
+ const x0=mobile?22:205, x1=w-(mobile?60:73), ly=mobile?87:86,step=mobile?53:38;
+ lettering(c,'FIRST RECORDED APPEARANCE',x0,28,mobile?10:12,blue);
+ lettering(c,'FIRST POV',x1,28,mobile?10:12,rust,'right');
+ tracedLine(c,x0,49,x1,49,muted,.95,77);
+ for(let i=0;i<=4;i++){
+  const x=x0+(x1-x0)*i/4;
+  tracedLine(c,x,49,x,h-27,'#b7bbac',.55,32+i);
+  lettering(c,String(Math.round(i*max/4)),x,h-13,10,muted,'center');
+ }
+ if(activeMetric==='intervening_chapters')lettering(c,'INTERVENING CHAPTERS (DISTANCE; NOT ABSENCE)',x0,h-31,10,blue);
+ else lettering(c,'EARLIER RECORDED CHAPTER APPEARANCES',x0,h-31,10,blue);
+ data.forEach((d,i)=>{
+  const v=d[activeMetric],y=ly+i*step,barEnd=x1,barStart=x1-(v/max)*(x1-x0);
+  if(mobile){lettering(c,d.character,x0,y-18,13,ink);lettering(c,String(v),x1+6,y-18,12,rust);}
+  else {lettering(c,d.character,x0-18,y,13,ink,'right');lettering(c,String(v),x1+16,y,14,rust)}
+  const yy=mobile?y+3:y;
+  tracedLine(c,x0,yy,x1,yy,'#bfc3b7',.7,i+57);
+  hatch(c,barStart,yy-4.5,Math.max(0,barEnd-barStart),9,blue,25+i,17);
+  if(progress>i/data.length){
+   const local=Math.min(1,(progress-i/data.length)*data.length);
+   tracedLine(c,barStart,yy,barEnd,yy,i<3?rust:blue,2.9,100+i,local);
+   circle(c,barStart,yy,3.0,ink,1.3,150+i,local);
+   if(local===1){circle(c,barEnd,yy,3.1,rust,1.3,166+i);}
+  }
+ });
+}
+function plotSeams(progress=1){const item=initCanvas('ink-seams');if(!item)return;const {c,w,h,mobile}=item;
+ const left=mobile?27:58,right=w-31,half=mobile?0:Math.floor(w/2),top1=mobile?31:38;
+ function group(x,y,width,name,unit,top,vals,max,fmt,ticks,seed){
+  lettering(c,name,x,y,15,ink);lettering(c,unit,x,y+19,10,muted);
+  const gx=x+5,xe=x+width-26,sy=y+56,rowHeight=mobile?69:71;
+  for(let i=0;i<2;i++){
+   const [label,n]=vals[i],ty=sy+i*rowHeight,valx=gx+(xe-gx)*n/max;
+   lettering(c,label,gx,ty-16,12,ink);lettering(c,fmt(n),xe+7,ty-16,12,i?rust:blue,'right');
+   tracedLine(c,gx,ty,xe,ty,'#abb2a6',1,seed+i);
+   for(let k=0;k<=ticks;k++){
+    const xx=gx+(xe-gx)*k/ticks;
+    tracedLine(c,xx,ty-3,xx,ty+5,'#989e93',.65,k*43+i);
+   }
+   const local=Math.max(0,Math.min(1,progress*2.5-i*.58));
+   hatch(c,gx,ty-6,(valx-gx)*local,12,i?rust:blue,i*13+seed,12);
+   tracedLine(c,gx,ty,valx,ty,i?rust:blue,4.1,seed+99+i,local);
+   if(local>0)circle(c,gx+(valx-gx)*local,ty,3.8,i?rust:blue,1.1,seed+47+i);
+  }
+  lettering(c,`0 … ${fmt(max)}`,gx,y+56+2*rowHeight+9,10,muted);
+ }
+ if(mobile){
+  group(left,top1,right-left,'A / SAME VIEWPOINT','SHARE OF ELIGIBLE CHAPTER BOUNDARIES',0,[['MAIN BOOKS 01—11',206/496],['FINAL BOOKS 12—14',9/143]],.5,n=>(n*100).toFixed(1)+'%',5,4);
+  tracedLine(c,left,258,right,258,'#a5aa9e',1.2,22);
+  group(left,272,right-left,'B / LEXICAL DIVERGENCE','MEAN JS DIVERGENCE, BITS',0,[['MAIN BOOKS 01—11',.2575338321],['FINAL BOOKS 12—14',.2943505921]],.35,n=>n.toFixed(3),7,14);
+ }else{
+  tracedLine(c,half,23,half,h-27,'#9ba298',1,26);
+  group(left,top1,half-left-24,'A / SAME VIEWPOINT','SHARE OF CHAPTER BOUNDARIES',0,[['MAIN BOOKS 01—11',206/496],['FINAL BOOKS 12—14',9/143]],.5,n=>(n*100).toFixed(1)+'%',5,4);
+  group(half+27,top1,right-half-2,'B / LEXICAL DIVERGENCE','MEAN JS DIVERGENCE, BITS',0,[['MAIN BOOKS 01—11',.2575338321],['FINAL BOOKS 12—14',.2943505921]],.35,n=>n.toFixed(3),7,14);
+ }
+}
+const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+function paint(progress){plotExposure(progress);plotSeams(progress);}
+let animationId=0;
+function animate(){cancelAnimationFrame(animationId);if(reduced){paint(1);return;}const start=performance.now();let last=-1;function tick(now){const p=Math.min(1,(now-start)/1650);if(p-last>0.025||p>=1){paint(p);last=p;}if(p<1)animationId=requestAnimationFrame(tick)}animationId=requestAnimationFrame(tick);}
+function redraw(){cancelAnimationFrame(animationId);paint(1);}
+let resized;window.addEventListener('resize',()=>{clearTimeout(resized);resized=setTimeout(redraw,95);});
+document.querySelectorAll('.axis').forEach(button=>button.addEventListener('click',()=>{activeMetric=button.dataset.metric;animate();}));
+document.querySelectorAll('[data-replay]').forEach(button=>button.addEventListener('click',()=>{const only=button.dataset.replay;cancelAnimationFrame(animationId);if(reduced){redraw();return;}const start=performance.now();function tick(now){const p=Math.min(1,(now-start)/900);if(only==='ink-exposure')plotExposure(p);else plotSeams(p);if(p<1)animationId=requestAnimationFrame(tick)}animationId=requestAnimationFrame(tick);}));
+document.querySelectorAll('[data-export]').forEach(button=>button.addEventListener('click',()=>{const id=button.dataset.export,c=document.getElementById(id);let name=id==='ink-exposure'?'waiting-voices':'chapter-seams';c.toBlob(blob=>{if(!blob)return;const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name+'.png';a.click();setTimeout(()=>URL.revokeObjectURL(url),3000)},'image/png');}));
+// Visible pixels are a data-driven decoration; source values remain in the accessible table and article prose.
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',animate);else animate();
+})();
 </script></body></html>

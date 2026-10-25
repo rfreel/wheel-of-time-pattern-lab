@@ -1,38 +1,42 @@
-# Source notes and reproducibility
+# Methods and evidence ledger
 
-This is an **exploratory descriptive fan feature**, not an authorship or reader-cognition study. Structural spoilers for all fourteen main novels. No EPUB prose is included.
+**Scope:** An exploratory, descriptive feature, not a confirmatory psychological or authorship study. Complete-series structural spoilers.
 
-## The two source indexes
+## Data and provenance
 
-The main [WoT Wiki POV dataset](https://wot.fandom.com/wiki/Statistical_analysis) independently reports 1,379 POV segments across the prequel and fourteen novels. The separate [character-appearance index](https://wot.fandom.com/wiki/List_of_character_appearances) records chapter-level appearances. A character's appearance is not their POV, dialogue, or interior thought.
+- `WOT_Article_Core_v1.zip`: `data/chapter_metadata.csv` (704 included chapter IDs) and `data/adjacent_chapter_js.csv` (689 within-book adjacent chapter pairs; Jensen–Shannon divergence in bits from unordered token frequencies). These are privately generated research aggregates based on user-held novels. This bundle itself is not republished.
+- `frozen_pov_segments.csv`: 1,379 source-defined POV entries (including *New Spring*, pseudolabels, and a single unaligned *Ravens* segment). It was reconciled to the internal chapter IDs.
+- `WOT_EXPOSURE_STUDY/last_battle_exposure.csv`: ten exact-name-matched, first-time POV debut entries in *A Memory of Light* 37, derived by crossing the independently curated POV and appearance indexes. Original fan-wiki sources: [POV statistical analysis](https://wot.fandom.com/wiki/Statistical_analysis) and [character appearances](https://wot.fandom.com/wiki/List_of_character_appearances). See the original exposure audit for source-index disagreements and conditional-null experiments.
+- [Prior community POV analysis (2022)](https://www.reddit.com/r/WoT/comments/wp7224/character_pov_charts_and_analysis_11_images/) and [chapter-structure observations (2024)](https://www.reddit.com/r/WoT/comments/1bdw4mq) mean neither raw POV proliferation nor the perception of different chapter pacing is novel.
 
-The exposure crosswalk uses **exact-name joins only**. In *A Memory of Light* chapter 37, eleven curated POV owners first receive viewpoints; ten have exact appearance-index matches. Their 270 earlier indexed appearances and **592-chapter median interval** were independently recomputed from the ten-character table. The intervals count **chapters strictly between** first appearance and first recorded POV in the fourteen-book main series. They do *not* count chapters where a character was absent.
+## Exposure-debt calculation
 
-The remaining eleventh label, Berelain, is not an exact appearance-name match. Hurin and Ila appear in the POV index in chapter 37 but lack a corresponding appearance-index entry **in that chapter**. This conflict is retained rather than silently reconciled. New Spring is excluded from these delays because prequel insertion changes book-order gaps.
+- Use chronological main-series book indices 1..14. Do not insert `New Spring`, because doing so distorts gap durations.
+- For each exact-matched character, let `a` be first indexed appearance chapter and `v` be first recorded POV chapter. The number of **intervening included chapters** is `index(v) - index(a) - 1`, not a count of chapters in which a person is absent. `prior_appearance_chapters` counts recorded chapter appearances strictly before `v`.
+- The ten matches sum to **270 prior appearances**; the sorted 10 gaps have median **592 chapters**. Tam's recorded interval is **661**, with **31** earlier chapter appearances. Of 11 first-time POV labels in chapter 37, Berelain does not resolve to an exact appearance-name match in this source pair. Hurin and Ila lack an appearance entry *in that first-POV chapter*; retain that contradiction.
+- This is **not** a verified first experience of private thought in the prose, nor an estimate of the character's actual time in-world.
 
-The raw fan source indexes may be subject to attribution and share-alike conditions. Credit their authors and follow links above. This published ten-row table is a derived numerical subset; original novels and complete fan indexes are not redistributed.
+## Chapter-seam calculation
 
-## The chapter-boundary comparison
+- For each within-book adjacent chapter pair from the Jensen–Shannon source, identify the final eligible POV label of the earlier chapter and the first eligible POV label of the later chapter.
+- Exclude the `Quote`, `Narrator`, and `Seanchan Rider` labels from individual-character POV handoffs. Require both chapters to have at least **2,000 source word-like tokens** and recorded eligible POV labels.
+- Predefined grouping for this exploratory feature: main books **1–11** vs **12–14**. Included boundaries **496** and **143** respectively, with **206** and **9** same-POV handoffs (41.532% and 6.294%). Mean Jensen–Shannon divergence **0.257533832** and **0.294350592** bits respectively.
+- Exploratory OLS: `JS ~ intercept + late_12_14 + same_pov + log(mean_chapter_words) + abs(log(word_ratio))`, with errors clustered by the 14 book IDs. Late-group coefficient **+0.020241 bits**, clustered SE **0.008183**. Same-POV coefficient **−0.032864 bits**, SE **0.003001**. Chapter boundaries are not independent literary experiments. The late group has only three book clusters. The grouping and reported results were selected during earlier exploration, not independently preregistered.
+- Sensitivity already recorded in the internal independent audit: omitting book 12 gives late coefficient ~+0.01607; omitting 13 gives ~+0.01529; excluding 14 gives +0.02901. These are observational estimates, not effects attributable to Sanderson.
 
-Private research source: `WOT_Article_Core_v1.zip`, files `data/adjacent_chapter_js.csv` (689 within-book neighbor records) and `data/chapter_metadata.csv` (704 included chapter IDs); and a reconciled 1,379-segment `frozen_pov_segments.csv`. The reproducible producer accompanies the downloadable feature archive.
+## Confidence boundaries and falsifiers
 
-For every adjacent chapter pair *within one main-series book*, take the final eligible POV label of the earlier chapter and first eligible POV label of the later. Exclude `Quote`, `Narrator`, and `Seanchan Rider`. Require both chapters to contain at least 2,000 source word-like tokens.
+1. The two findings are *juxtaposed*, not causally joined: exposure debt is individual-character/chapter-37 level; seam statistics are book-boundary level.
+2. POV segment labels come from a fan-maintained taxonomy. Quote labels, unnamed roles, aliases and scene splits can change counts. The XHTML scene breaks and curated POV segments disagree by one in *The Last Battle* (73 vs 72), so no individual scene boundary is presented as independently verified focalization.
+3. Lexical divergence captures word distribution, not direct judgments of suspense, comprehension or emotional continuity.
+4. A `first POV` can expose new facts, repeat known facts or change rhetorical perspective; no independent semantic annotation decides among them.
+5. An alternate book grouping, different length threshold, alternative tokenizer, different POV segmentation, or external literary controls could change the size of the associations. The most important missing test is replication outside this one series.
+6. The Last Battle debut concentration is **not robust across null models**: opportunity models predict ~3.50 to 9.09 expected debuts in chapter 37 among a restricted eligible cohort; corresponding one-sided p estimates vary from ~0.00244 to ~0.86753.
 
-Early (books 1–11): **206/496** same-POV chapter handoffs (**41.532%**); mean lexical Jensen–Shannon divergence **0.257533832** bits.
+## Reproduction and verification
 
-Late (books 12–14): **9/143** same-POV chapter handoffs (**6.294%**); mean lexical Jensen–Shannon divergence **0.294350592** bits.
+Run `python methods/reproduce.py --core /private/path/WOT_Article_Core_v1.zip --pov /private/path/frozen_pov_segments.csv --exposure /private/path/last_battle_exposure.csv --output data/evidence.json`. Requires `numpy` and `statsmodels`; the script checks exact totals and summary values and refuses silently divergent data. The private source archives are not included with the public feature. The source tables and counts were independently regenerated in this working session; the publication bundle contains only text-free derived evidence.
 
-Lexical divergence is from unordered word distributions; it does not measure emotional disorientation, suspense, comprehension or scene quality.
+## Rights
 
-Exploratory pooled OLS model:
-`JS ~ late_12_14 + same_pov + log(mean_length) + abs(log(length_ratio))`, with standard errors clustered by book. The late coefficient is **+0.020241 bits** (book-cluster SE 0.008183); same-POV coefficient **−0.032864 bits** (SE 0.003001). These are *associations*, not effects. The comparison is a single series with three late-book clusters, and the grouping follows prior exploration rather than independent preregistration.
-
-Across alternative nulls, the expected count of eligible first-POV debuts in The Last Battle ranges from 3.50 to 9.09; tail probabilities vary substantially. Consequently **no robust rarity claim** is advanced for its debut clustering. The two findings are juxtaposed as distinct views of narrative perspective, not joined causally.
-
-## Prior work and interpretation
-
-The basic proliferation of POV segments and perceived chapter-pacing shifts were already visible in [community POV charts (2022)](https://www.reddit.com/r/WoT/comments/wp7224/character_pov_charts_and_analysis_11_images/) and [reader discussion (2024)](https://www.reddit.com/r/WoT/comments/1bdw4mq). [Publisher information](https://us.macmillan.com/series/wheeloftime) confirms the final books' bibliographic history; final-volume structure and authorship are confounded, not statistically separable by these comparisons.
-
-## Verification
-
-Use the full download's `methods/reproduce.py` with the private original research source bundle, the POV CSV and the ten-character crosswalk to re-run all primary estimates. The script asserts 10 matches, 270 appearances, median 592, boundaries 496/143, handoffs 206/9, and the lexical/OLS coefficients. Public `data/evidence.json` and `data/exposure.csv` are **text-free evidence**, not copyrighted excerpts. The original private files are intentionally excluded from this public feature.
+The published essay and visualization are original commentary. Numerical tables are derived from multiple fan indexes that may carry different licenses. Link to and credit the original wiki/data authors; consult their current licensing conditions before redistributing their full indexes. Do not ship original novel text, EPUB content, or the private FTS database.
