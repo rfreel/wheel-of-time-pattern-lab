@@ -1,0 +1,48 @@
+{
+  "scope": {
+    "main_series_books": "1..14",
+    "prequel_excluded": true,
+    "min_words_each_chapter": 2000,
+    "excluded_pov_labels": [
+      "Quote",
+      "Narrator",
+      "Seanchan Rider"
+    ],
+    "unit": "adjacent chapters within the same book"
+  },
+  "exposure": {
+    "n_exact_name_matches": 10,
+    "earlier_chapter_appearances": 270,
+    "median_intervening_chapters": 592
+  },
+  "chapter_seams": {
+    "early": {
+      "n_boundaries": 496,
+      "n_same_pov": 206,
+      "same_pov_share": 0.4153225806451613,
+      "mean_js_bits": 0.2575338321035448
+    },
+    "late": {
+      "n_boundaries": 143,
+      "n_same_pov": 9,
+      "same_pov_share": 0.06293706293706294,
+      "mean_js_bits": 0.29435059207679826
+    }
+  },
+  "association_ols": {
+    "late": {
+      "coefficient": 0.02024110611240763,
+      "cluster_se": 0.008182908560791933
+    },
+    "same_pov": {
+      "coefficient": -0.032863747576323904,
+      "cluster_se": 0.0030012798053981786
+    }
+  },
+  "limitations": [
+    "One series; late indicator confounded with series finale and changes of writers.",
+    "Appearance-to-POV exact-name join; appearance data may be incomplete.",
+    "Post-exploratory analysis, not pre-registered confirmatory test.",
+    "POV labels do not establish semantic knowledge, author intent or reader cognition."
+  ]
+}
