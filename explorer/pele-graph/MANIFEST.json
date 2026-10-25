@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "description": "Complete source-typed research graph visualized through bounded Pele Mermaid SVGs",
+  "source": "WOT_Knowledge_v2_Public_Safe.zip/v2/public_safe/wot_graph_v2.graphml",
+  "source_graphml_sha256": "94a8dc8214cdec3d8406343717f827a062b6e9a489b7ab23182ec4015d2adf00",
+  "node_count": 6713,
+  "edge_count": 30817,
+  "node_type_count": 10,
+  "edge_type_count": 11,
+  "independently_adjudicated_semantic_relations": 0,
+  "renderer": "Pele 1.10.0, MIT, installed from official npm distribution via GitHub Actions",
+  "renderer_sha256": "dd70e44152f7d70d62fedc622f588db3f5855859b444f4d8cf274925c12f2651",
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "size_bytes": 2182,
+      "sha256": "9043cbdda02404e7b703efeb37e1b723865ec9b6e1d25cba8dfd2eb8772e9669"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 1085,
+      "sha256": "22466d9a9419a5860a641262360b19de3b373f2964c5b0c9f364bf261e792e44"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4724,
+      "sha256": "2c81d11ae2c5a835780e3b24fc46506d36cfd2ae20333e81e57bd5f440ca70d5"
+    },
+    {
+      "path": "The_Pattern_Graph_Standalone.html",
+      "size_bytes": 4569758,
+      "sha256": "009c0cf12b25faac4c40b1e56bd5126815f776dce55cf8d4c6d344a4cdfed813"
+    },
+    {
+      "path": "app.js",
+      "size_bytes": 24502,
+      "sha256": "fb37f788dba22fcebe498f596bfc955e2370793a8ad7c0596b8943a9a0f17842"
+    },
+    {
+      "path": "assets/browser-results.json",
+      "size_bytes": 2064,
+      "sha256": "ac1a6b92e5da6c3ae94b520f40d5e1e3849bcfa30ce5704e548dcbb04f2373bf"
+    },
+    {
+      "path": "assets/build-report.json",
+      "size_bytes": 452,
+      "sha256": "031f34a00340544bc4058ada4815cf81890ad9bc94f0b18a43ba531af37afce9"
+    },
+    {
+      "path": "assets/graph-data.js",
+      "size_bytes": 3814645,
+      "sha256": "f27e6584d77a74902a47a4789f6bc9ce6c3589314a4e4db0f9ceea8a88420341"
+    },
+    {
+      "path": "assets/graph-loader.js",
+      "size_bytes": 1075,
+      "sha256": "ff64f81a1ed454e8c7019e38d08b2fa4a248058379268ad85c8276ef25b6638a"
+    },
+    {
+      "path": "assets/graph-part-00.js",
+      "size_bytes": 85092,
+      "sha256": "58efc98d1cf9fa4f7249627ad46f0567598421bf5d3ee65e7185fe4df29a7838"
+    },
+    {
+      "path": "assets/graph-part-01.js",
+      "size_bytes": 85092,
+      "sha256": "af49848a69df2153b0404037b05a491f0ce37c5fc41c60abb996316b7b9b4df1"
+    },
+    {
+      "path": "assets/graph-part-02.js",
+      "size_bytes": 85092,
+      "sha256": "d955d19f8986b3913d36aaa870df98c8ad529d23eef6d2c319fc8895dbe0f7c2"
+    },
+    {
+      "path": "assets/graph-part-03.js",
+      "size_bytes": 85092,
+      "sha256": "274bb33a86e06429d7c6cc2d7592ac65a4d937abcac358deb265b0d304ce7c29"
+    },
+    {
+      "path": "assets/graph-part-04.js",
+      "size_bytes": 85092,
+      "sha256": "ef6ee0956814c4c5a05d4a2001ee5c294db11d5fd842167d3661a773c49e5c14"
+    },
+    {
+      "path": "assets/graph-part-05.js",
+      "size_bytes": 85092,
+      "sha256": "639ac27a6adf337bca6e24657ddbbb47377d3701d971e94b9c9d9f431bf5619d"
+    },
+    {
+      "path": "assets/graph-part-06.js",
+      "size_bytes": 59960,
+      "sha256": "89f4a23901ac3134f31438c5c17b78609012b3306092842a5a97a273fa1bceb7"
+    },
+    {
+      "path": "assets/original-graph.graphml",
+      "size_bytes": 9048711,
+      "sha256": "94a8dc8214cdec3d8406343717f827a062b6e9a489b7ab23182ec4015d2adf00"
+    },
+    {
+      "path": "assets/summary.json",
+      "size_bytes": 2724,
+      "sha256": "e376f764e90e4817fb96efa616f23d2207f3c93768bd2cacbd07b333b367d062"
+    },
+    {
+      "path": "index.hosted.html",
+      "size_bytes": 7675,
+      "sha256": "576c4cfbbccb6842765509e7e64d7fefbddb8ee98eb0e1cd1eebe41e1ed4cc5c"
+    },
+    {
+      "path": "index.html",
+      "size_bytes": 7320,
+      "sha256": "eef571517520a1d55592a3e50fb473abbca979db38951d074ceb425cb22b3fa2"
+    },
+    {
+      "path": "scripts/browser_smoke.py",
+      "size_bytes": 3869,
+      "sha256": "94890de7f7ec17f05b6ebfca513addbb7560f4d12a71111ff4a45fa4503e9939"
+    },
+    {
+      "path": "scripts/build.py",
+      "size_bytes": 5825,
+      "sha256": "f8e050d172a6d864cc4dc76fd877fd46164cf8ea80d16134422669f5a1351d75"
+    },
+    {
+      "path": "scripts/build_standalone.py",
+      "size_bytes": 1073,
+      "sha256": "d11d6c71601103587e5a97ee388ed32c2a2cef63460c92e93b5fd5426659377e"
+    },
+    {
+      "path": "scripts/pack_data.py",
+      "size_bytes": 2386,
+      "sha256": "6e1267264be961925f7763d940a3c100cca8481673020106e3f787381a250560"
+    },
+    {
+      "path": "scripts/release.py",
+      "size_bytes": 2103,
+      "sha256": "e7d178411d3eefbeceb8729a3d057c649327f73a94c135e0967651f2e4f389ae"
+    },
+    {
+      "path": "styles.css",
+      "size_bytes": 14040,
+      "sha256": "1d1537c49b7feb298b555d7432b51bf6b94b070bee67b5bda82adb8894438152"
+    },
+    {
+      "path": "tests/test_package.py",
+      "size_bytes": 1684,
+      "sha256": "47b1678fc374f2fb04a4f0eacfe31c002404c2731b4dfef4d5e128fc6cc1ae8e"
+    },
+    {
+      "path": "tests/test_source_graph.py",
+      "size_bytes": 3202,
+      "sha256": "1c86ed2ff86bbfff7e3e603cd54c115ede2b6250573489f0fe533b209dae6c96"
+    },
+    {
+      "path": "vendor/PELE-LICENSE.txt",
+      "size_bytes": 1934,
+      "sha256": "311bccc30de6f7b9cbfb64232bb0c911ccb2191abe316550813ae25b2c7925b9"
+    },
+    {
+      "path": "vendor/SHA256SUMS.txt",
+      "size_bytes": 89,
+      "sha256": "466e92a69d332aa5a13d19f6d8540ba1290f3073d9777ce9637ea44f18ed70b2"
+    },
+    {
+      "path": "vendor/pele.global.js",
+      "size_bytes": 709352,
+      "sha256": "dd70e44152f7d70d62fedc622f588db3f5855859b444f4d8cf274925c12f2651"
+    }
+  ]
+}
