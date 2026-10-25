@@ -1,0 +1,49 @@
+name: Validate Pele graph atlas
+on:
+  push:
+    paths:
+      - explorer/pele-graph/**
+      - .github/workflows/test-pele-graph.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify complete graph and render a Pele diagram
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd explorer/pele-graph
+          node --check app.js
+          node --check assets/graph-loader.js
+          node --check vendor/pele.global.js
+          for part in assets/graph-part-*.js; do node --check "$part"; done
+          printf 'dd70e44152f7d70d62fedc622f588db3f5855859b444f4d8cf274925c12f2651  vendor/pele.global.js\n' | sha256sum -c -
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm'),zlib=require('zlib'),assert=require('assert');
+          const ctx={window:{}};
+          for(let i=0;i<7;i++) vm.runInNewContext(fs.readFileSync('assets/graph-part-'+String(i).padStart(2,'0')+'.js','utf8'),ctx);
+          const raw=zlib.gunzipSync(Buffer.from(ctx.window.PATTERN_GRAPH_PARTS.join(''),'base64'));
+          const g=JSON.parse(raw.toString('utf8'));
+          assert.equal(g.nodes.length,6713);assert.equal(g.edges.length,30817);
+          assert.equal(g.types.nodeTypes.length,10);assert.equal(g.types.edgeTypes.length,11);
+          for(const [a,b,t,meta] of g.edges){
+            assert(Number.isInteger(a)&&a>=0&&a<g.nodes.length);
+            assert(Number.isInteger(b)&&b>=0&&b<g.nodes.length);
+            assert(Number.isInteger(t)&&t>=0&&t<g.types.edgeTypes.length);
+          }
+          const counts={};
+          for(const [, ,t] of g.edges){const k=g.types.edgeTypes[t],f=g.types.edgeFamily[k];counts[f]=(counts[f]||0)+1;}
+          assert.deepEqual(counts,{source:4822,curated:2526,lexical:22269,pending:1200});
+          const ctxP={};vm.runInNewContext(fs.readFileSync('vendor/pele.global.js','utf8'),ctxP);
+          assert.equal(typeof ctxP.pele.render,'function');
+          const {svg}=ctxP.pele.render('flowchart LR\n  A["6,713 nodes"] -->|"30,817 edges"| B["Evidence graph"]');
+          assert(svg.startsWith('<svg') && svg.includes('Evidence graph'));
+          console.log('PASS: 6,713 graph nodes, 30,817 edges, all endpoints, four evidence classes, Pele SVG render');
+          NODE
