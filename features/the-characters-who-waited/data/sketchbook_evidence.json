@@ -1,0 +1,469 @@
+{
+  "book_count": 15,
+  "main_chapters": 677,
+  "last_battle_main_chapter": 663,
+  "exposure": [
+    {
+      "name": "Tam al'Thor",
+      "start": 1,
+      "end": 663,
+      "gap": 661,
+      "prior": 31,
+      "first_chapter": "b01:c1"
+    },
+    {
+      "name": "Ila",
+      "start": 27,
+      "end": 663,
+      "gap": 635,
+      "prior": 5,
+      "first_chapter": "b01:c27"
+    },
+    {
+      "name": "Logain Ablar",
+      "start": 39,
+      "end": 663,
+      "gap": 623,
+      "prior": 28,
+      "first_chapter": "b01:c39"
+    },
+    {
+      "name": "Hurin",
+      "start": 63,
+      "end": 663,
+      "gap": 599,
+      "prior": 28,
+      "first_chapter": "b02:c9"
+    },
+    {
+      "name": "Uno Nomesta",
+      "start": 63,
+      "end": 663,
+      "gap": 599,
+      "prior": 32,
+      "first_chapter": "b02:c9"
+    },
+    {
+      "name": "Silviana Brehon",
+      "start": 77,
+      "end": 663,
+      "gap": 585,
+      "prior": 19,
+      "first_chapter": "b02:c23"
+    },
+    {
+      "name": "Rhuarc",
+      "start": 144,
+      "end": 663,
+      "gap": 518,
+      "prior": 41,
+      "first_chapter": "b03:c39"
+    },
+    {
+      "name": "Juilin Sandar",
+      "start": 154,
+      "end": 663,
+      "gap": 508,
+      "prior": 47,
+      "first_chapter": "b03:c49"
+    },
+    {
+      "name": "Mazrim Taim",
+      "start": 279,
+      "end": 663,
+      "gap": 383,
+      "prior": 16,
+      "first_chapter": "b06:c2"
+    },
+    {
+      "name": "Gerard Arganda",
+      "start": 410,
+      "end": 663,
+      "gap": 252,
+      "prior": 23,
+      "first_chapter": "b09:c2"
+    }
+  ],
+  "wheel": [
+    {
+      "p": "Lan Mandragoran",
+      "first": false,
+      "segment_id": "pov:1239"
+    },
+    {
+      "p": "Elayne Trakand",
+      "first": false,
+      "segment_id": "pov:1240"
+    },
+    {
+      "p": "Uno Nomesta",
+      "first": true,
+      "segment_id": "pov:1241"
+    },
+    {
+      "p": "Logain Ablar",
+      "first": true,
+      "segment_id": "pov:1242"
+    },
+    {
+      "p": "Gawyn Trakand",
+      "first": false,
+      "segment_id": "pov:1243"
+    },
+    {
+      "p": "Tam al'Thor",
+      "first": true,
+      "segment_id": "pov:1244"
+    },
+    {
+      "p": "Pevara",
+      "first": false,
+      "segment_id": "pov:1245"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1246"
+    },
+    {
+      "p": "Galad Damodred",
+      "first": false,
+      "segment_id": "pov:1247"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1248"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1249"
+    },
+    {
+      "p": "Gawyn Trakand",
+      "first": false,
+      "segment_id": "pov:1250"
+    },
+    {
+      "p": "Faile",
+      "first": false,
+      "segment_id": "pov:1251"
+    },
+    {
+      "p": "Perrin Aybara",
+      "first": false,
+      "segment_id": "pov:1252"
+    },
+    {
+      "p": "Androl Genhald",
+      "first": false,
+      "segment_id": "pov:1253"
+    },
+    {
+      "p": "Rhuarc",
+      "first": true,
+      "segment_id": "pov:1254"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1255"
+    },
+    {
+      "p": "Silviana Brehon",
+      "first": true,
+      "segment_id": "pov:1256"
+    },
+    {
+      "p": "Elayne Trakand",
+      "first": false,
+      "segment_id": "pov:1257"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1258"
+    },
+    {
+      "p": "Min Farshaw",
+      "first": false,
+      "segment_id": "pov:1259"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1260"
+    },
+    {
+      "p": "Demandred",
+      "first": false,
+      "segment_id": "pov:1261"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1262"
+    },
+    {
+      "p": "Juilin Sandar",
+      "first": true,
+      "segment_id": "pov:1263"
+    },
+    {
+      "p": "Pevara",
+      "first": false,
+      "segment_id": "pov:1264"
+    },
+    {
+      "p": "Galad Damodred",
+      "first": false,
+      "segment_id": "pov:1265"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1266"
+    },
+    {
+      "p": "Tam al'Thor",
+      "first": false,
+      "segment_id": "pov:1267"
+    },
+    {
+      "p": "Fortuona",
+      "first": false,
+      "segment_id": "pov:1268"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1269"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1270"
+    },
+    {
+      "p": "Tam al'Thor",
+      "first": false,
+      "segment_id": "pov:1271"
+    },
+    {
+      "p": "Elayne Trakand",
+      "first": false,
+      "segment_id": "pov:1272"
+    },
+    {
+      "p": "Galad Damodred",
+      "first": false,
+      "segment_id": "pov:1273"
+    },
+    {
+      "p": "Nynaeve al'Meara",
+      "first": false,
+      "segment_id": "pov:1274"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1275"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1276"
+    },
+    {
+      "p": "Galad Damodred",
+      "first": false,
+      "segment_id": "pov:1277"
+    },
+    {
+      "p": "Androl Genhald",
+      "first": false,
+      "segment_id": "pov:1278"
+    },
+    {
+      "p": "Gerard Arganda",
+      "first": true,
+      "segment_id": "pov:1279"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1280"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1281"
+    },
+    {
+      "p": "Olver",
+      "first": false,
+      "segment_id": "pov:1282"
+    },
+    {
+      "p": "Leane Sharif",
+      "first": false,
+      "segment_id": "pov:1283"
+    },
+    {
+      "p": "Talmanes",
+      "first": false,
+      "segment_id": "pov:1284"
+    },
+    {
+      "p": "Faile",
+      "first": false,
+      "segment_id": "pov:1285"
+    },
+    {
+      "p": "Logain Ablar",
+      "first": false,
+      "segment_id": "pov:1286"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1287"
+    },
+    {
+      "p": "Ila",
+      "first": true,
+      "segment_id": "pov:1288"
+    },
+    {
+      "p": "Olver",
+      "first": false,
+      "segment_id": "pov:1289"
+    },
+    {
+      "p": "Logain Ablar",
+      "first": false,
+      "segment_id": "pov:1290"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1291"
+    },
+    {
+      "p": "Hurin",
+      "first": true,
+      "segment_id": "pov:1292"
+    },
+    {
+      "p": "Berelain",
+      "first": true,
+      "segment_id": "pov:1293"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1294"
+    },
+    {
+      "p": "Mazrim Taim",
+      "first": true,
+      "segment_id": "pov:1295"
+    },
+    {
+      "p": "Elayne Trakand",
+      "first": false,
+      "segment_id": "pov:1296"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1297"
+    },
+    {
+      "p": "Min Farshaw",
+      "first": false,
+      "segment_id": "pov:1298"
+    },
+    {
+      "p": "Egwene al'Vere",
+      "first": false,
+      "segment_id": "pov:1299"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1300"
+    },
+    {
+      "p": "Leane Sharif",
+      "first": false,
+      "segment_id": "pov:1301"
+    },
+    {
+      "p": "Berelain",
+      "first": false,
+      "segment_id": "pov:1302"
+    },
+    {
+      "p": "Matrim Cauthon",
+      "first": false,
+      "segment_id": "pov:1303"
+    },
+    {
+      "p": "Olver",
+      "first": false,
+      "segment_id": "pov:1304"
+    },
+    {
+      "p": "Loial",
+      "first": false,
+      "segment_id": "pov:1305"
+    },
+    {
+      "p": "Tam al'Thor",
+      "first": false,
+      "segment_id": "pov:1306"
+    },
+    {
+      "p": "Lan Mandragoran",
+      "first": false,
+      "segment_id": "pov:1307"
+    },
+    {
+      "p": "Min Farshaw",
+      "first": false,
+      "segment_id": "pov:1308"
+    },
+    {
+      "p": "Rand al'Thor",
+      "first": false,
+      "segment_id": "pov:1309"
+    },
+    {
+      "p": "Lan Mandragoran",
+      "first": false,
+      "segment_id": "pov:1310"
+    }
+  ],
+  "seams": [
+    {
+      "name": "Books 1–11",
+      "same": 206,
+      "total": 496,
+      "js": 0.2575338321035448
+    },
+    {
+      "name": "Books 12–14",
+      "same": 9,
+      "total": 143,
+      "js": 0.29435059207679826
+    }
+  ],
+  "sources": {
+    "exposure": "Exact-name crosswalk of independently curated appearance and POV indexes",
+    "wheel": "Frozen POV segments; chapter b14:c37",
+    "seams": "Within-book adjacent chapter pairs; both chapters ≥2,000 word-like tokens",
+    "limits": "No causal, author-intent or reader cognition inference."
+  }
+}
