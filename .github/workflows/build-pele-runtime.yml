@@ -1,0 +1,38 @@
+name: Build pinned Pele runtime
+on:
+  push:
+    paths:
+      - .github/workflows/build-pele-runtime.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch exact npm release and verify output
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p runtime package-cache
+          npm pack pele@1.10.0 --pack-destination package-cache
+          tar -xzf package-cache/pele-1.10.0.tgz -C package-cache
+          cp package-cache/package/dist/pele.global.js runtime/pele.global.js
+          cp package-cache/package/LICENSE runtime/PELE-LICENSE.txt
+          test -s runtime/pele.global.js
+          sha256sum runtime/pele.global.js > runtime/SHA256SUMS.txt
+          node - <<'NODE'
+          const fs=require('fs');
+          const src=fs.readFileSync('runtime/pele.global.js','utf8');
+          if(!src.includes('pele') || src.length<100000)throw Error('bundle sanity');
+          console.log('Pele global bundle bytes',src.length);
+          NODE
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pele-1.10.0-runtime
+          path: runtime/
+          retention-days: 30
